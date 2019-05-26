@@ -6,3 +6,4 @@
 ## 26-04-2019
 * https://www.outsideonline.com/2397250/everest-death-toll-rises-10
 * https://www.outsideonline.com/2395102/john-all-scientist-climber-everest
+* https://www.brainpickings.org/2019/05/20/marcus-aurelius-meditations-mortality-presence/
