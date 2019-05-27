@@ -9,3 +9,6 @@
 * https://www.brainpickings.org/2019/05/20/marcus-aurelius-meditations-mortality-presence/
 * https://www.outsideonline.com/2330801/does-climbing-everest-alter-your-genetic-code  (!)
  
+## 27-04-2019
+* [How computing's first 'killer app' changed everything](https://www.bbc.com/news/business-47802280)
+* 
