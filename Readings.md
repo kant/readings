@@ -12,3 +12,7 @@
 ## 27-04-2019
 * [How computing's first 'killer app' changed everything](https://www.bbc.com/news/business-47802280)
 * [Putting Los Niños in Charge - Abasto Shopping or what to do for the children in...](https://www.nytimes.com/interactive/2019/05/27/travel/family-travel-buenos-aires-argentina.html?action=click&module=Top%20Stories&pgtype=Homepage)
+
+## 28-04-2019
+* [Fixing a toxic work culture: How to encourage active bystanders](https://mitsloan.mit.edu/ideas-made-to-matter/fixing-a-toxic-work-culture-how-to-encourage-active-bystanders)
+* [The radical plan to change how antibiotics get developed](https://www.wired.com/story/the-radical-plan-to-change-how-antibiotics-get-developed/)
