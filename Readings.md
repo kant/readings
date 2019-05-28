@@ -17,4 +17,4 @@
 * [Fixing a toxic work culture: How to encourage active bystanders](https://mitsloan.mit.edu/ideas-made-to-matter/fixing-a-toxic-work-culture-how-to-encourage-active-bystanders)
 * [The radical plan to change how antibiotics get developed](https://www.wired.com/story/the-radical-plan-to-change-how-antibiotics-get-developed/)
 * [Merging financial savvy and engineering solutions](http://news.mit.edu/2019/student-james-fok-0528): _paradoxes_ about the academia and the financial state of the art
-
+* [Productivity and the joy of doing things the hard way](https://www.wired.com/story/obsession-with-productivity/) 
