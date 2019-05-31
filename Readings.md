@@ -24,3 +24,4 @@
 
 ## 30-04-2019
 * [The Compleat Guide to Digitizing Your LP Collection](http://blog.birdhouse.org/2011/02/20/digitizing-lps/comment-page-1/)
+* [Bjarke Ingels says a style is "like a straitjacket"](https://www.dezeen.com/2019/05/22/bjarke-ingels-podcast-interview-style-time-sensitive/)
