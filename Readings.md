@@ -34,4 +34,4 @@
 
 ## 02-06-2019
 * [What 10,000 Steps Will Really Get You](https://www.theatlantic.com/health/archive/2019/05/10000-steps-rule/590785/) #fitbit
-
+* [The Ennui of the Fitbit](https://www.theatlantic.com/technology/archive/2015/07/the-ennui-of-the-fitbit/398129/)
