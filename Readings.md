@@ -31,3 +31,7 @@
 
 ## 01-06-2019
 * [A behavioral economist explores poverty and development](http://news.mit.edu/2019/pierre-luc-vautrey-behavioral-economist-0531) #economics #social sciences #humanities
+
+## 02-06-2019
+* [What 10,000 Steps Will Really Get You](https://www.theatlantic.com/health/archive/2019/05/10000-steps-rule/590785/) #fitbit
+
