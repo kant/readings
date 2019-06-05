@@ -42,3 +42,6 @@
 ## 04-06-2019
 * [How Bruce Springsteen helped reelect Ronald Reagan](https://www.nationalreview.com/2019/06/bruce-springsteen-album-born-in-the-usa-ronald-reagan-reelection/?utm_source=pocket-newtab) #music
 
+## 05-06-2019
+* ['It’s a miracle': Helsinki's radical solution to homelessness](https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness?utm_source=pocket-newtab) #homeless
+
