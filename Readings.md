@@ -37,5 +37,8 @@
 * [The Ennui of the Fitbit](https://www.theatlantic.com/technology/archive/2015/07/the-ennui-of-the-fitbit/398129/) #fitbit
 
 ## 03-06-2019
-* Boeing Built Deadly Assumptions Into 737 Max, Blind to a Late Design Change](https://www.nytimes.com/2019/06/01/business/boeing-737-max-crash.html?utm_source=pocket-newtab) #aviation
+* [Boeing Built Deadly Assumptions Into 737 Max, Blind to a Late Design Change](https://www.nytimes.com/2019/06/01/business/boeing-737-max-crash.html?utm_source=pocket-newtab) #aviation
+
+## 04-06-2019
+* [How Bruce Springsteen helped reelect Ronald Reagan](https://www.nationalreview.com/2019/06/bruce-springsteen-album-born-in-the-usa-ronald-reagan-reelection/?utm_source=pocket-newtab) #music
 
