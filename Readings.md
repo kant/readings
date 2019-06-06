@@ -45,3 +45,6 @@
 ## 05-06-2019
 * ['It’s a miracle': Helsinki's radical solution to homelessness](https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness?utm_source=pocket-newtab) #homeless
 
+## 06-06-2019
+* [Scientists Save Schrödinger's Cat](https://gizmodo.com/scientists-save-schrodingers-cat-1835208353?utm_source=pocket-newtab)
+
