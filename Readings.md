@@ -47,4 +47,4 @@
 
 ## 06-06-2019
 * [Scientists Save Schrödinger's Cat](https://gizmodo.com/scientists-save-schrodingers-cat-1835208353?utm_source=pocket-newtab)
-
+* [A 3-D printer powered by machine vision and artificial intelligence](http://news.mit.edu/2019/inkbit-3d-printer-0604)
