@@ -1,7 +1,7 @@
 ## 25-04-2019
 * https://www.dezeen.com/2019/05/22/bjarke-ingels-podcast-interview-style-time-sensitive/
 * https://www.nytimes.com/2019/05/22/sports/cancer-mother.html?module=inline
-* [London Synphony orchestra, noche luminosa](http://martinwullich.com/london-symphony-orchestra-noche-luminosa/) #Sir Simon Rattle
+* [London Synphony orchestra, noche luminosa](http://martinwullich.com/london-symphony-orchestra-noche-luminosa/) #Simon Rattle
 
 ## 26-04-2019
 * https://www.outsideonline.com/2397250/everest-death-toll-rises-10
@@ -49,6 +49,8 @@
 * [Scientists Save Schrödinger's Cat](https://gizmodo.com/scientists-save-schrodingers-cat-1835208353?utm_source=pocket-newtab)
 * [A 3-D printer powered by machine vision and artificial intelligence](http://news.mit.edu/2019/inkbit-3d-printer-0604)
 
-## 06-06-2019
+## 07-06-2019
 * [Why Should Immigrants ‘Respect Our Borders’? The West Never Respected Theirs](https://www.nytimes.com/2019/06/07/opinion/immigration-reparations.html?action=click&module=Opinion&pgtype=Homepage) #nytimes
 
+# 08-06-2019
+* [Why Were Medieval Europeans So Obsessed With Long, Pointy Shoes?](https://www.atlasobscura.com/articles/medieval-europeans-pointy-shoes?utm_source=pocket-newtab)
