@@ -55,3 +55,6 @@
 # 08-06-2019
 * [Why Were Medieval Europeans So Obsessed With Long, Pointy Shoes?](https://www.atlasobscura.com/articles/medieval-europeans-pointy-shoes?utm_source=pocket-newtab)
 * [Energy expenditure using isotope-labelled water (2H218O), exercise performance, skeletal muscle enzyme activities and plasma biochemical parameters in humans during 95 days of endurance exercise with inadequate energy intake](https://www.ncbi.nlm.nih.gov/pubmed/9286604) via [Have We Really Found the Limit of Human Endurance?](https://www.outsideonline.com/2397917/human-endurance-limit-study)
+
+# 09-06-2019
+* [Getting back to nature: how forest bathing can make us feel better](https://www.theguardian.com/environment/2019/jun/08/forest-bathing-japanese-practice-in-west-wellbeing) #nature #health
