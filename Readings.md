@@ -58,3 +58,6 @@
 
 # 09-06-2019
 * [Getting back to nature: how forest bathing can make us feel better](https://www.theguardian.com/environment/2019/jun/08/forest-bathing-japanese-practice-in-west-wellbeing) #nature #health
+
+# 10-06-2019
+* [Applying to graduate school with impostor syndrome](http://gradadmissions.mit.edu/blog/you-are-not-alone-or-i-am-here)
