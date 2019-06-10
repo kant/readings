@@ -61,3 +61,4 @@
 
 # 10-06-2019
 * [Applying to graduate school with impostor syndrome](http://gradadmissions.mit.edu/blog/you-are-not-alone-or-i-am-here)
+* [A YouTube binge helped invent a new way to diagnose Parkinson's](https://www.wired.co.uk/article/parkinsons-disease-diagnosis-faceprint) #parkinson
