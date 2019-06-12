@@ -65,3 +65,6 @@
 
 # 11-06-2019
 * [They Introduced the World to Songs of Slavery. It Almost Broke Them](https://www.topic.com/they-introduced-the-world-to-songs-of-slavery-it-almost-broke-them?utm_source=pocket-newtab) #spirituals #music
+
+# 12-06-2019
+* [Engineers set the standards](http://news.mit.edu/2019/joanne-yates-engineering-rules-0612) #standards
