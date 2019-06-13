@@ -68,6 +68,7 @@
 
 # 12-06-2019
 * [Engineers set the standards](http://news.mit.edu/2019/joanne-yates-engineering-rules-0612) #standards
+* [Cerro Torre alpine style](http://publications.americanalpineclub.org/articles/12198037500/Cerro-Torre-Alpine-Style) #Cerro_Torre #mountains
 
 # 13-06-2019
 * [The disturbing return of scientific racism](https://www.wired.co.uk/article/superior-the-return-of-race-science-angela-saini)
