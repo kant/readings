@@ -73,3 +73,6 @@
 
 # 13-06-2019
 * [The disturbing return of scientific racism](https://www.wired.co.uk/article/superior-the-return-of-race-science-angela-saini)
+
+# 14-06-2019
+* [How to build something that lasts 10000 years](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years)
