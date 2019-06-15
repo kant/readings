@@ -76,3 +76,6 @@
 
 # 14-06-2019
 * [How to build something that lasts 10000 years](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years)
+
+#14-06-2019
+* [Aerospace Projects Review Blog- Unbuilt aircraft and spacecraft projects](http://www.aerospaceprojectsreview.com/blog/)
