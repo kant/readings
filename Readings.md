@@ -79,3 +79,6 @@
 
 # 15-06-2019
 * [Aerospace Projects Review Blog- Unbuilt aircraft and spacecraft projects](http://www.aerospaceprojectsreview.com/blog/)
+
+# 17-06-2019
+* [Language wars: the 19 greatest linguistic spats of all time](https://www.theguardian.com/science/2019/jun/17/language-wars-18-greatest-linguistic-spats) #language #theguardian
