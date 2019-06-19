@@ -82,3 +82,6 @@
 
 # 17-06-2019
 * [Language wars: the 19 greatest linguistic spats of all time](https://www.theguardian.com/science/2019/jun/17/language-wars-18-greatest-linguistic-spats) #language #theguardian
+
+# 19-06-2019
+* [How Necking Shaped the Giraffe](http://nautil.us/issue/41/selection/how-necking-shaped-the-giraffe-rp) #nature #nautil.us
