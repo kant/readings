@@ -52,46 +52,46 @@
 ## 07-06-2019
 * [Why Should Immigrants ‘Respect Our Borders’? The West Never Respected Theirs](https://www.nytimes.com/2019/06/07/opinion/immigration-reparations.html?action=click&module=Opinion&pgtype=Homepage) #nytimes
 
-# 08-06-2019
+## 08-06-2019
 * [Why Were Medieval Europeans So Obsessed With Long, Pointy Shoes?](https://www.atlasobscura.com/articles/medieval-europeans-pointy-shoes?utm_source=pocket-newtab)
 * [Energy expenditure using isotope-labelled water (2H218O), exercise performance, skeletal muscle enzyme activities and plasma biochemical parameters in humans during 95 days of endurance exercise with inadequate energy intake](https://www.ncbi.nlm.nih.gov/pubmed/9286604) via [Have We Really Found the Limit of Human Endurance?](https://www.outsideonline.com/2397917/human-endurance-limit-study)
 
-# 09-06-2019
+## 09-06-2019
 * [Getting back to nature: how forest bathing can make us feel better](https://www.theguardian.com/environment/2019/jun/08/forest-bathing-japanese-practice-in-west-wellbeing) #nature #health
 
-# 10-06-2019
+## 10-06-2019
 * [Applying to graduate school with impostor syndrome](http://gradadmissions.mit.edu/blog/you-are-not-alone-or-i-am-here)
 * [A YouTube binge helped invent a new way to diagnose Parkinson's](https://www.wired.co.uk/article/parkinsons-disease-diagnosis-faceprint) #parkinson
 
-# 11-06-2019
+## 11-06-2019
 * [They Introduced the World to Songs of Slavery. It Almost Broke Them](https://www.topic.com/they-introduced-the-world-to-songs-of-slavery-it-almost-broke-them?utm_source=pocket-newtab) #spirituals #music
 
-# 12-06-2019
+## 12-06-2019
 * [Engineers set the standards](http://news.mit.edu/2019/joanne-yates-engineering-rules-0612) #standards
 * [Cerro Torre alpine style](http://publications.americanalpineclub.org/articles/12198037500/Cerro-Torre-Alpine-Style) #Cerro_Torre #mountains
 * [Cerro Torre query on American Alpine Club](http://publications.americanalpineclub.org/search/solr?all=cerro+torre) #Cerro_Torre
 
-# 13-06-2019
+## 13-06-2019
 * [The disturbing return of scientific racism](https://www.wired.co.uk/article/superior-the-return-of-race-science-angela-saini)
 
-# 14-06-2019
+## 14-06-2019
 * [How to build something that lasts 10000 years](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years)
 
-# 15-06-2019
+## 15-06-2019
 * [Aerospace Projects Review Blog- Unbuilt aircraft and spacecraft projects](http://www.aerospaceprojectsreview.com/blog/)
 
-# 17-06-2019
+## 17-06-2019
 * [Language wars: the 19 greatest linguistic spats of all time](https://www.theguardian.com/science/2019/jun/17/language-wars-18-greatest-linguistic-spats) #language #theguardian
 
-# 19-06-2019
+## 19-06-2019
 * [How Necking Shaped the Giraffe](http://nautil.us/issue/41/selection/how-necking-shaped-the-giraffe-rp) #nature #nautil.us
 
-# 20-06-2019
+## 20-06-2019
 * [Heathrow's expansion masterplan is a nightmare, but logistical genius](https://www.wired.co.uk/article/heathrow-expansion-masterplan-m25) #logistics
 
-# 21-06-2019
+## 21-06-2019
 * [Glacial Trekking in Patagonia](https://www.ukclimbing.com/articles/destinations/patagonia_trekking-756) #patagonia
 
-# 22-06-2019
+## 22-06-2019
 * [Argentina’s blackout and the storm-battered future of the grid](https://arstechnica.com/information-technology/2019/06/argentinas-blackout-and-the-storm-battered-future-of-the-grid/) #Ars_Technica 
 * [Machine Learning: Living in the age of AI](http://video.wired.com/watch/machine-learning-living-in-the-age-of-ai-film) #Wired #documentary
