@@ -89,5 +89,9 @@
 # 20-06-2019
 * [Heathrow's expansion masterplan is a nightmare, but logistical genius](https://www.wired.co.uk/article/heathrow-expansion-masterplan-m25) #logistics
 
-#21-06-2019
+# 21-06-2019
 * [Glacial Trekking in Patagonia](https://www.ukclimbing.com/articles/destinations/patagonia_trekking-756) #patagonia
+
+# 22-06-2019
+* [Argentina’s blackout and the storm-battered future of the grid](https://arstechnica.com/information-technology/2019/06/argentinas-blackout-and-the-storm-battered-future-of-the-grid/) #Ars_Technica 
+* [Machine Learning: Living in the age of AI](http://video.wired.com/watch/machine-learning-living-in-the-age-of-ai-film) #Wired #documentary
