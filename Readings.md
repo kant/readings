@@ -95,3 +95,6 @@
 ## 22-06-2019
 * [Argentina’s blackout and the storm-battered future of the grid](https://arstechnica.com/information-technology/2019/06/argentinas-blackout-and-the-storm-battered-future-of-the-grid/) #Ars_Technica 
 * [Machine Learning: Living in the age of AI](http://video.wired.com/watch/machine-learning-living-in-the-age-of-ai-film) #Wired #documentary
+
+## 23-06-2019
+* [Balconies branch out from Sou Fujimoto's tree-like tower in Montpellier](https://www.dezeen.com/2019/06/20/larbre-blanc-tower-sou-fujimoto-montpellier-france/) #architecture
