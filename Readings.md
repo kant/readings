@@ -98,3 +98,6 @@
 
 ## 23-06-2019
 * [Balconies branch out from Sou Fujimoto's tree-like tower in Montpellier](https://www.dezeen.com/2019/06/20/larbre-blanc-tower-sou-fujimoto-montpellier-france/) #architecture
+
+## 24-06-2019
+* [The Hospital Is Too Damn Loud](https://www.theatlantic.com/health/archive/2019/06/too-many-hospital-sounds/592381/)
