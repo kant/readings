@@ -101,3 +101,5 @@
 
 ## 24-06-2019
 * [The Hospital Is Too Damn Loud](https://www.theatlantic.com/health/archive/2019/06/too-many-hospital-sounds/592381/)
+* [Weird, Wonderful Photos From Another Era](https://www.theatlantic.com/photo/2019/06/weird-wonderful-archival-photos/592426/) #memorabilia
+* [Weird, Wonderful Photos From the Archives](https://www.theatlantic.com/photo/2018/01/weird-wonderful-photos-from-the-archives/551378/)
