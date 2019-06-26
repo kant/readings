@@ -99,7 +99,11 @@
 ## 23-06-2019
 * [Balconies branch out from Sou Fujimoto's tree-like tower in Montpellier](https://www.dezeen.com/2019/06/20/larbre-blanc-tower-sou-fujimoto-montpellier-france/) #architecture
 
-## 24-06-2019
+## 25-06-2019
 * [The Hospital Is Too Damn Loud](https://www.theatlantic.com/health/archive/2019/06/too-many-hospital-sounds/592381/)
 * [Weird, Wonderful Photos From Another Era](https://www.theatlantic.com/photo/2019/06/weird-wonderful-archival-photos/592426/) #memorabilia
 * [Weird, Wonderful Photos From the Archives](https://www.theatlantic.com/photo/2018/01/weird-wonderful-photos-from-the-archives/551378/)
+
+# 26-06-2019
+* [OK, So Here’s The Real Story Of Where ‘OK’ Comes From](https://www.huffpost.com/entry/origin-of-ok-expression-video_n_6133026)
+* [Who Has Jurisdiction for Crimes Committed in Space?](http://mentalfloss.com/article/584985/who-has-jurisdiction-for-crimes-committed-in-space) #law
