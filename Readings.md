@@ -107,3 +107,6 @@
 # 26-06-2019
 * [OK, So Here’s The Real Story Of Where ‘OK’ Comes From](https://www.huffpost.com/entry/origin-of-ok-expression-video_n_6133026)
 * [Who Has Jurisdiction for Crimes Committed in Space?](http://mentalfloss.com/article/584985/who-has-jurisdiction-for-crimes-committed-in-space) #law
+
+# 28-06-2019
+* [Translating proteins into music, and back](http://news.mit.edu/2019/translating-proteins-music-0626) #MIT #proteins_becomes_music
