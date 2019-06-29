@@ -104,9 +104,12 @@
 * [Weird, Wonderful Photos From Another Era](https://www.theatlantic.com/photo/2019/06/weird-wonderful-archival-photos/592426/) #memorabilia
 * [Weird, Wonderful Photos From the Archives](https://www.theatlantic.com/photo/2018/01/weird-wonderful-photos-from-the-archives/551378/)
 
-# 26-06-2019
+## 26-06-2019
 * [OK, So Here’s The Real Story Of Where ‘OK’ Comes From](https://www.huffpost.com/entry/origin-of-ok-expression-video_n_6133026)
 * [Who Has Jurisdiction for Crimes Committed in Space?](http://mentalfloss.com/article/584985/who-has-jurisdiction-for-crimes-committed-in-space) #law
 
-# 28-06-2019
+## 28-06-2019
 * [Translating proteins into music, and back](http://news.mit.edu/2019/translating-proteins-music-0626) #MIT #proteins_becomes_music
+
+## 29-06-2019
+* [Tokyo in the 1970s, a pre-blade runner city](https://www.designboom.com/art/tokyo-in-the-1970s-pre-blade-runner-city-photos-by-greg-girard-06-10-2019/) #photography
