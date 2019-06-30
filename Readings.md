@@ -113,3 +113,6 @@
 
 ## 29-06-2019
 * [Tokyo in the 1970s, a pre-blade runner city](https://www.designboom.com/art/tokyo-in-the-1970s-pre-blade-runner-city-photos-by-greg-girard-06-10-2019/) #photography
+
+## 30-06-2019
+* [Game of Thrones: a battle of reality versus fantasy](https://www.wired.com/story/game-of-thrones-a-battle-of-reality-versus-fantasy/) #wired #Yuval Noah Harari
