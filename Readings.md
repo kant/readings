@@ -4,10 +4,10 @@
 * [London Synphony orchestra, noche luminosa](http://martinwullich.com/london-symphony-orchestra-noche-luminosa/) #Simon Rattle
 
 ## 26-04-2019
-* https://www.outsideonline.com/2397250/everest-death-toll-rises-10 #mountain
-* https://www.outsideonline.com/2395102/john-all-scientist-climber-everest #mountain
-* https://www.brainpickings.org/2019/05/20/marcus-aurelius-meditations-mortality-presence/ #marco aurelio
-* https://www.outsideonline.com/2330801/does-climbing-everest-alter-your-genetic-code  (!) #mountain
+* [The 2019 Everest Death Toll Rises to 11](https://www.outsideonline.com/2397250/everest-death-toll-rises-10) #mountain
+* [The Indiana Jones of Climate Science](https://www.outsideonline.com/2395102/john-all-scientist-climber-everest) #climate #mountain
+* [Marcus Aurelius on Embracing Mortality and the Key to Living with Presence](https://www.brainpickings.org/2019/05/20/marcus-aurelius-meditations-mortality-presence/) #marco aurelio
+* [Does Climbing Everest Alter Your Genetic Code?](https://www.outsideonline.com/2330801/does-climbing-everest-alter-your-genetic-code)  (!) #mountain #science #twins
  
 ## 27-04-2019
 * [How computing's first 'killer app' changed everything](https://www.bbc.com/news/business-47802280)
@@ -116,3 +116,6 @@
 
 ## 30-06-2019
 * [Game of Thrones: a battle of reality versus fantasy](https://www.wired.com/story/game-of-thrones-a-battle-of-reality-versus-fantasy/) #wired #Yuval Noah Harari
+
+## 01-07-2019
+* [The Music of silks](http://news.mit.edu/2012/the-music-of-the-silks-1128) #MIT #music
