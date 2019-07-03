@@ -119,3 +119,6 @@
 
 ## 01-07-2019
 * [The Music of silks](http://news.mit.edu/2012/the-music-of-the-silks-1128) #MIT #music
+
+## 03-07-2019
+* [Why plants don’t die from cancer](https://theconversation.com/why-plants-dont-die-from-cancer-119184) #Chernobyl #cancer #nature
