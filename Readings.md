@@ -22,7 +22,7 @@
 ## 29-05-2019
 * [A harrowing journey up the world's fifth highest mountain](https://www.wired.com/story/makalu-mountain-climbing-gallery/) #mountain
 
-## 30-04-2019
+## 30-05-2019
 * [The Compleat Guide to Digitizing Your LP Collection](http://blog.birdhouse.org/2011/02/20/digitizing-lps/comment-page-1/) #music
 * [Bjarke Ingels says a style is "like a straitjacket"](https://www.dezeen.com/2019/05/22/bjarke-ingels-podcast-interview-style-time-sensitive/) #architecture
 
