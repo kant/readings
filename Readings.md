@@ -125,3 +125,6 @@
 
 ## 04-07-2019
 * [The clever cryptography behind Apple's 'Find my' feature](https://www.wired.com/story/apple-find-my-cryptography-bluetooth/) #Apple #cryptography
+
+## 07-07-2019
+* [Top British churches of the past 100 years](https://www.theguardian.com/artanddesign/2019/jul/06/100-churches-100-years-twentieth-century-society-top-british-chruches-past-100-years) #architecture #british #the_guardian
