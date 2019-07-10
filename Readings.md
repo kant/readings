@@ -131,3 +131,6 @@
 
 ## 08-07-2019
 * [A Mountaineer’s Choice to Never Have Kids](https://www.outsideonline.com/2258581/mountaineers-choice-be-sterilized-climbing) #mountain
+
+## 10-07-2019
+* [Why we see the colors of faces differently than other things](https://www.wired.com/story/why-we-see-the-colors-of-faces-differently-than-other-things/) #perception #wired
