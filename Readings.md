@@ -134,3 +134,6 @@
 
 ## 10-07-2019
 * [Why we see the colors of faces differently than other things](https://www.wired.com/story/why-we-see-the-colors-of-faces-differently-than-other-things/) #perception #wired
+
+## 12-07-2019
+* [A retired teacher found some seahorses off Long Beach. Then he built a secret world for them](https://www.latimes.com/science/la-sci-col1-seahorse-pacific-california-20190709-htmlstory.html?utm_source=pocket-newtab) #science #seahorses
