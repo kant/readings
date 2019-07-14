@@ -137,3 +137,6 @@
 
 ## 12-07-2019
 * [A retired teacher found some seahorses off Long Beach. Then he built a secret world for them](https://www.latimes.com/science/la-sci-col1-seahorse-pacific-california-20190709-htmlstory.html?utm_source=pocket-newtab) #science #seahorses
+
+## 14-07-2019
+* [Quiénes pueden llevar la ciencia de los datos a la función pública](https://www.lanacion.com.ar/economia/quienes-pueden-llevar-la-ciencia-de-los-datos-a-la-funcion-publica141x-10-cm-nid2267273) #science #scrapping #accesibility #sarraute #data #argentina
