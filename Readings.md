@@ -140,3 +140,6 @@
 
 ## 14-07-2019
 * [Quiénes pueden llevar la ciencia de los datos a la función pública](https://www.lanacion.com.ar/economia/quienes-pueden-llevar-la-ciencia-de-los-datos-a-la-funcion-publica141x-10-cm-nid2267273) #science #scrapping #accesibility #sarraute #data #argentina
+
+## 15-07-2019
+* [Have Smartphones Destroyed a Generation?](https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/) #insight
