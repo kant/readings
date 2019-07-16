@@ -143,3 +143,6 @@
 
 ## 15-07-2019
 * [Have Smartphones Destroyed a Generation?](https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/) #insight
+
+## 16-07-2019
+* [The end of capitalism has begun](https://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun) #economics
