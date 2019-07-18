@@ -1,6 +1,8 @@
 
+<details><summary>Mayo</summary>
+
 ## 25-05-2019
-* [Bjarke Ingels says a style is "like a straitjacket"](https://www.dezeen.com/2019/05/22/bjarke-ingels-podcast-interview-style-time-sensitive/) #architecture
+* [Bjarke Ingels says a style is "like a straitjacket"](https://www.dezeen.com/2019/05/22/bjarke-ingels-podcast-interview-style-time-sensitive/) #architecture #Ingels
 * [She Had Stage 4 Lung Cancer, and a Mountain to Climb](https://www.nytimes.com/2019/05/22/sports/cancer-mother.html?module=inline) #aconcagua #mountains 
 * [London Synphony orchestra, noche luminosa](http://martinwullich.com/london-symphony-orchestra-noche-luminosa/) #Simon Rattle
 
@@ -29,7 +31,11 @@
 
 ## 31-05-2019
 * [The glorius, almost-disconnected boredom of my walk in Japan](https://www.wired.com/story/six-weeks-100s-miles-hours-glorious-boredom-japan/?itm_campaign=BottomRelatedStories_Sections_1) #japan
+</p>
+</details>
 
+<details><summary>Junio</summary>
+ 
 ## 01-06-2019
 * [A behavioral economist explores poverty and development](http://news.mit.edu/2019/pierre-luc-vautrey-behavioral-economist-0531) #economics #social sciences #humanities
 
@@ -117,7 +123,11 @@
 
 ## 30-06-2019
 * [Game of Thrones: a battle of reality versus fantasy](https://www.wired.com/story/game-of-thrones-a-battle-of-reality-versus-fantasy/) #wired #Yuval Noah Harari
+</p>
+</details>
 
+<details><summary>Julio</summary>
+ 
 ## 01-07-2019
 * [The Music of silks](http://news.mit.edu/2012/the-music-of-the-silks-1128) #MIT #music
 
@@ -147,3 +157,6 @@
 
 ## 16-07-2019
 * [The end of capitalism has begun](https://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun) #economics
+
+</p>
+</details>
