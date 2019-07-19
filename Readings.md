@@ -158,5 +158,8 @@
 ## 16-07-2019
 * [The end of capitalism has begun](https://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun) #economics
 
+## 19-07-2019
+* [Notre-Dame came far closer to collapsing than people knew. This is how it was saved](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html?utm_source=pocket-newtab) #Notre_Dame
+
 </p>
 </details>
