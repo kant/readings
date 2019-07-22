@@ -161,5 +161,9 @@
 ## 19-07-2019
 * [Notre-Dame came far closer to collapsing than people knew. This is how it was saved](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html?utm_source=pocket-newtab) #Notre_Dame
 
+## 22-07-2019
+* [How the Plastics Industry Is Fighting to Keep Polluting the World](https://theintercept.com/2019/07/20/plastics-industry-plastic-recycling/?utm_source=pocket-newtab)
+* [Do our pets ever really love us – or do they just stick around for the food?](https://www.theguardian.com/lifeandstyle/2019/jul/16/do-our-pets-ever-really-love-us-or-do-they-just-stick-around-for-the-food?utm_source=pocket-newtab)
+
 </p>
 </details>
