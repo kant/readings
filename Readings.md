@@ -165,5 +165,8 @@
 * [How the Plastics Industry Is Fighting to Keep Polluting the World](https://theintercept.com/2019/07/20/plastics-industry-plastic-recycling/?utm_source=pocket-newtab)
 * [Do our pets ever really love us – or do they just stick around for the food?](https://www.theguardian.com/lifeandstyle/2019/jul/16/do-our-pets-ever-really-love-us-or-do-they-just-stick-around-for-the-food?utm_source=pocket-newtab)
 
+## 23-07-2019
+* [How air conditioning created the modern city](https://www.theguardian.com/cities/2018/aug/14/how-air-conditioning-created-modern-city) #insight #cities #urbanism
+
 </p>
 </details>
