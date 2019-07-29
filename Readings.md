@@ -168,5 +168,8 @@
 ## 23-07-2019
 * [How air conditioning created the modern city](https://www.theguardian.com/cities/2018/aug/14/how-air-conditioning-created-modern-city) #insight #cities #urbanism
 
+## 29-07-2019
+* [Towards New Musics: What the future holds for sound creativity](https://www.media.mit.edu/articles/towards-new-musics-what-the-future-holds-for-sound-creativity/) #MIT #Music
+
 </p>
 </details>
