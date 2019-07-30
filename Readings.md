@@ -171,5 +171,8 @@
 ## 29-07-2019
 * [Towards New Musics: What the future holds for sound creativity](https://www.media.mit.edu/articles/towards-new-musics-what-the-future-holds-for-sound-creativity/) #MIT #Music
 
+## 30-07-2019
+* [The patient mathematician](http://news.mit.edu/2019/wei-zhang-math-collaboration-0729) #MIT #mathematician
+
 </p>
 </details>
