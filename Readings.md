@@ -176,3 +176,13 @@
 
 </p>
 </details>
+
+
+<details><summary>Agosto</summary>
+ 
+ ## 01-08-2019
+ 
+ * [This Is the Beginning of the End of the Beef Industry](https://www.outsideonline.com/2399736/impossible-foods-beyond-meat-alt-meat?utm_source=pocket-newtab) #economics #beef
+ 
+ </p>
+</details>
