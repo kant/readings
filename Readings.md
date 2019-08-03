@@ -184,5 +184,7 @@
  
  * [This Is the Beginning of the End of the Beef Industry](https://www.outsideonline.com/2399736/impossible-foods-beyond-meat-alt-meat?utm_source=pocket-newtab) #economics #beef
  
+ * [Why You Need to Make a 'When I Die' File—Before It's Too Late](https://time.com/5640494/why-you-need-to-make-a-when-i-die-file-before-its-too-late/?utm_source=pocket-newtab) #insight #x'iam
+ 
  </p>
 </details>
