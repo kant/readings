@@ -186,5 +186,6 @@
  
  * [Why You Need to Make a 'When I Die' File—Before It's Too Late](https://time.com/5640494/why-you-need-to-make-a-when-i-die-file-before-its-too-late/?utm_source=pocket-newtab) #insight #x'iam
  
+ * [‘I don’t smell!’ Meet the people who have stopped washing](https://www.theguardian.com/lifeandstyle/2019/aug/05/i-dont-smell-meet-the-people-who-have-stopped-washing) #the_guardian #marketing #cultural
  </p>
 </details>
