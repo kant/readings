@@ -180,12 +180,17 @@
 
 <details><summary>Agosto</summary>
  
- ## 01-08-2019
+## 01-08-2019
  
  * [This Is the Beginning of the End of the Beef Industry](https://www.outsideonline.com/2399736/impossible-foods-beyond-meat-alt-meat?utm_source=pocket-newtab) #economics #beef
  
+## 02-08-2019
  * [Why You Need to Make a 'When I Die' File—Before It's Too Late](https://time.com/5640494/why-you-need-to-make-a-when-i-die-file-before-its-too-late/?utm_source=pocket-newtab) #insight #x'iam
- 
+
+## 03-08-2019
  * [‘I don’t smell!’ Meet the people who have stopped washing](https://www.theguardian.com/lifeandstyle/2019/aug/05/i-dont-smell-meet-the-people-who-have-stopped-washing) #the_guardian #marketing #cultural
+
+## 04-08-2019
+* [The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/) #economics #gender #psychology
  </p>
 </details>
