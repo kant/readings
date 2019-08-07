@@ -192,5 +192,8 @@
 
 ## 04-08-2019
 * [The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/) #economics #gender #psychology
+
+## 07-08-2019
+* [The myth of self-control](https://www.vox.com/science-and-health/2016/11/3/13486940/self-control-psychology-myth) #x'iam #psychology #behaviour
  </p>
 </details>
