@@ -195,5 +195,8 @@
 
 ## 07-08-2019
 * [The myth of self-control](https://www.vox.com/science-and-health/2016/11/3/13486940/self-control-psychology-myth) #x'iam #psychology #behaviour
+
+## 11-08-2019
+* [The Benefits of Optimism Are Real](https://www.theatlantic.com/health/archive/2013/03/the-benefits-of-optimism-are-real/273306/) #resilience 
  </p>
 </details>
