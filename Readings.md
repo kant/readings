@@ -202,5 +202,9 @@
 ## 12-08-2019
 * [Does cable news shape your views?](http://news.mit.edu/2019/partisan-cable-news-0808) #MIT #insight #media
 
+## 13-08-2019
+* [The World’s Wealthiest Family Gets $4 Million Richer Every Hour](https://www.bloomberg.com/features/richest-families-in-the-world/?utm_source=pocket-newtab) #Bloomberg #insight #economy
+
+
  </p>
 </details>
