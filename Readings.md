@@ -205,6 +205,8 @@
 ## 13-08-2019
 * [The World’s Wealthiest Family Gets $4 Million Richer Every Hour](https://www.bloomberg.com/features/richest-families-in-the-world/?utm_source=pocket-newtab) #Bloomberg #insight #economy
 
+## 14-08-2019
+* [Inside DeepMind's epic mission to solve science's trickiest problem](https://www.wired.co.uk/article/deepmind-protein-folding)
 
  </p>
 </details>
