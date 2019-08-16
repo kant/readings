@@ -208,5 +208,8 @@
 ## 14-08-2019
 * [Inside DeepMind's epic mission to solve science's trickiest problem](https://www.wired.co.uk/article/deepmind-protein-folding)
 
+## 16-08-2019
+* [Aga Khan Program in Islamic Architecture](https://architecture.mit.edu/history-theory-and-criticism/program/aga-khan-program-islamic-architecture) #islamic #architecture
+
  </p>
 </details>
