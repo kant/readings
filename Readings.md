@@ -211,5 +211,8 @@
 ## 16-08-2019
 * [Aga Khan Program in Islamic Architecture](https://architecture.mit.edu/history-theory-and-criticism/program/aga-khan-program-islamic-architecture) #islamic #architecture
 
+## 18-08-2019
+* [For Women Musicians, Maybelle Carter Set The Standard And Broke The Mold](https://www.npr.org/2019/08/13/748415932/for-women-musicians-maybelle-carter-set-the-standard-and-broke-the-mold) #music #country
+
  </p>
 </details>
