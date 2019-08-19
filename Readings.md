@@ -216,7 +216,7 @@
 
 ## 19-08-2019
 * [Why Are Little Kids in Japan So Independent?](https://www.citylab.com/transportation/2015/09/why-are-little-kids-in-japan-so-independent/407590/) #japan #behaviour #social #citylab 
-Why Are Little Kids in Japan So Independent?
+* [The world’s top deepfake artist is wrestling with the monster he created](https://www.technologyreview.com/s/614083/the-worlds-top-deepfake-artist-is-wrestling-with-the-monster-he-created/) #deepfake #ai
 
  </p>
 </details>
