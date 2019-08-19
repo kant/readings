@@ -214,5 +214,9 @@
 ## 18-08-2019
 * [For Women Musicians, Maybelle Carter Set The Standard And Broke The Mold](https://www.npr.org/2019/08/13/748415932/for-women-musicians-maybelle-carter-set-the-standard-and-broke-the-mold) #music #country
 
+## 19-08-2019
+* [Why Are Little Kids in Japan So Independent?](https://www.citylab.com/transportation/2015/09/why-are-little-kids-in-japan-so-independent/407590/) #japan #behaviour #social #citylab 
+Why Are Little Kids in Japan So Independent?
+
  </p>
 </details>
