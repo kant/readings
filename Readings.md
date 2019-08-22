@@ -222,5 +222,7 @@
 * [How Language Shapes Our Perception of Reality](https://www.fastcompany.com/40585591/how-language-shapes-our-perception-of-reality) #language #insight #cognitive #perception 
 
 
- </p>
+## 22-08-2019
+* [UK rail line becomes first in world to be powered by solar farm](https://www.theguardian.com/business/2019/aug/22/wessex-rail-line-plugs-into-solar-power) #solar #environment #the_guardian
+</p>
 </details>
