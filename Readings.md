@@ -224,5 +224,9 @@
 
 ## 22-08-2019
 * [UK rail line becomes first in world to be powered by solar farm](https://www.theguardian.com/business/2019/aug/22/wessex-rail-line-plugs-into-solar-power) #solar #environment #the_guardian
+
+## 22-08-2019
+* [There’s a dark side to meditation that no one talks about](https://qz.com/993465/theres-a-dark-side-to-meditation-that-no-one-talks-about/) #meditation #zen #insight #health #mental #makyo
+
 </p>
 </details>
