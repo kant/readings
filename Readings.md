@@ -228,5 +228,8 @@
 ## 22-08-2019
 * [There’s a dark side to meditation that no one talks about](https://qz.com/993465/theres-a-dark-side-to-meditation-that-no-one-talks-about/) #meditation #zen #insight #health #mental #makyo
 
+## 30-08-2019
+* [A very deep dive into iOS Exploit chains found in the wild](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html?m=1) #security #ios #apple
+
 </p>
 </details>
