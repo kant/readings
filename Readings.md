@@ -1,5 +1,5 @@
 
-<details><summary>Mayo</summary>
+<details><summary>May</summary>
 
 ## 25-05-2019
 * [Bjarke Ingels says a style is "like a straitjacket"](https://www.dezeen.com/2019/05/22/bjarke-ingels-podcast-interview-style-time-sensitive/) #architecture #Ingels
@@ -34,7 +34,7 @@
 </p>
 </details>
 
-<details><summary>Junio</summary>
+<details><summary>June</summary>
  
 ## 01-06-2019
 * [A behavioral economist explores poverty and development](http://news.mit.edu/2019/pierre-luc-vautrey-behavioral-economist-0531) #economics #social sciences #humanities
@@ -126,7 +126,7 @@
 </p>
 </details>
 
-<details><summary>Julio</summary>
+<details><summary>July</summary>
  
 ## 01-07-2019
 * [The Music of silks](http://news.mit.edu/2012/the-music-of-the-silks-1128) #MIT #music
@@ -178,7 +178,7 @@
 </details>
 
 
-<details><summary>Agosto</summary>
+<details><summary>August</summary>
  
 ## 01-08-2019
  
@@ -221,7 +221,6 @@
 ## 20-08-2019
 * [How Language Shapes Our Perception of Reality](https://www.fastcompany.com/40585591/how-language-shapes-our-perception-of-reality) #language #insight #cognitive #perception 
 
-
 ## 22-08-2019
 * [UK rail line becomes first in world to be powered by solar farm](https://www.theguardian.com/business/2019/aug/22/wessex-rail-line-plugs-into-solar-power) #solar #environment #the_guardian
 
@@ -230,6 +229,14 @@
 
 ## 30-08-2019
 * [A very deep dive into iOS Exploit chains found in the wild](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html?m=1) #security #ios #apple
+
+</p>
+</details>
+<details><summary>September</summary>
+ 
+## 02-09-2019
+ 
+ * [How to Really Listen to Music](https://www.theparisreview.org/blog/2019/08/22/how-to-actually-listen-to-music/) #music #insight
 
 </p>
 </details>
