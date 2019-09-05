@@ -237,6 +237,6 @@
 ## 02-09-2019
  
  * [How to Really Listen to Music](https://www.theparisreview.org/blog/2019/08/22/how-to-actually-listen-to-music/) #music #insight
-
+* [MIT report examines how to make technology work for society](https://workofthefuture.mit.edu/sites/default/files/2019-09/WorkoftheFuture_Report_Shaping_Technology_and_Institutions.pdf) #insight #work #future #MIT
 </p>
 </details>
