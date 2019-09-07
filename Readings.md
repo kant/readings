@@ -235,13 +235,14 @@
 <details><summary>September</summary>
  
 ## 02-09-2019
- 
- * [How to Really Listen to Music](https://www.theparisreview.org/blog/2019/08/22/how-to-actually-listen-to-music/) #music #insight
+* [How to Really Listen to Music](https://www.theparisreview.org/blog/2019/08/22/how-to-actually-listen-to-music/) #music #insight
 * [MIT report examines how to make technology work for society](https://workofthefuture.mit.edu/sites/default/files/2019-09/WorkoftheFuture_Report_Shaping_Technology_and_Institutions.pdf) #insight #work #future #MIT
 
 ## 06-09-2019
- 
  * [Malcolm Gladwell on the consequences of misreading a stranger](https://www.theguardian.com/news/audio/2019/sep/06/malcolm-gladwell-on-the-consequences-of-misreading-a-stranger-podcast) #insight #ideas
+
+## 07-09-2019
+ * [David Fincher's opening titles retrospective](https://www.artofthetitle.com/feature/david-fincher-a-film-title-retrospective/) #filming #insight
 
 </p>
 </details>
