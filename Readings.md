@@ -243,6 +243,8 @@
 
 ## 07-09-2019
  * [David Fincher's opening titles retrospective](https://www.artofthetitle.com/feature/david-fincher-a-film-title-retrospective/) #filming #insight
-
+ 
+## 10-09-2019
+ * [Uncovering links between architecture, politics, and society](http://news.mit.edu/2019/timothy-hyde-architecture-0910) #architecture #insight #politics #social
 </p>
 </details>
