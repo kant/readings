@@ -250,5 +250,7 @@
 ## 11-09-2019
  * [A New Timeline of the Day the Dinosaurs Began to Die Out](https://www.nytimes.com/2019/09/10/science/chicxulub-asteroid-impact-dinosaurs.html?fallback=0&recId=1Qi26NIRawnyRM5t848qasKc8D9&locked=0&geoContinent=SA&geoRegion=C&recAlloc=control&geoCountry=AR&blockId=home-discovery-vi-prg&imp_id=533783821&action=click&module=Discovery&pgtype=Homepage) #insight #science #dinosaur
 
+## 13-09-2019
+ * [When rats work to protect human safety](http://news.mit.edu/2019/jia-hui-lee-student-0906) #cultural relations #insight #nature #animals #rats 
 </p>
 </details>
