@@ -251,6 +251,11 @@
  * [A New Timeline of the Day the Dinosaurs Began to Die Out](https://www.nytimes.com/2019/09/10/science/chicxulub-asteroid-impact-dinosaurs.html?fallback=0&recId=1Qi26NIRawnyRM5t848qasKc8D9&locked=0&geoContinent=SA&geoRegion=C&recAlloc=control&geoCountry=AR&blockId=home-discovery-vi-prg&imp_id=533783821&action=click&module=Discovery&pgtype=Homepage) #insight #science #dinosaur
 
 ## 13-09-2019
- * [When rats work to protect human safety](http://news.mit.edu/2019/jia-hui-lee-student-0906) #cultural relations #insight #nature #animals #rats 
+ * [When rats work to protect human safety](http://news.mit.edu/2019/jia-hui-lee-student-0906) #cultural relations #insight #nature #animals #rats
+ 
+ ## 16-09-2019
+ * [Flirty or Friendzone? New AI Scans Your Texts for True Love](https://www.wired.com/story/ai-apps-texting-flirting-romance/?bxid=5cec24ecfc942d3ada051eca&cndid=52112228&esrc=Wired_etl_load&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_mailing=WIR_Daily_091619&utm_medium=email&utm_source=nl&utm_term=list1_p2) #relations #insight #wired #ai
+ 
+ 
 </p>
 </details>
