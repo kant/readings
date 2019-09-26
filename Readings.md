@@ -257,11 +257,13 @@
  * [Flirty or Friendzone? New AI Scans Your Texts for True Love](https://www.wired.com/story/ai-apps-texting-flirting-romance/?bxid=5cec24ecfc942d3ada051eca&cndid=52112228&esrc=Wired_etl_load&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_mailing=WIR_Daily_091619&utm_medium=email&utm_source=nl&utm_term=list1_p2) #relations #insight #wired #ai
  
 ## 20-09-2019
- * [AI Could Reinvent Medicine—Or Become a Patient's Nightmare](https://www.wired.com/story/ai-could-reinvent-medicineor-become-a-patients-nightmare/?bxid=5cec24ecfc942d3ada051eca&cndid=52112228&esrc=Wired_etl_load&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_mailing=WIR_Daily_091919&utm_medium=email&utm_source=nl&utm_term=list2_p4) #Wired #AI #medicine #
+ * [AI Could Reinvent Medicine—Or Become a Patient's Nightmare](https://www.wired.com/story/ai-could-reinvent-medicineor-become-a-patients-nightmare/?bxid=5cec24ecfc942d3ada051eca&cndid=52112228&esrc=Wired_etl_load&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_mailing=WIR_Daily_091919&utm_medium=email&utm_source=nl&utm_term=list2_p4) #Wired #AI #medicine
 
 ## 25-09-2019
  * [Open-minded people have a different visual perception of reality](https://qz.com/997679/open-minded-people-have-a-different-visual-perception-of-reality/) #perception #insight
 
+## 26-09-2019
+ * [Curiosity Depends on What You Already Know](http://nautil.us/issue/33/attraction/curiosity-depends-on-what-you-already-know) #curiosity #insight #mindset
 
 </p>
 </details>
