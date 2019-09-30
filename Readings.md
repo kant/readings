@@ -269,6 +269,9 @@
  * [how to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) #insight #mindset #idea
  * [Jenny Odell on why we need to learn to do nothing: ‘It's a reminder that you're alive’](https://www.theguardian.com/lifeandstyle/2019/sep/27/jenny-odell-on-why-we-need-to-learn-to-do-nothing-its-a-reminder-that-youre-alive) #insight #mindset #idea
  
+##### 30-09-2019
+ * [Using math to blend musical notes seamlessly](http://news.mit.edu/2019/math-portamento-music-0927) #portamento #music #idea
+ 
  
 </p>
 </details>
