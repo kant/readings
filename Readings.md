@@ -271,7 +271,13 @@
  
 ##### 30-09-2019
  * [Using math to blend musical notes seamlessly](http://news.mit.edu/2019/math-portamento-music-0927) #portamento #music #idea
- 
+</p>
+</details>
+<details><summary>October</summary>
+
+##### 09-10-2019
+ * [This AI Can Spot Art Forgeries by Looking at One Brushstroke](https://www.technologyreview.com/s/609524/this-ai-can-spot-art-forgeries-by-looking-at-one-brushstroke/) #ai #algorithm #technology_review
  
 </p>
+</details>
 </details>
