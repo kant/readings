@@ -277,7 +277,14 @@
 
 ##### 09-10-2019
  * [This AI Can Spot Art Forgeries by Looking at One Brushstroke](https://www.technologyreview.com/s/609524/this-ai-can-spot-art-forgeries-by-looking-at-one-brushstroke/) #ai #algorithm #technology_review
+
+##### 11-10-2019
+ * [Personalized medicine: Time for one-person trials](https://www.nature.com/news/personalized-medicine-time-for-one-person-trials-1.17411) #trial #xiam #nature #science
  
+ * [Patient-Customized Oligonucleotide Therapy for a Rare Genetic Disease](https://www.nejm.org/doi/full/10.1056/NEJMoa1813279) #trial #xiam #personal_drug #science
+
+* [Scientists Designed a Drug for Just One Patient](https://www.nytimes.com/2019/10/09/health/mila-makovec-drug.html) #trial #xiam #personal_drug #science
+
 </p>
 </details>
 </details>
