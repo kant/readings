@@ -285,6 +285,9 @@
 
 * [Scientists Designed a Drug for Just One Patient](https://www.nytimes.com/2019/10/09/health/mila-makovec-drug.html) #trial #xiam #personal_drug #science
 
+##### 12-10-2019
+ * [Busting the myth that depression doesn't affect people in poor countries](https://www.theguardian.com/society/2019/apr/30/busting-the-myth-that-depression-doesnt-affect-people-in-poor-countries) #disorder #depression #the_guardian
+
 </p>
 </details>
 </details>
