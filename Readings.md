@@ -288,6 +288,11 @@
 ##### 12-10-2019
  * [Busting the myth that depression doesn't affect people in poor countries](https://www.theguardian.com/society/2019/apr/30/busting-the-myth-that-depression-doesnt-affect-people-in-poor-countries) #disorder #depression #the_guardian
 
+##### 13-10-2019
+ * [The mystery of the missing Leonardo: where is Da Vinci’s $450m Jesus?](https://www.theguardian.com/artanddesign/2019/oct/13/leonardo-da-vinci-salvator-mundi-jesus-louvre-exhibition) #missing #leonardo_da_vinci #the_guardian #art
+ 
+ 
+
 </p>
 </details>
 </details>
