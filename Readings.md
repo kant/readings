@@ -291,6 +291,9 @@
 ##### 13-10-2019
  * [The mystery of the missing Leonardo: where is Da Vinci’s $450m Jesus?](https://www.theguardian.com/artanddesign/2019/oct/13/leonardo-da-vinci-salvator-mundi-jesus-louvre-exhibition) #missing #leonardo_da_vinci #the_guardian #art
  
+##### 14-10-2019
+ * [Digital dystopia: how algorithms punish the poor](https://www.theguardian.com/technology/2019/oct/14/automating-poverty-algorithms-punish-poor) #algorithm #poverty #the_guardian #insight
+ 
  
 
 </p>
