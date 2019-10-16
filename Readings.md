@@ -293,8 +293,9 @@
  
 ##### 14-10-2019
  * [Digital dystopia: how algorithms punish the poor](https://www.theguardian.com/technology/2019/oct/14/automating-poverty-algorithms-punish-poor) #algorithm #poverty #the_guardian #insight
- 
- 
+
+##### 16-10-2019
+ * [How the Bauhaus Kept the Nazis at Bay, Until It Couldn’t](https://www.citylab.com/design/2019/03/walter-gropius-bauhaus-art-school-nazi-germany-anniversary/583999/) #bauhaus #architecture #regime #citylab
 
 </p>
 </details>
