@@ -296,6 +296,9 @@
 
 ##### 16-10-2019
  * [How the Bauhaus Kept the Nazis at Bay, Until It Couldn’t](https://www.citylab.com/design/2019/03/walter-gropius-bauhaus-art-school-nazi-germany-anniversary/583999/) #bauhaus #architecture #regime #citylab
+ 
+##### 19-10-2019
+ * [Catalonia has created a new kind of online activism. Everyone should pay attention](https://www.wired.co.uk/article/barcelonia-riots-catalonia-protests-news) #barcelona #friend-to-friend #topology #anonymity #social_activism
 
 </p>
 </details>
