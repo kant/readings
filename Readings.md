@@ -300,6 +300,9 @@
 ##### 19-10-2019
  * [Catalonia has created a new kind of online activism. Everyone should pay attention](https://www.wired.co.uk/article/barcelonia-riots-catalonia-protests-news) #barcelona #friend-to-friend #topology #anonymity #social_activism
 
+##### 19-10-2019
+ * [Deploying drones to prepare for climate change](http://news.mit.edu/2019/norhan-bayomi-drones-climate-change-1004) #insight #drones #MIT #climate_change #climate_refugees
+ 
 </p>
 </details>
 </details>
