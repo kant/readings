@@ -307,7 +307,9 @@
  * [Carl Safina Is Certain Your Dog Loves You](https://www.nytimes.com/2019/10/21/science/carl-safina-animal-cognition.html) #insight #dog #science #cognition
  * [Hello quantum world! Google publishes landmark quantum supremacy claim](https://www.nature.com/articles/d41586-019-03213-z) #google #quantum #computing #nature
  * [Why sexist bias in natural history museums really matters](https://www.theguardian.com/science/shortcuts/2019/oct/23/bad-science-sexist-bias-natural-history-museums-specimens) #google #sexism #bias #the_guardian #museum
- 
+
+##### 25-10-2019
+ * [The Necessity of Musical Hallucinations](http://nautil.us/issue/77/underworlds/the-necessity-of-musical-hallucinations-rp) #insight #music #science #cognition 
 </p>
 </details>
 </details>
