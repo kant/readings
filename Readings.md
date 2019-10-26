@@ -309,7 +309,11 @@
  * [Why sexist bias in natural history museums really matters](https://www.theguardian.com/science/shortcuts/2019/oct/23/bad-science-sexist-bias-natural-history-museums-specimens) #google #sexism #bias #the_guardian #museum
 
 ##### 25-10-2019
- * [The Necessity of Musical Hallucinations](http://nautil.us/issue/77/underworlds/the-necessity-of-musical-hallucinations-rp) #insight #music #science #cognition 
+ * [The Necessity of Musical Hallucinations](http://nautil.us/issue/77/underworlds/the-necessity-of-musical-hallucinations-rp) #insight #music #science #cognition
+ 
+##### 26-10-2019
+ * [Comic strips, goofy snaps and mirror selfies: inside Prince’s private archive](https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies) #Prince #music
+ 
 </p>
 </details>
 </details>
