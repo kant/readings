@@ -317,6 +317,9 @@
 ##### 29-10-2019
  * [State of the Art: Banksy’s legendary prank reveals the paradox of spectacle](http://dailytrojan.com/2018/10/23/state-of-the-art-banksys-legendary-prank-reveals-the-paradox-of-spectacle/) #Banksy #art #paradox
  
+##### 30-10-2019
+ * ['Sober but very immoral': What Victorian-era 'poverty maps' tell us about London today](https://www.theguardian.com/cities/2019/oct/30/what-victorian-era-poverty-maps-tell-us-about-london-today) #poverty #data_visualization #maps #the_guardian
+ 
 </p>
 </details>
 </details>
