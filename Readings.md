@@ -314,6 +314,9 @@
 ##### 26-10-2019
  * [Comic strips, goofy snaps and mirror selfies: inside Prince’s private archive](https://www.theguardian.com/music/2019/oct/26/prince-private-archive-memoir-comic-strips-snaps-selfies) #Prince #music
  
+##### 29-10-2019
+ * [State of the Art: Banksy’s legendary prank reveals the paradox of spectacle](http://dailytrojan.com/2018/10/23/state-of-the-art-banksys-legendary-prank-reveals-the-paradox-of-spectacle/) #Banksy #art #paradox
+ 
 </p>
 </details>
 </details>
