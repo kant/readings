@@ -321,7 +321,8 @@
  * ['Sober but very immoral': What Victorian-era 'poverty maps' tell us about London today](https://www.theguardian.com/cities/2019/oct/30/what-victorian-era-poverty-maps-tell-us-about-london-today) #poverty #data_visualization #maps #the_guardian
 
 ##### 30-10-2019
- * [She climbed Everest nine times and set a world record – so why doesn’t she have sponsors?](https://www.theguardian.com/world/2019/oct/31/mount-everest-lhakpa-sherpa-climbed-nine-times-world-record) #sponsorship #everest #the_guardian #tibetan_woman
+ * [She climbed Everest nine times and set a world record – so why doesn’t she have sponsors?](https://www.theguardian.com/world/2019/oct/31/mount-everest-lhakpa-sherpa-climbed-nine-times-world-record) #sponsorship #everest #the_guardian #tibetan_woman `“If there weren’t any Sherpas,” she tells me, “nobody could climb Everest”`
+ 
 </p>
 </details>
 </details>
