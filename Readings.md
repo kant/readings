@@ -325,4 +325,11 @@
  
 </p>
 </details>
+<details><summary>November</summary>
+
+##### 4-11-2019
+* [Blue spaces: why time spent near water is the secret of happiness](https://www.theguardian.com/lifeandstyle/2019/nov/03/blue-space-living-near-water-good-secret-of-happiness) #insight #nature
+
+</p>
+</details>
 </details>
