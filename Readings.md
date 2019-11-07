@@ -330,6 +330,10 @@
 ##### 4-11-2019
 * [Blue spaces: why time spent near water is the secret of happiness](https://www.theguardian.com/lifeandstyle/2019/nov/03/blue-space-living-near-water-good-secret-of-happiness) #insight #nature
 
+##### 7-11-2019
+* [Philip Glass Is Too Busy to Care About Legacy](https://www.nytimes.com/2019/11/07/arts/music/philip-glass-akhnaten-met-opera.html?action=click&module=Editors%20Picks&pgtype=Homepages) #insight #music #minimalism
+
 </p>
 </details>
 </details>
+
