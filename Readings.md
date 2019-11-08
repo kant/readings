@@ -333,6 +333,8 @@
 ##### 7-11-2019
 * [Philip Glass Is Too Busy to Care About Legacy](https://www.nytimes.com/2019/11/07/arts/music/philip-glass-akhnaten-met-opera.html?action=click&module=Editors%20Picks&pgtype=Homepages) #insight #music #minimalism
 
+##### 8-11-2019
+* [If traumatic brain injuries can impact the parts of the brain responsible for personality, judgment, and impulse control, maybe injury should be a mitigating factor in criminal trials](https://longreads.com/2019/10/22/the-final-five-percent/) #brain #justice #science #judgment
 </p>
 </details>
 </details>
