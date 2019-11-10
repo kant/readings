@@ -335,7 +335,10 @@
 
 ##### 8-11-2019
 * [If traumatic brain injuries can impact the parts of the brain responsible for personality, judgment, and impulse control, maybe injury should be a mitigating factor in criminal trials](https://longreads.com/2019/10/22/the-final-five-percent/) #brain #justice #science #judgment
+
+##### 10-11-2019
+* [The Story of Sandworm, the Kremlin's Most Dangerous Hackers](https://www.wired.com/story/sandworm-kremlin-most-dangerous-hackers/) #wired #hackers
+
 </p>
 </details>
-</details>
-
+</details
