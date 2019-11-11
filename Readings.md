@@ -339,6 +339,9 @@
 ##### 10-11-2019
 * [The Story of Sandworm, the Kremlin's Most Dangerous Hackers](https://www.wired.com/story/sandworm-kremlin-most-dangerous-hackers/) #wired #hackers
 
+##### 12-11-2019
+* [The ABCs of SOS](https://www.outsideonline.com/2404816/wilderness-rescue-emergency-tips) #rescue #tips
+* [China's social credit system is coming for businesses too](https://www.wired.co.uk/article/china-corporate-social-credit-system-companies) #economics #china 
 </p>
 </details>
 </details
