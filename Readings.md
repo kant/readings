@@ -341,7 +341,10 @@
 
 ##### 12-11-2019
 * [The ABCs of SOS](https://www.outsideonline.com/2404816/wilderness-rescue-emergency-tips) #rescue #tips
-* [China's social credit system is coming for businesses too](https://www.wired.co.uk/article/china-corporate-social-credit-system-companies) #economics #china 
+* [China's social credit system is coming for businesses too](https://www.wired.co.uk/article/china-corporate-social-credit-system-companies) #economics #china
+
+##### 13-11-2019
+* [Where Do Hippos Wander? An Aquatic Mystery, Solved](https://www.wired.com/story/where-do-hippos-wander/) #hippos #science #insight #wandering #wired
 </p>
 </details>
 </details
