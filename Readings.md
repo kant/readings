@@ -345,6 +345,9 @@
 
 ##### 13-11-2019
 * [Where Do Hippos Wander? An Aquatic Mystery, Solved](https://www.wired.com/story/where-do-hippos-wander/) #hippos #science #insight #wandering #wired
+
+##### 14-11-2019
+* [New artificial intelligence system automatically evolves to evade internet censorship](https://techxplore.com/news/2019-11-artificial-intelligence-automatically-evolves-evade.html) #censorship #algorithm #ai
 </p>
 </details>
 </details
