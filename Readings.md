@@ -348,6 +348,10 @@
 
 ##### 14-11-2019
 * [New artificial intelligence system automatically evolves to evade internet censorship](https://techxplore.com/news/2019-11-artificial-intelligence-automatically-evolves-evade.html) #censorship #algorithm #ai
+
+##### 15-11-2019
+* [Why Lionel Messi is the perfect mathematician](http://www.maths.ox.ac.uk/node/33660) #Messi #mathmatics #insight
+
 </p>
 </details>
 </details
