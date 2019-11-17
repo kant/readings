@@ -353,7 +353,11 @@
 * [Why Lionel Messi is the perfect mathematician](http://www.maths.ox.ac.uk/node/33660) #Messi #mathematics #insight
 
 ##### 16-11-2019
-* [Tesis de doctorado del Dr. René Favaloro](http://blog.sedici.unlp.edu.ar/2019/05/09/tesis-del-dr-rene-favaloro-disponible-en-sedici/) #Favaloro #science #digital 
+* [Tesis de doctorado del Dr. René Favaloro](http://blog.sedici.unlp.edu.ar/2019/05/09/tesis-del-dr-rene-favaloro-disponible-en-sedici/) #Favaloro #science #digital
+
+##### 17-11-2019
+* [Nestlé Is Sucking the World’s Aquifers Dry](https://longreads.com/2017/10/04/nestle-is-sucking-the-worlds-aquifers-dry/) #natural_resources #water #scarcity
+
 </p>
 </details>
 </details
