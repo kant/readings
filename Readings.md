@@ -350,8 +350,10 @@
 * [New artificial intelligence system automatically evolves to evade internet censorship](https://techxplore.com/news/2019-11-artificial-intelligence-automatically-evolves-evade.html) #censorship #algorithm #ai
 
 ##### 15-11-2019
-* [Why Lionel Messi is the perfect mathematician](http://www.maths.ox.ac.uk/node/33660) #Messi #mathmatics #insight
+* [Why Lionel Messi is the perfect mathematician](http://www.maths.ox.ac.uk/node/33660) #Messi #mathematics #insight
 
+##### 16-11-2019
+* [Tesis de doctorado del Dr. René Favaloro](http://blog.sedici.unlp.edu.ar/2019/05/09/tesis-del-dr-rene-favaloro-disponible-en-sedici/) #Favaloro #science #digital 
 </p>
 </details>
 </details
