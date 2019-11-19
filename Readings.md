@@ -358,6 +358,13 @@
 ##### 17-11-2019
 * [Nestlé Is Sucking the World’s Aquifers Dry](https://longreads.com/2017/10/04/nestle-is-sucking-the-worlds-aquifers-dry/) #natural_resources #water #scarcity
 
+##### 19-11-2019
+* [How Discovering an Equation for Altruism Cost George Price Everything](http://nautil.us/blog/how-discovering-an-equation-for-altruism-cost-george-price-everything) #altruism #science #nautil.us #equation #mathematics
+* [New boiler, £0? The plumber, hairdresser and beautician who work for free](https://www.theguardian.com/money/2019/nov/19/new-altruists-hairdresser-plumber-beautician-work-for-free-rough-sleepers-haircuts) #altruism #the_guardian #society
+
+
+
+
 </p>
 </details>
 </details
