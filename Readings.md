@@ -362,7 +362,9 @@
 * [How Discovering an Equation for Altruism Cost George Price Everything](http://nautil.us/blog/how-discovering-an-equation-for-altruism-cost-george-price-everything) #altruism #science #nautil.us #equation #mathematics
 * [New boiler, £0? The plumber, hairdresser and beautician who work for free](https://www.theguardian.com/money/2019/nov/19/new-altruists-hairdresser-plumber-beautician-work-for-free-rough-sleepers-haircuts) #altruism #the_guardian #society
 
-
+##### 20-11-2019
+* [Drawing With Drones Over the Salt Flats of Bolivia](https://www.wired.com/story/drones-salt-flats-bolivia-gallery/) #Bolivia #nature #photography #dron #wired
+* [How the Dumb Design of a WWII Plane Led to the Macintosh](https://www.wired.com/story/how-dumb-design-wwii-plane-led-macintosh/) #design #insight #ideas #wired
 
 
 </p>
