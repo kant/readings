@@ -366,6 +366,8 @@
 * [Drawing With Drones Over the Salt Flats of Bolivia](https://www.wired.com/story/drones-salt-flats-bolivia-gallery/) #Bolivia #nature #photography #dron #wired
 * [How the Dumb Design of a WWII Plane Led to the Macintosh](https://www.wired.com/story/how-dumb-design-wwii-plane-led-macintosh/) #design #insight #ideas #wired
 
+##### 21-11-2019
+* [Cells That ‘Taste’ Danger Set Off Immune Responses](https://www.quantamagazine.org/tuft-cells-that-taste-danger-set-off-immune-responses-20191115/) #xiam #autoinmune #insight
 
 </p>
 </details>
