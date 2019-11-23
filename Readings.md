@@ -370,8 +370,10 @@
 * [Cells That ‘Taste’ Danger Set Off Immune Responses](https://www.quantamagazine.org/tuft-cells-that-taste-danger-set-off-immune-responses-20191115/) #xiam #autoinmune #insight
 
 ##### 22-11-2019
-* [Women suffer needless pain because almost everything is designed for men]https://www.vox.com/future-perfect/2019/4/17/18308466/invisible-women-pain-gender-data-gap-caroline-criado-perez) #unbias #gender #insight
+* [Women suffer needless pain because almost everything is designed for men](https://www.vox.com/future-perfect/2019/4/17/18308466/invisible-women-pain-gender-data-gap-caroline-criado-perez) #unbiased #gender #insight
 
+##### 23-11-2019
+* [Why did Iran shut off the internet for the entire country?](https://www.vox.com/recode/2019/11/21/20975920/iran-internet-protests-reset-podcast) #Irán #firewall #network
 </p>
 </details>
 </details
