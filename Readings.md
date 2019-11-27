@@ -367,13 +367,16 @@
 * [How the Dumb Design of a WWII Plane Led to the Macintosh](https://www.wired.com/story/how-dumb-design-wwii-plane-led-macintosh/) #design #insight #ideas #wired
 
 ##### 21-11-2019
-* [Cells That ‘Taste’ Danger Set Off Immune Responses](https://www.quantamagazine.org/tuft-cells-that-taste-danger-set-off-immune-responses-20191115/) #xiam #autoinmune #insight
+* [Cells That ‘Taste’ Danger Set Off Immune Responses](https://www.quantamagazine.org/tuft-cells-that-taste-danger-set-off-immune-responses-20191115/) #xiam #autoimmune #insight
 
 ##### 22-11-2019
 * [Women suffer needless pain because almost everything is designed for men](https://www.vox.com/future-perfect/2019/4/17/18308466/invisible-women-pain-gender-data-gap-caroline-criado-perez) #unbiased #gender #insight
 
 ##### 23-11-2019
 * [Why did Iran shut off the internet for the entire country?](https://www.vox.com/recode/2019/11/21/20975920/iran-internet-protests-reset-podcast) #Irán #firewall #network
+
+##### 27-11-2019
+* [Observing the cell in its native state: Imaging subcellular dynamics in multicellular organisms](https://science.sciencemag.org/content/360/6386/eaaq1392/tab-figures-data) #xiam #autoimmune #insight #nature
 </p>
 </details>
 </details
