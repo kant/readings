@@ -377,6 +377,9 @@
 
 ##### 27-11-2019
 * [Observing the cell in its native state: Imaging subcellular dynamics in multicellular organisms](https://science.sciencemag.org/content/360/6386/eaaq1392/tab-figures-data) #xiam #autoimmune #insight #nature
+
+##### 27-11-2019
+* [The Japanese words for “space” could change your view of the world](https://qz.com/1181019/the-japanese-words-for-space-could-change-your-view-of-the-world/) #tour-of-thought #japanese #insight #space
 </p>
 </details>
 </details
