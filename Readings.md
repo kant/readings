@@ -60,15 +60,15 @@
 * [Why Should Immigrants ‘Respect Our Borders’? The West Never Respected Theirs](https://www.nytimes.com/2019/06/07/opinion/immigration-reparations.html?action=click&module=Opinion&pgtype=Homepage) #nytimes
 
 ##### 08-06-2019
-* [Why Were Medieval Europeans So Obsessed With Long, Pointy Shoes?](https://www.atlasobscura.com/articles/medieval-europeans-pointy-shoes?utm_source=pocket-newtab)
+* [Why Were Medieval Europeans So Obsessed With Long, Pointy Shoes?](https://www.atlasobscura.com/articles/medieval-europeans-pointy-shoes?) #cultural_insight #medieval #shoes
 * [Energy expenditure using isotope-labelled water (2H218O), exercise performance, skeletal muscle enzyme activities and plasma biochemical parameters in humans during 95 days of endurance exercise with inadequate energy intake](https://www.ncbi.nlm.nih.gov/pubmed/9286604) via [Have We Really Found the Limit of Human Endurance?](https://www.outsideonline.com/2397917/human-endurance-limit-study)
 
 ##### 09-06-2019
 * [Getting back to nature: how forest bathing can make us feel better](https://www.theguardian.com/environment/2019/jun/08/forest-bathing-japanese-practice-in-west-wellbeing) #nature #health
 
 ##### 10-06-2019
-* [Applying to graduate school with impostor syndrome](http://gradadmissions.mit.edu/blog/you-are-not-alone-or-i-am-here)
-* [A YouTube binge helped invent a new way to diagnose Parkinson's](https://www.wired.co.uk/article/parkinsons-disease-diagnosis-faceprint) #parkinson
+* [Applying to graduate school with impostor syndrome](http://gradadmissions.mit.edu/blog/you-are-not-alone-or-i-am-here) #psychology #syndrome
+* [A YouTube binge helped invent a new way to diagnose Parkinson's](https://www.wired.co.uk/article/parkinsons-disease-diagnosis-faceprint) #parkinson #disease
 
 ##### 11-06-2019
 * [They Introduced the World to Songs of Slavery. It Almost Broke Them](https://www.topic.com/they-introduced-the-world-to-songs-of-slavery-it-almost-broke-them?utm_source=pocket-newtab) #spirituals #music
@@ -79,13 +79,13 @@
 * [Cerro Torre query on American Alpine Club](http://publications.americanalpineclub.org/search/solr?all=cerro+torre) #Cerro_Torre
 
 ##### 13-06-2019
-* [The disturbing return of scientific racism](https://www.wired.co.uk/article/superior-the-return-of-race-science-angela-saini)
+* [The disturbing return of scientific racism](https://www.wired.co.uk/article/superior-the-return-of-race-science-angela-saini) #science
 
 ##### 14-06-2019
-* [How to build something that lasts 10000 years](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years)
+* [How to build something that lasts 10000 years](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years) #engineering
 
 ##### 15-06-2019
-* [Aerospace Projects Review Blog- Unbuilt aircraft and spacecraft projects](http://www.aerospaceprojectsreview.com/blog/)
+* [Aerospace Projects Review Blog- Unbuilt aircraft and spacecraft projects](http://www.aerospaceprojectsreview.com/blog/) #aerospace #aircraft
 
 ##### 17-06-2019
 * [Language wars: the 19 greatest linguistic spats of all time](https://www.theguardian.com/science/2019/jun/17/language-wars-18-greatest-linguistic-spats) #language #theguardian
@@ -185,7 +185,7 @@
  * [This Is the Beginning of the End of the Beef Industry](https://www.outsideonline.com/2399736/impossible-foods-beyond-meat-alt-meat?utm_source=pocket-newtab) #economics #beef
  
 ##### 02-08-2019
- * [Why You Need to Make a 'When I Die' File—Before It's Too Late](https://time.com/5640494/why-you-need-to-make-a-when-i-die-file-before-its-too-late/?utm_source=pocket-newtab) #insight #xi'am
+ * [Why You Need to Make a 'When I Die' File—Before It's Too Late](https://time.com/5640494/why-you-need-to-make-a-when-i-die-file-before-its-too-late/?utm_source=pocket-newtab) #insight #xiam
 
 ##### 03-08-2019
  * [‘I don’t smell!’ Meet the people who have stopped washing](https://www.theguardian.com/lifeandstyle/2019/aug/05/i-dont-smell-meet-the-people-who-have-stopped-washing) #the_guardian #marketing #cultural
@@ -194,7 +194,7 @@
 * [The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/) #economics #gender #psychology
 
 ##### 07-08-2019
-* [The myth of self-control](https://www.vox.com/science-and-health/2016/11/3/13486940/self-control-psychology-myth) #x'iam #psychology #behaviour
+* [The myth of self-control](https://www.vox.com/science-and-health/2016/11/3/13486940/self-control-psychology-myth) #xiam #psychology #behaviour
 
 ##### 11-08-2019
 * [The Benefits of Optimism Are Real](https://www.theatlantic.com/health/archive/2013/03/the-benefits-of-optimism-are-real/273306/) #resilience
@@ -382,4 +382,16 @@
 * [The Japanese words for “space” could change your view of the world](https://qz.com/1181019/the-japanese-words-for-space-could-change-your-view-of-the-world/) #tour-of-thought #japanese #insight #space
 </p>
 </details>
-</details
+
+</p>
+</details>
+<details><summary>December</summary>
+ 
+##### 2-12-2019
+* [How Notre Dame is being rebuilt from 50 billion scraps of data](https://www.wired.co.uk/article/notre-dame) #laser #photogrammetry #architecture #church #notre_dame
+* [What’s at Stake Is the Future of Humankind](https://www.patagonia.com/blog/2019/03/whats-at-stake-is-the-future-of-humankind/) #Yvon_Chouinard #insight #ideas #human_race #patagonia
+* [The Atlas Obscura Guide To London](https://www.atlasobscura.com/things-to-do/london-england) #tourism #london #unknown
+
+
+</p>
+</details>
