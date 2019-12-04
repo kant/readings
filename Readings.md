@@ -392,6 +392,9 @@
 * [What’s at Stake Is the Future of Humankind](https://www.patagonia.com/blog/2019/03/whats-at-stake-is-the-future-of-humankind/) #Yvon_Chouinard #insight #ideas #human_race #patagonia
 * [The Atlas Obscura Guide To London](https://www.atlasobscura.com/things-to-do/london-england) #tourism #london #unknown
 
-
+##### 4-12-2019
+* [What I've learned from 10,000 nights at the theatre](https://www.theguardian.com/stage/2019/dec/04/what-ive-learned-from-10000-nights-at-the-theatre) #the_guardian #theater #insight
+</p>
+ 
 </p>
 </details>
