@@ -394,6 +394,9 @@
 
 ##### 4-12-2019
 * [What I've learned from 10,000 nights at the theatre](https://www.theguardian.com/stage/2019/dec/04/what-ive-learned-from-10000-nights-at-the-theatre) #the_guardian #theater #insight
+
+##### 4-12-2019
+* [The Champion Who Picked a Date to Die](https://www.nytimes.com/interactive/2019/12/05/sports/euthanasia-athlete.html?action=click&module=Top%20Stories&pgtype=Homepage) #nytimes #hope #euthanasia #sports #death
 </p>
  
 </p>
