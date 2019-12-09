@@ -397,6 +397,9 @@
 
 ##### 4-12-2019
 * [The Champion Who Picked a Date to Die](https://www.nytimes.com/interactive/2019/12/05/sports/euthanasia-athlete.html?action=click&module=Top%20Stories&pgtype=Homepage) #nytimes #hope #euthanasia #sports #death
+
+##### 9-12-2019
+* [Small talk is cheap: Finland could teach us the art of keeping quiet](https://www.theguardian.com/lifeandstyle/shortcuts/2019/may/29/small-talk-finns-could-teach-us-art-of-staying-quiet) #the_guardian #finland #silence #culture
 </p>
  
 </p>
