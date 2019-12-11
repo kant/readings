@@ -400,6 +400,10 @@
 
 ##### 9-12-2019
 * [Small talk is cheap: Finland could teach us the art of keeping quiet](https://www.theguardian.com/lifeandstyle/shortcuts/2019/may/29/small-talk-finns-could-teach-us-art-of-staying-quiet) #the_guardian #finland #silence #culture
+
+##### 11-12-2019
+* [Yuval Noah Harari Is Worried About Our Souls](http://nautil.us/issue/67/reboot/yuval-noah-harari-is-worried-about-our-souls) #nautilus #insight #science #yuval_harari
+
 </p>
  
 </p>
