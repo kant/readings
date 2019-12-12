@@ -405,7 +405,7 @@
 * [Yuval Noah Harari Is Worried About Our Souls](http://nautil.us/issue/67/reboot/yuval-noah-harari-is-worried-about-our-souls) #nautilus #insight #science #yuval_harari
 
 ##### 12-12-2019
-* [How visualising death can help us accept it](https://www.theguardian.com/society/video/2019/dec/12/how-visualising-death-can-help-us-accept-it-video) #death #insight #
+* [How visualising death can help us accept it](https://www.theguardian.com/society/video/2019/dec/12/how-visualising-death-can-help-us-accept-it-video) #death #insight
 
 </p>
  
