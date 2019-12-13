@@ -407,6 +407,10 @@
 ##### 12-12-2019
 * [How visualising death can help us accept it](https://www.theguardian.com/society/video/2019/dec/12/how-visualising-death-can-help-us-accept-it-video) #death #insight
 
+##### 13-12-2019
+* [The Humanoid Stain](https://thebaffler.com/salvos/the-humanoid-stain-ehrenreich) #insight #art #ancient #the_baffler
+
+
 </p>
  
 </p>
