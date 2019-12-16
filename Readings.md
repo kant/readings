@@ -410,6 +410,10 @@
 ##### 13-12-2019
 * [The Humanoid Stain](https://thebaffler.com/salvos/the-humanoid-stain-ehrenreich) #insight #art #ancient #the_baffler
 
+##### 16-12-2019
+* [
+After 25 years of being homeless, I learned there’s one simple thing you can do to help](https://www.theguardian.com/books/2018/jun/25/after-25-years-of-being-homeless-i-learned-theres-one-simple-thing-you-can-do-to-help-gregory-p-smith) #insight #life #valentín #invisible
+
 
 </p>
  
