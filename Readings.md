@@ -416,6 +416,7 @@ After 25 years of being homeless, I learned there’s one simple thing you can d
 
 ##### 13-12-2019
 * [Welcome to Pleistocene Park](https://www.theatlantic.com/magazine/archive/2017/04/pleistocene-park/517779/) #science #mammuth #pleistocene #the_atlantic
+* [How do blind people enjoy the Mona Lisa?](https://www.bbc.com/news/av/world-us-canada-49491206/how-do-blind-people-enjoy-the-mona-lisa) #3d #blindness #art
 </p>
  
 </p>
