@@ -421,6 +421,9 @@ After 25 years of being homeless, I learned there’s one simple thing you can d
 ##### 18-12-2019
 * [Practice makes perfect, but not always](https://www.steinway.com/news/features/practice-practice) #education #piano #music #perseverance
 
+##### 19-12-2019
+* [La edad, al parecer, sí está en tu mente](https://www.nytimes.com/es/2019/10/23/espanol/ciencia-y-tecnologia/envejecer.html) #health #science
+
 </p>
  
 </p>
