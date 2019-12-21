@@ -424,6 +424,10 @@ After 25 years of being homeless, I learned there’s one simple thing you can d
 ##### 19-12-2019
 * [La edad, al parecer, sí está en tu mente](https://www.nytimes.com/es/2019/10/23/espanol/ciencia-y-tecnologia/envejecer.html) #health #science
 
+##### 21-12-2019
+* [He was a musical warlock': reflecting on Frank Zappa's greatest album at 50](https://www.theguardian.com/music/2019/dec/13/fank-zappa-hot-rats-album-music-anniversary) #zappa #music
+
+
 </p>
  
 </p>
