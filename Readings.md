@@ -428,7 +428,10 @@ After 25 years of being homeless, I learned there’s one simple thing you can d
 * [He was a musical warlock: reflecting on Frank Zappa's greatest album at 50](https://www.theguardian.com/music/2019/dec/13/fank-zappa-hot-rats-album-music-anniversary) #zappa #music
 
 ##### 21-12-2019
-* [It’s Putin’s World. We Just Live in It.](https://www.nytimes.com/2019/12/23/world/europe/russia-putin.html?action=click&module=Top%20Stories&pgtype=Homepage) #russia #politics #policy #state_of_the_art
+* [It’s Putin’s World. We Just Live in It](https://www.nytimes.com/2019/12/23/world/europe/russia-putin.html?action=click&module=Top%20Stories&pgtype=Homepage) #russia #politics #policy #state_of_the_art
+
+##### 21-12-2019
+* [New York City introduces bill to make glass buildings more bird-friendly](https://www.dezeen.com/2019/12/20/new-york-city-bird-bill-glass-buildings/) #birds #protection #bill #legislation
 
 </p>
  
