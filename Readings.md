@@ -433,6 +433,10 @@ After 25 years of being homeless, I learned there’s one simple thing you can d
 ##### 24-12-2019
 * [New York City introduces bill to make glass buildings more bird-friendly](https://www.dezeen.com/2019/12/20/new-york-city-bird-bill-glass-buildings/) #birds #protection #bill #legislation
 
+##### 26-12-2019
+* [Glass Farm by MVRDV](https://www.dezeen.com/2013/01/17/glass-farm-by-mvrdv/) #illusion-delusion #architecture #reconstruction #holland
+
+
 </p>
  
 </p>
