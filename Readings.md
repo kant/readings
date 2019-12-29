@@ -434,8 +434,11 @@ After 25 years of being homeless, I learned there’s one simple thing you can d
 * [New York City introduces bill to make glass buildings more bird-friendly](https://www.dezeen.com/2019/12/20/new-york-city-bird-bill-glass-buildings/) #birds #protection #bill #legislation
 
 ##### 26-12-2019
-* [Glass Farm by MVRDV](https://www.dezeen.com/2013/01/17/glass-farm-by-mvrdv/) #illusion-delusion #architecture #reconstruction #holland
+* [Glass Farm by MVRDV](https://www.dezeen.com/2013/01/17/glass-farm-by-mvrdv/) #illusion-delusion #architecture #reconstruction #holland #dezeen
 
+##### 29-12-2019
+* [Is veganism as good for you as they say?](https://www.theguardian.com/lifeandstyle/2019/dec/29/is-veganism-as-good-for-you-as-they-say) #insight #science #veganism
+* [Ethical veganism](https://www.theguardian.com/lifeandstyle/2019/dec/29/ethical-vegan-jordi-casamitjana-protected-status-court-tribunal) #insight #law #veganism
 
 </p>
  
