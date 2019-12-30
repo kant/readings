@@ -3,7 +3,7 @@
 
 ##### 25-05-2019
 * [Bjarke Ingels says a style is "like a straitjacket"](https://www.dezeen.com/2019/05/22/bjarke-ingels-podcast-interview-style-time-sensitive/) #architecture #Ingels
-* [She Had Stage 4 Lung Cancer, and a Mountain to Climb](https://www.nytimes.com/2019/05/22/sports/cancer-mother.html?module=inline) #aconcagua #mountains 
+* [She Had Stage 4 Lung Cancer, and a Mountain to Climb](https://www.nytimes.com/2019/05/22/sports/cancer-mother.html?module=inline) #aconcagua #mountains #resilience
 * [London Synphony orchestra, noche luminosa](http://martinwullich.com/london-symphony-orchestra-noche-luminosa/) #Simon Rattle
 
 ##### 26-05-2019
