@@ -440,6 +440,9 @@ After 25 years of being homeless, I learned there’s one simple thing you can d
 * [Is veganism as good for you as they say?](https://www.theguardian.com/lifeandstyle/2019/dec/29/is-veganism-as-good-for-you-as-they-say) #insight #science #veganism
 * [Ethical veganism](https://www.theguardian.com/lifeandstyle/2019/dec/29/ethical-vegan-jordi-casamitjana-protected-status-court-tribunal) #insight #law #veganism
 
+##### 30-12-2019
+* [Can ethics be taught?](https://mitsloan.mit.edu/ideas-made-to-matter/can-ethics-be-taught) #philosophy #insight #mit_sloan
+
 </p>
  
 </p>
