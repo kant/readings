@@ -443,6 +443,9 @@ After 25 years of being homeless, I learned there’s one simple thing you can d
 ##### 30-12-2019
 * [Can ethics be taught?](https://mitsloan.mit.edu/ideas-made-to-matter/can-ethics-be-taught) #philosophy #insight #mit_sloan
 
+##### 31-12-2019
+* [Ancient DNA Is Rewriting Human (and Neanderthal) History](https://www.theatlantic.com/science/archive/2018/03/ancient-dna-history/554798/) #science #DNA #neanderthal
+
 </p>
  
 </p>
