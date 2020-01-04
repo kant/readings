@@ -9,8 +9,8 @@
 ##### 26-05-2019
 * [The 2019 Everest Death Toll Rises to 11](https://www.outsideonline.com/2397250/everest-death-toll-rises-10) #mountain
 * [The Indiana Jones of Climate Science](https://www.outsideonline.com/2395102/john-all-scientist-climber-everest) #climate #mountain
-* [Marcus Aurelius on Embracing Mortality and the Key to Living with Presence](https://www.brainpickings.org/2019/05/20/marcus-aurelius-meditations-mortality-presence/) #marco aurelio
-* [Does Climbing Everest Alter Your Genetic Code?](https://www.outsideonline.com/2330801/does-climbing-everest-alter-your-genetic-code)  (!) #mountain #science #twins
+* [Marcus Aurelius on Embracing Mortality and the Key to Living with Presence](https://www.brainpickings.org/2019/05/20/marcus-aurelius-meditations-mortality-presence/) #marco_aurelio
+* [Does Climbing Everest Alter Your Genetic Code?](https://www.outsideonline.com/2330801/does-climbing-everest-alter-your-genetic-code)  #mountain #science #twins
  
 ###### 27-05-2019
 * [How computing's first 'killer app' changed everything](https://www.bbc.com/news/business-47802280)
