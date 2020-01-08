@@ -8,5 +8,8 @@
 * [Measuring the effects of partisanship on pie-eating](https://www.economist.com/united-states/2017/11/23/measuring-the-effects-of-partisanship-on-pie-eating) #insight #economist
 * [‘Rhapsody in Blue’ is in the public domain. Rap version, anyone?](https://www.latimes.com/opinion/story/2020-01-04/rhapsody-in-blue-is-in-the-public-domain-rap-version-anyone) #music #public_domain #law
 
+##### 8-01-2020
+* [The Coolest Architecture on Earth Is in Antarctica](https://www.nytimes.com/2020/01/06/science/antarctica-architecture.html) #architecture #antarctica
+
 </p>
 </details>
