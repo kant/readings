@@ -11,8 +11,11 @@
 ##### 8-01-2020
 * [The Coolest Architecture on Earth Is in Antarctica](https://www.nytimes.com/2020/01/06/science/antarctica-architecture.html) #architecture #antarctica
 
-##### 8-01-2020
+##### 9-01-2020
 * [A world without pain](https://www.newyorker.com/magazine/2020/01/13/a-world-without-pain?verso=true) #resilience #insight
+
+##### 10-01-2020
+* [What Happens When Science Just Disappears?](https://www.wired.com/story/what-happens-when-science-just-disappears/) #science #insight #ideas
 
 </p>
 </details>
