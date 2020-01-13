@@ -17,5 +17,8 @@
 ##### 10-01-2020
 * [What Happens When Science Just Disappears?](https://www.wired.com/story/what-happens-when-science-just-disappears/) #science #insight #ideas
 
+##### 13-01-2020
+* [American history textbooks can differ across the country, in ways that are shaded by partisan politics.](https://www.nytimes.com/interactive/2020/01/12/us/texas-vs-california-history-textbooks.html?action=click&module=Top%20Stories&pgtype=Homepage) #social_science #insight #education #partisan #politiks
+
 </p>
 </details>
