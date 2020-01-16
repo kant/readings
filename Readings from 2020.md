@@ -20,5 +20,10 @@
 ##### 13-01-2020
 * [American history textbooks can differ across the country, in ways that are shaded by partisan politics.](https://www.nytimes.com/interactive/2020/01/12/us/texas-vs-california-history-textbooks.html?action=click&module=Top%20Stories&pgtype=Homepage) #social_science #insight #education #partisan #politiks
 
+##### 16-01-2020
+* [Time for the Human Screenome Project](https://www.nature.com/articles/d41586-020-00032-5) #science #insight #ideas #nature
+* [36 Hours in Buenos Aires](https://www.nytimes.com/2020/01/16/travel/what-to-do-36-hours-buenos-aires.html) #argentina #insight #nytimes
+
 </p>
 </details>
+
