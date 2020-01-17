@@ -24,6 +24,9 @@
 * [Time for the Human Screenome Project](https://www.nature.com/articles/d41586-020-00032-5) #science #insight #ideas #nature
 * [36 Hours in Buenos Aires](https://www.nytimes.com/2020/01/16/travel/what-to-do-36-hours-buenos-aires.html) #argentina #insight #nytimes
 
+##### 17-01-2020
+* [How Design is Driving Ford to Reimagine What a Car Company Can Be](https://www.ideo.com/journal/how-design-is-driving-ford-to-reimagine-what-a-car-company-can-be) #technology #insight #corporation #culture #organizational #bureocracy
+
 </p>
 </details>
 
