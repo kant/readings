@@ -27,6 +27,9 @@
 ##### 17-01-2020
 * [How Design is Driving Ford to Reimagine What a Car Company Can Be](https://www.ideo.com/journal/how-design-is-driving-ford-to-reimagine-what-a-car-company-can-be) #technology #insight #corporation #culture #organizational #bureocracy
 
+##### 17-01-2020
+* [Steve Jobs Never Wanted Us to Use Our iPhones Like This
+](https://www.nytimes.com/2019/01/25/opinion/sunday/steve-jobs-never-wanted-us-to-use-our-iphones-like-this.html) #technology #insight #corporation #culture #apple
 </p>
 </details>
 
