@@ -31,7 +31,7 @@
 * [Steve Jobs Never Wanted Us to Use Our iPhones Like This
 ](https://www.nytimes.com/2019/01/25/opinion/sunday/steve-jobs-never-wanted-us-to-use-our-iphones-like-this.html) #technology #insight #corporation #culture #apple
 
-##### 18-01-2020
+##### 23-01-2020
 * [What Happened to General Magic? Inside the company that invented the iPhone — two decades too early](http://nymag.com/intelligencer/2018/08/general-magic-oral-history-of-the-influential-tech-company.html) #technology #insight #corporation #invention #iphone
 
 </p>
