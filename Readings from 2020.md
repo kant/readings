@@ -34,6 +34,9 @@
 ##### 23-01-2020
 * [What Happened to General Magic? Inside the company that invented the iPhone — two decades too early](http://nymag.com/intelligencer/2018/08/general-magic-oral-history-of-the-influential-tech-company.html) #technology #insight #corporation #invention #iphone
 
+##### 27-01-2020
+* [The truth about hydration: should you drink eight glasses of water a day?](https://www.theguardian.com/lifeandstyle/2020/jan/27/the-truth-about-hydration-should-you-drink-eight-glasses-of-water-a-day) #health #water #science #public_health
+
 </p>
 </details>
 
