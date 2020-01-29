@@ -38,7 +38,10 @@
 * [The truth about hydration: should you drink eight glasses of water a day?](https://www.theguardian.com/lifeandstyle/2020/jan/27/the-truth-about-hydration-should-you-drink-eight-glasses-of-water-a-day) #health #water #science #public_health
 
 ##### 27-01-2020
-* [The Art of Computer Typography](https://signalvnoise.com/posts/3183-the-art-of-computer-typography) #typography #insight #techonology #evolution
+* [The Art of Computer Typography](https://signalvnoise.com/posts/3183-the-art-of-computer-typography) #typography #insight #technology #evolution
+
+##### 29-01-2020
+* ['Impossible Architecture': Consider the impossible — find the visionaries](https://www.japantimes.co.jp/culture/2020/01/25/arts/impossible-architecture/) #architecture #tadao_ando #japan_times #japan
 </p>
 </details>
 
