@@ -42,6 +42,18 @@
 
 ##### 29-01-2020
 * ['Impossible Architecture': Consider the impossible — find the visionaries](https://www.japantimes.co.jp/culture/2020/01/25/arts/impossible-architecture/) #architecture #tadao_ando #japan_times #japan
+
+##### 31-05-2019
+* [The glorius, almost-disconnected boredom of my walk in Japan](https://www.wired.com/story/six-weeks-100s-miles-hours-glorious-boredom-japan/?itm_campaign=BottomRelatedStories_Sections_1) #japan
 </p>
 </details>
+
+<details><summary>February</summary>
+ 
+##### 4-02-2020
+* [The invention of “Ethical AI” How Big Tech Manipulates Academia to Avoid Regulation](https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/) #AI #insight #academia #law
+
+</p>
+</details>
+
 
