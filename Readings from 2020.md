@@ -53,6 +53,9 @@
 ##### 4-02-2020
 * [The invention of “Ethical AI” How Big Tech Manipulates Academia to Avoid Regulation](https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/) #AI #insight #academia #law
 
+##### 5-02-2020
+* [Banksy Is a Control Freak. But He Can’t Control His Legacy](https://www.nytimes.com/2020/02/05/arts/design/banksy-legacy.html?action=click&module=Top%20Stories&pgtype=Homepage) #Banksy #insight #academia #art
+
 </p>
 </details>
 
