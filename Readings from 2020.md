@@ -56,6 +56,8 @@
 ##### 5-02-2020
 * [Banksy Is a Control Freak. But He Can’t Control His Legacy](https://www.nytimes.com/2020/02/05/arts/design/banksy-legacy.html?action=click&module=Top%20Stories&pgtype=Homepage) #Banksy #insight #academia #art
 
+##### 7-02-2020
+* [Unique solution rolls in to help Muslims pray at Tokyo Games](https://www.japantimes.co.jp/news/2020/02/07/national/muslim-prayer-truck-tokyo-olympics/) #religion #ancestry #japan_times #muslim #ideas #mobility
 </p>
 </details>
 
