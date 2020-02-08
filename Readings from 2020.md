@@ -58,6 +58,11 @@
 
 ##### 7-02-2020
 * [Unique solution rolls in to help Muslims pray at Tokyo Games](https://www.japantimes.co.jp/news/2020/02/07/national/muslim-prayer-truck-tokyo-olympics/) #religion #ancestry #japan_times #muslim #ideas #mobility
+
+
+##### 8-02-2020
+* [Dystopian Silicon Valley and the Wisdom of Richard Hendricks](https://www.theinformation.com/articles/dystopian-silicon-valley-and-the-wisdom-of-richard-hendricks) #dystopian #insight #silicon_valley #ideas #the_information
+
 </p>
 </details>
 
