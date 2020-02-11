@@ -65,6 +65,12 @@
 ##### 10-02-2020
 * [Satellite images show how coronavirus brought Wuhan to a standstill](https://www.technologyreview.com/s/615152/satellite-images-show-how-coronavirus-brought-wuhan-to-a-standstill/) #coronavirus #insight #health #satellite
 
+
+##### 10-02-2020
+* [In the Race for Cheap Airfare, It’s You vs. the Machine](https://www.nytimes.com/2020/01/27/business/cheap-airfare.html?action=click&module=Editors%20Picks&pgtype=Homepage) #airlines #insight #nytimes #buying_patterns
+* [Everything You Think You Know About Housing Is Probably Wrong](https://www.nytimes.com/2020/01/28/arts/density-housing-skyscraper-museum.html?action=click&module=Editors%20Picks&pgtype=Homepage) #gentrification #insight #nytimes
+
+
 </p>
 </details>
 
