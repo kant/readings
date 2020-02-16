@@ -72,6 +72,8 @@
 ##### 15-02-2020
 * [The Zambian “afronaut” who wanted to join the space race](https://www.newyorker.com/culture/culture-desk/the-zambian-afronaut-who-wanted-to-join-the-space-race) #science #africa #moon #space-race #newyorker
 
+##### 16-02-2020
+* [Beyond Architecture, a Builder of Lusty Fantasies](https://www.nytimes.com/2020/02/06/arts/design/Lequeu-Morgan-Library.html?action=click&module=Features&pgtype=Homepage) #insight #architecture #europe #graphicalia
 </p>
 </details>
 
