@@ -37,7 +37,7 @@
 ##### 27-01-2020
 * [The truth about hydration: should you drink eight glasses of water a day?](https://www.theguardian.com/lifeandstyle/2020/jan/27/the-truth-about-hydration-should-you-drink-eight-glasses-of-water-a-day) #health #water #science #public_health
 
-##### 27-01-2020
+##### 28-01-2020
 * [The Art of Computer Typography](https://signalvnoise.com/posts/3183-the-art-of-computer-typography) #typography #insight #technology #evolution
 
 ##### 29-01-2020
