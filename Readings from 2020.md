@@ -74,6 +74,12 @@
 
 ##### 16-02-2020
 * [Beyond Architecture, a Builder of Lusty Fantasies](https://www.nytimes.com/2020/02/06/arts/design/Lequeu-Morgan-Library.html?action=click&module=Features&pgtype=Homepage) #insight #architecture #europe #graphicalia
+
+##### 18-02-2020
+* [Kawasaki confronts its gentrification](https://features.japantimes.co.jp/kawasaki-factories/) #insight #gentrification #japan #urban_planning #japan_times
+* [Why do we cry – and what can we learn from our tears?](https://www.theguardian.com/lifeandstyle/2020/feb/18/why-cry-what-can-we-learn-from-tears) #insight #the_guardian
+* [What four years at sea taught me about our relationship to the ocean](https://www.theguardian.com/environment/2020/feb/18/what-four-years-at-sea-taught-me-about-our-relationship-to-the-ocean) #insight #the_guardian #ocean #water
+
 </p>
 </details>
 
