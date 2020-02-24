@@ -80,6 +80,9 @@
 * [Why do we cry – and what can we learn from our tears?](https://www.theguardian.com/lifeandstyle/2020/feb/18/why-cry-what-can-we-learn-from-tears) #insight #the_guardian
 * [What four years at sea taught me about our relationship to the ocean](https://www.theguardian.com/environment/2020/feb/18/what-four-years-at-sea-taught-me-about-our-relationship-to-the-ocean) #insight #the_guardian #ocean #water
 
+##### 23-02-2020
+* [How the Arabic Alphabet Inspired Abstract Art](https://www.nytimes.com/2020/02/20/arts/design/Arab-Abstraction-grey-art-gallery.html) #insight #art #arab #nytimes
+
 </p>
 </details>
 
