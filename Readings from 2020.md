@@ -83,6 +83,8 @@
 ##### 23-02-2020
 * [How the Arabic Alphabet Inspired Abstract Art](https://www.nytimes.com/2020/02/20/arts/design/Arab-Abstraction-grey-art-gallery.html) #insight #art #arab #nytimes
 
+##### 26-02-2020
+* [Paraguay’s Response to Modernist Architecture? Clay, Mud and Timber](hhttps://www.nytimes.com/2020/02/14/t-magazine/paraguay-architecture.html?action=click&module=Features&pgtype=Homepage) #insight #architecture #paraguay #timber
 </p>
 </details>
 
