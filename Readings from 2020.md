@@ -86,8 +86,11 @@
 ##### 26-02-2020
 * [Paraguay’s Response to Modernist Architecture? Clay, Mud and Timber](hhttps://www.nytimes.com/2020/02/14/t-magazine/paraguay-architecture.html?action=click&module=Features&pgtype=Homepage) #insight #architecture #paraguay #timber
 
-##### 26-02-2020
+##### 27-02-2020
 * [The Unexpectedly Tropical History of Brutalism](https://www.nytimes.com/2019/08/15/t-magazine/tropical-brutalism.html?action=click&module=RelatedLinks&pgtype=Article) #insight #architecture #brazil #brutalism #le_corbusier
+
+##### 29-02-2020
+* [Aiming for Accessibility: Barrier-Free App Developer - Yuriko Oda](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2042094/) #disabilities #japan #app-developing #altruism
 </p>
 </details>
 
