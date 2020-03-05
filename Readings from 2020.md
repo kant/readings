@@ -98,6 +98,10 @@
  
 ##### 04-03-2020
 * [What can my brain tell me about the music I listen to](https://mybraintunes.doc.ic.ac.uk/) #music #UK #science #experiment #brain
+
+##### 05-03-2020
+* [The invisible city: how a homeless man built a life underground](https://www.theguardian.com/news/2020/mar/05/invisible-city-how-homeless-man-built-life-underground-bunker-hampstead-heath) #homeless #the_guardian #experiment #insight
+* [An Artist Whose Muse Is Loneliness](https://www.nytimes.com/2020/02/26/t-magazine/haegue-yang.html) #art #nytimes #loneliness #insight
 </p>
 </details>
 
