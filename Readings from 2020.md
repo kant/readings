@@ -106,9 +106,12 @@
 ##### 06-03-2020
 * [The mystery of mountain lions](https://www.hcn.org/issues/52.3/north-wildlife-the-mystery-of-mountain-lions) #nature  #science #ecology #brain #evolution
 
-##### 06-03-2020
+##### 07-03-2020
 * [The Miracle of Moving a Piano in New York City](https://www.nytimes.com/interactive/2020/03/06/arts/music/ny-piano-moving.html?action=click&module=Features&pgtype=Homepage) #piano  #nytimes
 * [How Working-Class Life Is Killing Americans, in Charts](https://www.nytimes.com/interactive/2020/03/06/opinion/working-class-death-rate.html) #insight  #nytimes #data_visualization #infographics
+
+##### 06-03-2020
+* [Yoshi the turtle celebrates freedom with a record 22,000‑mile swim](https://www.thetimes.co.uk/article/yoshi-the-turtle-celebrates-freedom-with-a-record-22-000-mile-swim-j768pfhg8) #nature #science #ecology #tortoise #yoshi
 
 </p>
 </details>
