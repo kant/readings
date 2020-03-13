@@ -118,6 +118,9 @@
 
 ##### 11-03-2020
 * [How Coronavirus Hijacks Your Cells](https://www.nytimes.com/interactive/2020/03/11/science/how-coronavirus-hijacks-your-cells.html?action=click&module=Spotlight&pgtype=Homepage) #heatlh #covid-19 #disease #process
+
+##### 13-03-2020
+* [The Elephant Man review – David Lynch's tragic tale of compassion](https://www.theguardian.com/film/2020/mar/12/the-elephant-man-review-david-lynch) #cinema  #disease #health #film #the_guardian
 </p>
 </details>
 
