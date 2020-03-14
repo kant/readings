@@ -121,6 +121,10 @@
 
 ##### 13-03-2020
 * [The Elephant Man review – David Lynch's tragic tale of compassion](https://www.theguardian.com/film/2020/mar/12/the-elephant-man-review-david-lynch) #cinema  #disease #health #film #the_guardian
+
+##### 13-03-2020
+* [Mapping the Social Network of Coronavirus](https://www.nytimes.com/2020/03/13/science/coronavirus-social-networks-data.html?algo=identity&fellback=false&imp_id=241541257&imp_id=180591696&action=click&module=Science%20%20Technology&pgtype=Homepage) #science  #disease #health #tracking #network
+
 </p>
 </details>
 
