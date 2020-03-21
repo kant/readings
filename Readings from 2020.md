@@ -134,6 +134,10 @@
 ##### 18-03-2020
 * [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.nytimes.com/2020/03/17/science/why-birds-are-the-worlds-best-engineers.html) #covid-19 #insight #disease #science
 * [Feeling Good About Giving: The Benefits (and Costs) of Self-Interested Charitable Behavior](https://www.nytimes.com/2020/03/17/science/why-birds-are-the-worlds-best-engineers.html) #egocentrism #insight #charitable #science
+
+##### 21-03-2020
+* [Designing a solar lamp for the rural Cambodian people](http://loucaspapa.org/work/moonlight/) #ideas #insight #cambodia #rural
+
 </p>
 </details>
 
