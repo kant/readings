@@ -138,6 +138,10 @@
 ##### 21-03-2020
 * [Designing a solar lamp for the rural Cambodian people](http://loucaspapa.org/work/moonlight/) #ideas #insight #cambodia #rural
 
+##### 22-03-2020
+* [How the Virus Got Out. The most extensive travel restrictions to stop an outbreak in human history haven’t been enough. We analyzed the movements of hundreds of millions of people to show why](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) #data-visualization #covid-19 #nytimes
+* [Odorama, historia cultural del olor](https://www.youtube.com/watch?v=ojbp4gsJu4M) #ideas #insight #odor #culture
+
 </p>
 </details>
 
