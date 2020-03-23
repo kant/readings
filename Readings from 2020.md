@@ -144,6 +144,7 @@
 
 ##### 23-03-2020
 * [In the Battle Against Coronavirus, Humanity Lacks Leadership](https://time.com/5803225/yuval-noah-harari-coronavirus-humanity-leadership/) #ideas #insight #yuval_harari
+* [El drama de vivir sin sentir olores](https://elcomercio.pe/tecnologia/ciencias/salud-olfato-el-drama-de-vivir-sin-sentir-olores-noticia/) #ideas #insight #science #biology #odor
 
 </p>
 </details>
