@@ -142,6 +142,9 @@
 * [How the Virus Got Out. The most extensive travel restrictions to stop an outbreak in human history haven’t been enough. We analyzed the movements of hundreds of millions of people to show why](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) #data-visualization #covid-19 #nytimes
 * [Odorama, historia cultural del olor](https://www.youtube.com/watch?v=ojbp4gsJu4M) #ideas #insight #odor #culture
 
+##### 23-03-2020
+* [In the Battle Against Coronavirus, Humanity Lacks Leadership](https://time.com/5803225/yuval-noah-harari-coronavirus-humanity-leadership/) #ideas #insight #yuval_harari
+
 </p>
 </details>
 
