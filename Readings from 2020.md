@@ -146,6 +146,8 @@
 * [In the Battle Against Coronavirus, Humanity Lacks Leadership](https://time.com/5803225/yuval-noah-harari-coronavirus-humanity-leadership/) #ideas #insight #yuval_harari
 * [El drama de vivir sin sentir olores](https://elcomercio.pe/tecnologia/ciencias/salud-olfato-el-drama-de-vivir-sin-sentir-olores-noticia/) #ideas #insight #science #biology #odor
 
+##### 24-03-2020
+* [Why is Japan still a coronavirus outlier?](https://www.japantimes.co.jp/opinion/2020/03/21/commentary/japan-commentary/japan-still-coronavirus-outlier/) #insight #japan #covid-19
 </p>
 </details>
 
