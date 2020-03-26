@@ -149,6 +149,9 @@
 ##### 24-03-2020
 * [The coronavirus isn’t alive. That’s why it’s so hard to kill.](https://www.washingtonpost.com/health/2020/03/23/coronavirus-isnt-alive-thats-why-its-so-hard-kill/) #insight #science #covid-19 #washington_post
 
+##### 25-03-2020
+* [¿Para qué sirve el silencio?](https://www.elmundo.es/vida-sana/bienestar/2017/11/11/59fc98f122601d743c8b45f4.html) #insight #ideas #silence #el_país #health
+* [A message from MIT astronauts: Accept the mission and find your motivators](http://news.mit.edu/2020/astronauts-social-distancing-0324) #insight #ideas #MIT #social #health
 </p>
 </details>
 
