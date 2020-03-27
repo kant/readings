@@ -152,6 +152,10 @@
 ##### 25-03-2020
 * [¿Para qué sirve el silencio?](https://www.elmundo.es/vida-sana/bienestar/2017/11/11/59fc98f122601d743c8b45f4.html) #insight #ideas #silence #el_país #health
 * [A message from MIT astronauts: Accept the mission and find your motivators](http://news.mit.edu/2020/astronauts-social-distancing-0324) #insight #ideas #MIT #social #health
+
+##### 27-03-2020
+* [Canada mourns Takaya – the lone sea wolf whose spirit captured the world](https://www.theguardian.com/environment/2020/mar/27/canada-mourns-takaya-the-lone-sea-wolf-whose-spirit-captured-the-world-aoe) #insight #nature #wolf #the_guardian
+
 </p>
 </details>
 
