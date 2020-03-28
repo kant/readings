@@ -147,7 +147,7 @@
 * [El drama de vivir sin sentir olores](https://elcomercio.pe/tecnologia/ciencias/salud-olfato-el-drama-de-vivir-sin-sentir-olores-noticia/) #ideas #insight #science #biology #odor
 
 ##### 24-03-2020
-* [The coronavirus isn’t alive. That’s why it’s so hard to kill.](https://www.washingtonpost.com/health/2020/03/23/coronavirus-isnt-alive-thats-why-its-so-hard-kill/) #insight #science #covid-19 #washington_post
+* [The coronavirus isn’t alive. That’s why it’s so hard to kill](https://www.washingtonpost.com/health/2020/03/23/coronavirus-isnt-alive-thats-why-its-so-hard-kill/) #insight #science #covid-19 #washington_post
 
 ##### 25-03-2020
 * [¿Para qué sirve el silencio?](https://www.elmundo.es/vida-sana/bienestar/2017/11/11/59fc98f122601d743c8b45f4.html) #insight #ideas #silence #el_país #health
@@ -155,6 +155,9 @@
 
 ##### 27-03-2020
 * [Canada mourns Takaya – the lone sea wolf whose spirit captured the world](https://www.theguardian.com/environment/2020/mar/27/canada-mourns-takaya-the-lone-sea-wolf-whose-spirit-captured-the-world-aoe) #insight #nature #wolf #the_guardian
+
+##### 28-03-2020
+* [How the Pandemic Will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/) #insight #science #covid-19 #The_atlantic
 
 </p>
 </details>
