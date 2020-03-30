@@ -159,6 +159,10 @@
 ##### 28-03-2020
 * [How the Pandemic Will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/) #insight #science #covid-19 #The_atlantic
 
+##### 29-03-2020
+* [Dario Gil: "Luchamos contra coronavirus con un superordenador"](https://www.elmundo.es/ciencia-y-salud/salud/2020/03/30/5e80e3d6fdddffff7a8b4610.html) #insight #science #covid-19 #bluemix #El_mundo
+* [How Genetic Mutations Turned the Coronavirus Deadly](http://nautil.us/issue/83/intelligence/how-genetic-mutations-turned-the-coronavirus-deadly) #insight #science #covid-19 #Nautil.us #gene #mutation
+
 </p>
 </details>
 
