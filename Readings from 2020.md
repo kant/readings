@@ -162,7 +162,11 @@
 ##### 29-03-2020
 * [Dario Gil: "Luchamos contra coronavirus con un superordenador"](https://www.elmundo.es/ciencia-y-salud/salud/2020/03/30/5e80e3d6fdddffff7a8b4610.html) #insight #science #covid-19 #bluemix #El_mundo
 * [How Genetic Mutations Turned the Coronavirus Deadly](http://nautil.us/issue/83/intelligence/how-genetic-mutations-turned-the-coronavirus-deadly) #insight #science #covid-19 #Nautil.us #gene #mutation
-
 </p>
 </details>
-
+<details><summary>April</summary>
+</p>
+##### 3-04-2020
+* [Location Data Says It All: Staying at Home During Coronavirus Is a Luxury](https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html?action=click&module=Top%20Stories&pgtype=Homepage) #ideas #insight #social_science #data_visualization #location #upper_class
+</p>
+</details>
