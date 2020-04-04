@@ -166,7 +166,8 @@
 </details>
 <details><summary>April</summary>
 </p>
+
 ##### 3-04-2020
-* [Location Data Says It All: Staying at Home During Coronavirus Is a Luxury](https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html?action=click&module=Top%20Stories&pgtype=Homepage) #ideas #insight #social_science #data_visualization #location #upper_class
+* [Location Data Says It All: Staying at Home During Coronavirus Is a Luxury](https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html) #ideas #insight #social_science #data_visualization #location #upper_class
 </p>
 </details>
