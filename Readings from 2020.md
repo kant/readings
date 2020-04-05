@@ -169,5 +169,8 @@
 
 ##### 3-04-2020
 * [Location Data Says It All: Staying at Home During Coronavirus Is a Luxury](https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html) #ideas #insight #social_science #data_visualization #location #upper_class
+
+##### 5-04-2020
+* [Dylan’s message? The answer, my friend, isn’t in this song](https://www.ft.com/content/2accf03a-7432-11ea-ad98-044200cb277f) #ideas #insight #music #financial_times 
 </p>
 </details>
