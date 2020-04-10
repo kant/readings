@@ -175,5 +175,8 @@
 
 ##### 9-04-2020
 * [First-wave COVID-19 transmissibility and severity in China outside Hubei after control measures, and second-wave scenario planning: a modelling impact assessment](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30746-7/fulltext) #covid #insight #health #the_lancet
+
+##### 10-04-2020
+* [Lessons in constructive solitude from Thoreau](https://www.nytimes.com/2020/04/09/arts/design/thoreau-walden-coronavirus-quarantine.html?action=click&module=Editors%20Picks&pgtype=Homepage) #ideas #insight #nytimes #zen
 </p>
 </details>
