@@ -182,5 +182,8 @@
 ##### 11-04-2020
 * [Mapping Armageddon - The Cartography of Ruin in Occupied Japan](https://www.scribd.com/document/261160440/Mapping-Armageddon-The-Cartography-of-Ruin-in-Occupied-Japan-PDF) #cartography #insight #japan #war / David Fedman. 2015. “Mapping Armageddon - The Cartography of Ruin in Occupied Japan.” The Portolan, no. 92 (Spring): 7–29.
 * [Escenas de una pandemia de hace 1.500 años que se repiten hoy](https://elpais.com/cultura/2020-04-10/escenas-de-una-pandemia-de-hace-1500-anos-que-se-repiten-hoy.html) #pandemia #history #el_pais #paradox
+
+##### 12-04-2020
+* [How Tesla and Waymo are tackling a major problem for self-driving cars: data](https://www.theverge.com/transportation/2018/4/19/17204044/tesla-waymo-self-driving-car-data-simulation) #ideas #insight #insight #ai #the_verge
 </p>
 </details>
