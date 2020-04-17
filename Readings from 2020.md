@@ -184,6 +184,11 @@
 * [Escenas de una pandemia de hace 1.500 años que se repiten hoy](https://elpais.com/cultura/2020-04-10/escenas-de-una-pandemia-de-hace-1500-anos-que-se-repiten-hoy.html) #pandemia #history #el_pais #paradox
 
 ##### 12-04-2020
-* [How Tesla and Waymo are tackling a major problem for self-driving cars: data](https://www.theverge.com/transportation/2018/4/19/17204044/tesla-waymo-self-driving-car-data-simulation) #ideas #insight #insight #ai #the_verge
+* [How Tesla and Waymo are tackling a major problem for self-driving cars: data](https://www.theverge.com/transportation/2018/4/19/17204044/tesla-waymo-self-driving-car-data-simulation) #ideas #insight  #ai #the_verge
+
+##### 16-04-2020
+* [The Cure for Toxic Positivity](https://forge.medium.com/the-cure-for-toxic-positivity-155278b7daaa) #ideas #insights #psycology
+
+
 </p>
 </details>
