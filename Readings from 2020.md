@@ -189,6 +189,10 @@
 ##### 16-04-2020
 * [The Cure for Toxic Positivity](https://forge.medium.com/the-cure-for-toxic-positivity-155278b7daaa) #ideas #insights #psycology
 
+##### 16-04-2020
+* [The Big Bang Is Hard Science. It Is Also a Creation Story.](
+http://nautil.us/issue/75/story/the-big-bang-is-hard-science-it-is-also-a-creation-story-rp) #ideas #insights #science #culture
+
 
 </p>
 </details>
