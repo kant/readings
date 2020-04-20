@@ -189,10 +189,15 @@
 ##### 16-04-2020
 * [The Cure for Toxic Positivity](https://forge.medium.com/the-cure-for-toxic-positivity-155278b7daaa) #ideas #insights #psycology
 
-##### 16-04-2020
+##### 19-04-2020
 * [The Big Bang Is Hard Science. It Is Also a Creation Story.](
 http://nautil.us/issue/75/story/the-big-bang-is-hard-science-it-is-also-a-creation-story-rp) #ideas #insights #science #culture
 
-
+##### 20-04-2020
+* ['Will coronavirus change our attitudes to death? Quite the opposite' (Yuval Noah Harari)](
+https://www.theguardian.com/books/2020/apr/20/yuval-noah-harari-will-coronavirus-change-our-attitudes-to-death-quite-the-opposite) #ideas #insights #the_guardian #human_race
+chimpanzees can do this—we can’t
+* [Chimpanzees can do this, we (human beings) can’t)](
+https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #twitter #human_race
 </p>
 </details>
