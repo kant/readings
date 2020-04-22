@@ -199,5 +199,8 @@ https://www.theguardian.com/books/2020/apr/20/yuval-noah-harari-will-coronavirus
 chimpanzees can do this—we can’t
 * [Chimpanzees can do this, we (human beings) can’t)](
 https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #twitter #human_race
+
+##### 22-04-2020
+* [Why Is A440 A Universal Tuning Standard?](https://daily.redbullmusicacademy.com/2017/10/a440-tuning-standard-feature) #music #insights #history
 </p>
 </details>
