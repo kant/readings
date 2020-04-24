@@ -196,11 +196,13 @@ http://nautil.us/issue/75/story/the-big-bang-is-hard-science-it-is-also-a-creati
 ##### 20-04-2020
 * ['Will coronavirus change our attitudes to death? Quite the opposite' (Yuval Noah Harari)](
 https://www.theguardian.com/books/2020/apr/20/yuval-noah-harari-will-coronavirus-change-our-attitudes-to-death-quite-the-opposite) #ideas #insights #the_guardian #human_race
-chimpanzees can do this—we can’t
 * [Chimpanzees can do this, we (human beings) can’t)](
 https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #twitter #human_race
 
 ##### 22-04-2020
 * [Why Is A440 A Universal Tuning Standard?](https://daily.redbullmusicacademy.com/2017/10/a440-tuning-standard-feature) #music #insights #history
+
+##### 23-04-2020
+* [Israel Shows Us the Future of Protest](https://www.theatlantic.com/international/archive/2020/04/protest-demonstration-pandemic-coronavirus-covid19/610381/)
 </p>
 </details>
