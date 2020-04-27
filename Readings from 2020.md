@@ -203,6 +203,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [Why Is A440 A Universal Tuning Standard?](https://daily.redbullmusicacademy.com/2017/10/a440-tuning-standard-feature) #music #insights #history
 
 ##### 23-04-2020
-* [Israel Shows Us the Future of Protest](https://www.theatlantic.com/international/archive/2020/04/protest-demonstration-pandemic-coronavirus-covid19/610381/)
+* [Israel Shows Us the Future of Protest](https://www.theatlantic.com/international/archive/2020/04/protest-demonstration-pandemic-coronavirus-covid19/610381/) #covid-19 #protest #insight
+
+##### 26-04-2020
+* [The Truth About Isaac Newton’s Productive Plague](https://www.newyorker.com/culture/cultural-comment/the-truth-about-isaac-newtons-productive-plague) #isaac_newton #insight #productivity
+* [The Secret to Germany’s COVID-19 Success: Angela Merkel Is a Scientist](https://www.theatlantic.com/international/archive/2020/04/angela-merkel-germany-coronavirus-pandemic/610225/) #covid-19 #insight #the_atlantic
 </p>
 </details>
