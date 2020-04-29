@@ -208,5 +208,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 26-04-2020
 * [The Truth About Isaac Newton’s Productive Plague](https://www.newyorker.com/culture/cultural-comment/the-truth-about-isaac-newtons-productive-plague) #isaac_newton #insight #productivity
 * [The Secret to Germany’s COVID-19 Success: Angela Merkel Is a Scientist](https://www.theatlantic.com/international/archive/2020/04/angela-merkel-germany-coronavirus-pandemic/610225/) #covid-19 #insight #the_atlantic
+
+##### 29-04-2020
+* [The lockdown paradox: why some people's anxiety is improving during the crisis](https://www.theguardian.com/commentisfree/2020/apr/29/coronavirus-lockdown-anxiety-mental-health) #insight #paradox #insight #the_guardian
 </p>
 </details>
