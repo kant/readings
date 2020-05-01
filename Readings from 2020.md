@@ -213,3 +213,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [The lockdown paradox: why some people's anxiety is improving during the crisis](https://www.theguardian.com/commentisfree/2020/apr/29/coronavirus-lockdown-anxiety-mental-health) #insight #paradox #insight #the_guardian
 </p>
 </details>
+
+<details><summary>May</summary>
+ 
+##### 1-05-2020
+* [Clase Magistral de Mariano Llinás: El proceso creativo de "La flor"](https://www.youtube.com/watch?v=4hm-0dQhFgI&t=4843s) #cinematography #insight #creative_process 
+</p>
+</details>
