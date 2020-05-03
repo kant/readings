@@ -217,6 +217,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 <details><summary>May</summary>
  
 ##### 1-05-2020
-* [Clase Magistral de Mariano Llinás: El proceso creativo de "La flor"](https://www.youtube.com/watch?v=4hm-0dQhFgI&t=4843s) #cinematography #insight #creative_process 
+* [Clase Magistral de Mariano Llinás: El proceso creativo de "La flor"](https://www.youtube.com/watch?v=4hm-0dQhFgI&t=4843s) #cinematography #insight #creative_process
+
+##### 3-05-2020
+* [Immigrants Have Always Known the Pain of Social Distancing](https://www.theatlantic.com/ideas/archive/2020/05/immigrants-have-always-known-the-pain-of-social-distancing/610969/) #insight #inmigration #ariel_dorfman 
 </p>
 </details>
