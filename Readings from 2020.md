@@ -220,6 +220,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [Clase Magistral de Mariano Llinás: El proceso creativo de "La flor"](https://www.youtube.com/watch?v=4hm-0dQhFgI&t=4843s) #cinematography #insight #creative_process
 
 ##### 3-05-2020
-* [Immigrants Have Always Known the Pain of Social Distancing](https://www.theatlantic.com/ideas/archive/2020/05/immigrants-have-always-known-the-pain-of-social-distancing/610969/) #insight #inmigration #ariel_dorfman 
+* [Immigrants Have Always Known the Pain of Social Distancing](https://www.theatlantic.com/ideas/archive/2020/05/immigrants-have-always-known-the-pain-of-social-distancing/610969/) #insight #inmigration #ariel_dorfman
+
+##### 4-05-2020
+* [Google and Apple Reveal How Covid-19 Alert Apps Might Look](https://www.wired.com/story/apple-google-covid-19-contact-tracing-interface/) #covid-19 #insight #science #technology
 </p>
 </details>
