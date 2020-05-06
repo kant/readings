@@ -224,5 +224,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 4-05-2020
 * [Google and Apple Reveal How Covid-19 Alert Apps Might Look](https://www.wired.com/story/apple-google-covid-19-contact-tracing-interface/) #covid-19 #insight #science #technology
+
+##### 6-05-2020
+* [IBM contributions during II Second World War](https://www.mbiconcepts.com/ibm-and-world-war-ii.html) #IBM #insight #history #cultural_heritage
 </p>
 </details>
