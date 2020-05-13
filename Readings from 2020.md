@@ -228,7 +228,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 6-05-2020
 * [IBM contributions during II Second World War](https://www.mbiconcepts.com/ibm-and-world-war-ii.html) #IBM #insight #history #cultural_heritage
 
-##### 6-05-2020
+##### 10-05-2020
 * [Ian Hislop picks Banksy hoax for British Museum dissent show](https://www.theguardian.com/culture/2018/may/16/ian-hislop-picks-banksy-hoax-for-british-museum-dissent-show) #Banksy #insight #history #cultural_heritage #prank #british_museum
+
+##### 13-05-2020
+* [For Decades, Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland’s Official Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/) #cartography #switzerland #hidden_figures
 </p>
 </details>
