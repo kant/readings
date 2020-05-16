@@ -233,5 +233,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 13-05-2020
 * [For Decades, Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland’s Official Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/) #cartography #switzerland #hidden_figures
+
+##### 16-05-2020
+* [A Jazz Pianist Flips Bach Upside-Down](https://www.nytimes.com/2020/05/15/arts/music/dan-tepfer-bach.html?action=click&module=Features&pgtype=Homepage) #Bach #hacks #music
+* [Solo for Flute, Airport Terminal and One Listener](https://www.nytimes.com/2020/05/13/arts/music/stuttgart-airport-coronavirus-concert.html?action=click&module=Features&pgtype=Homepage) #concert #airport #music #airport
 </p>
 </details>
