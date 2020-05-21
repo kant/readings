@@ -237,5 +237,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 16-05-2020
 * [A Jazz Pianist Flips Bach Upside-Down](https://www.nytimes.com/2020/05/15/arts/music/dan-tepfer-bach.html?action=click&module=Features&pgtype=Homepage) #Bach #hacks #music
 * [Solo for Flute, Airport Terminal and One Listener](https://www.nytimes.com/2020/05/13/arts/music/stuttgart-airport-coronavirus-concert.html?action=click&module=Features&pgtype=Homepage) #concert #airport #music #airport
+
+##### 20-05-2020
+* [Egg Laying or Live Birth: How Evolution Chooses](https://www.quantamagazine.org/egg-laying-or-live-birth-how-evolution-chooses-20200518/) #nature #evolution
 </p>
 </details>
