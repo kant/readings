@@ -240,5 +240,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 20-05-2020
 * [Egg Laying or Live Birth: How Evolution Chooses](https://www.quantamagazine.org/egg-laying-or-live-birth-how-evolution-chooses-20200518/) #nature #evolution
+
+##### 24-05-2020
+* [How the coronavirus is changing science](https://www.vox.com/future-perfect/2020/5/14/21252024/coronavirus-science-peer-review-preprints-grants-medrxiv) #covid-19 #science #vox
 </p>
 </details>
