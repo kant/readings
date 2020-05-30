@@ -243,5 +243,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 24-05-2020
 * [How the coronavirus is changing science](https://www.vox.com/future-perfect/2020/5/14/21252024/coronavirus-science-peer-review-preprints-grants-medrxiv) #covid-19 #science #vox
+
+##### 29-05-2020
+* [How The Times Makes Visual Investigations | NYTimes](https://www.vox.com/future-perfect/2020/5/14/21252024/coronavirus-science-peer-review-preprints-grants-medrxiv) #data-visualization #reconstruction #photogrammetry
 </p>
 </details>
