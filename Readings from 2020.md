@@ -250,5 +250,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 30-05-2020
 * [Taking Lessons From a Bloody Masterpiece](https://www.nytimes.com/interactive/2020/05/28/arts/design/thomas-eakins-gross-clinic.html?action=click&module=Editors%20Picks&pgtype=Homepage) #art #insight
 * [Wandering through Barrio Villa Inflamable -via Google Street View-](https://www.google.com/maps/@-34.6556881,-58.3359386,3a,75y,188.08h,72.63t/data=!3m6!1e1!3m4!1sCxbvc4nRbfubSiWEfUtAtQ!2e0!7i13312!8i6656) #hacinamiento #social #state_of_the_art #Google_Street_View
+
+##### 29-05-2020
+* [Igor Levit to play 20-hour Eric Satie piece as 'silent scream'](https://www.theguardian.com/music/2020/may/30/igor-levit-to-play-20-hour-eric-satie-piece-as-silent-scream#maincontent) #piano #insight #covid-19
 </p>
 </details>
