@@ -255,3 +255,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [Igor Levit to play 20-hour Eric Satie piece as 'silent scream'](https://www.theguardian.com/music/2020/may/30/igor-levit-to-play-20-hour-eric-satie-piece-as-silent-scream#maincontent) #piano #insight #covid-19
 </p>
 </details>
+
+<details><summary>June</summary>
+
+##### 1-06-2020
+* [Yes, But Are They Happy? Effects of Trait Self‐Control on Affective Well‐Being and Life Satisfaction](https://onlinelibrary.wiley.com/doi/abs/10.1111/jopy.12050) #science #insight #happiness
+ </p>
+</details>
