@@ -260,5 +260,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 1-06-2020
 * [Yes, But Are They Happy? Effects of Trait Self‐Control on Affective Well‐Being and Life Satisfaction](https://onlinelibrary.wiley.com/doi/abs/10.1111/jopy.12050) #science #insight #happiness
- </p>
+
+##### 2-06-2020
+* [Inside the Secret World of Russia’s Cold War Mapmakers](https://www.wired.com/2015/07/secret-cold-war-maps/#comment-2335582352) #maps #russia #cartography #mapmakers #wired
+</p>
 </details>
