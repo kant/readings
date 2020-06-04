@@ -263,5 +263,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 2-06-2020
 * [Inside the Secret World of Russia’s Cold War Mapmakers](https://www.wired.com/2015/07/secret-cold-war-maps/#comment-2335582352) #maps #russia #cartography #mapmakers #wired
+
+##### 3-06-2020
+* [How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/) #surveillance #security #wired
+* [Google Street View self-selfie](https://www.google.com/maps/@-32.9482662,-60.6430161,3a,26.6y,197.8h,65.18t/data=!3m6!1e1!3m4!1sECg0lFL_fOe4zfg7x-OjSA!2e0!7i16384!8i8192) #selfie #google #street_view
+* [How to Protest Without Sacrificing Your Digital Privacy](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest) #security #checklist #surveillance
 </p>
 </details>
