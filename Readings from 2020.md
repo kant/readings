@@ -270,6 +270,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [How to Protest Without Sacrificing Your Digital Privacy](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest) #security #checklist #surveillance
 
 ##### 4-06-2020
-* [‘Did I Miss Anything?’: A Man Emerges From a 75-Day Silent Retreat](https://www.nytimes.com/2020/06/02/us/coronavirus-meditation.html) #mindfulness #buddhism #nytimes 
+* [‘Did I Miss Anything?’: A Man Emerges From a 75-Day Silent Retreat](https://www.nytimes.com/2020/06/02/us/coronavirus-meditation.html) #mindfulness #buddhism #nytimes
+
+##### 5-06-2020
+* [It’s not you. Phones are designed to be addicting](https://www.youtube.com/watch?v=NUMa0QkPzns) #insight #addiction #friction_less #mobile #marketing
+
 </p>
 </details>
