@@ -275,5 +275,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 5-06-2020
 * [It’s not you. Phones are designed to be addicting](https://www.youtube.com/watch?v=NUMa0QkPzns) #insight #addiction #friction_less #mobile #marketing
 
+##### 6-06-2020
+* [Sudden Solitude on One of the World's Busiest Mountains](https://www.outsideonline.com/2414385/snowdon-mountain-wales-coronavirus-closure) #mountain #snowdon #nature #outside_magazine
+* ['Everyone is in that fine line between death and life': inside Everest's deadliest queue](https://www.theguardian.com/world/2020/jun/06/everyone-is-in-that-fine-line-between-death-and-life-inside-everests-deadliest-queue) #mountain #Everest #nature #guardian
 </p>
 </details>
