@@ -278,5 +278,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 6-06-2020
 * [Sudden Solitude on One of the World's Busiest Mountains](https://www.outsideonline.com/2414385/snowdon-mountain-wales-coronavirus-closure) #mountain #snowdon #nature #outside_magazine
 * ['Everyone is in that fine line between death and life': inside Everest's deadliest queue](https://www.theguardian.com/world/2020/jun/06/everyone-is-in-that-fine-line-between-death-and-life-inside-everests-deadliest-queue) #mountain #Everest #nature #guardian
+
+##### 10-06-2020
+* [I Am Not Your Asian Stereotype](https://www.youtube.com/watch?v=_pUtz75lNaw) #insight #asian #stereotype
+* [The Nessun Dorma effect: how Pavarotti cleaned up football and enraged opera purists](https://www.telegraph.co.uk/music/artists/nessun-dorma-effect-pavarotti-cleaned-football-enraged-opera/) #music #culture #insight #the_telegraph
 </p>
 </details>
