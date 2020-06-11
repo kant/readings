@@ -282,5 +282,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 10-06-2020
 * [I Am Not Your Asian Stereotype](https://www.youtube.com/watch?v=_pUtz75lNaw) #insight #asian #stereotype
 * [The Nessun Dorma effect: how Pavarotti cleaned up football and enraged opera purists](https://www.telegraph.co.uk/music/artists/nessun-dorma-effect-pavarotti-cleaned-football-enraged-opera/) #music #culture #insight #the_telegraph
+
+##### 11-06-2020
+* [The statistical paradox of police killings](https://www.bostonglobe.com/2020/06/11/opinion/statistical-paradox-police-killings/) #insight #paradox #politics #statistics
 </p>
 </details>
