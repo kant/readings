@@ -285,5 +285,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 11-06-2020
 * [The statistical paradox of police killings](https://www.bostonglobe.com/2020/06/11/opinion/statistical-paradox-police-killings/) #insight #paradox #politics #statistics
+
+##### 14-06-2020
+* [The man who proved that altruism is selfish](https://www.theguardian.com/science/2016/mar/13/george-davis-altruism-selfish-play-calculating-kindness) #insight #paradox #altruism #statistics #algorithm #mathematics
+* [How Discovering an Equation for Altruism Cost George Price Everything](http://nautil.us/blog/how-discovering-an-equation-for-altruism-cost-george-price-everything) #insight #paradox #altruism #statistics #equation #algorithm #mathematics
+* [What If Working From Home Goes on … Forever?](https://www.nytimes.com/interactive/2020/06/09/magazine/remote-work-covid.html) #home_office #culture #insight #working_culture
 </p>
 </details>
