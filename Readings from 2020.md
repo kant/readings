@@ -290,5 +290,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [The man who proved that altruism is selfish](https://www.theguardian.com/science/2016/mar/13/george-davis-altruism-selfish-play-calculating-kindness) #insight #paradox #altruism #statistics #algorithm #mathematics
 * [How Discovering an Equation for Altruism Cost George Price Everything](http://nautil.us/blog/how-discovering-an-equation-for-altruism-cost-george-price-everything) #insight #paradox #altruism #statistics #equation #algorithm #mathematics
 * [What If Working From Home Goes on … Forever?](https://www.nytimes.com/interactive/2020/06/09/magazine/remote-work-covid.html) #home_office #culture #insight #working_culture
+
+##### 18-06-2020
+* [Software is eating AI](http://hyperparameter.space/blog/software-is-eating-ai/) #AI #insight #ideas #software #paradox
+* [The end of tourism?](https://www.theguardian.com/travel/2020/jun/18/end-of-tourism-coronavirus-pandemic-travel-industry) #tourism #insight #ideas #culture #economics
 </p>
 </details>
