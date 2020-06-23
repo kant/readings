@@ -296,6 +296,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [The end of tourism?](https://www.theguardian.com/travel/2020/jun/18/end-of-tourism-coronavirus-pandemic-travel-industry) #tourism #insight #ideas #culture #economics
 
 ##### 21-06-2020
-* [Some advice from Jeff Bezos](https://signalvnoise.com/posts/3289-some-advice-from-jeff-bezos) #insight #ideas 
+* [Some advice from Jeff Bezos](https://signalvnoise.com/posts/3289-some-advice-from-jeff-bezos) #insight #ideas
+
+##### 23-06-2020
+* [The Book That Invented the World](http://nautil.us/blog/the-book-that-invented-the-world) #insight #ideas #history #cartography
 </p>
 </details>
