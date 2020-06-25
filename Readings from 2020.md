@@ -299,6 +299,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [Some advice from Jeff Bezos](https://signalvnoise.com/posts/3289-some-advice-from-jeff-bezos) #insight #ideas
 
 ##### 23-06-2020
-* [The Book That Invented the World](http://nautil.us/blog/the-book-that-invented-the-world) #insight #ideas #history #cartography
+* [The book that invented the world](http://nautil.us/blog/the-book-that-invented-the-world) #insight #ideas #history #cartography
+
+##### 25-06-2020
+* [Small island](https://www.youtube.com/watch?v=pac-Furijsw) #slavery #ideas #history #theater
 </p>
 </details>
