@@ -303,5 +303,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 25-06-2020
 * [Small island](https://www.youtube.com/watch?v=pac-Furijsw) #slavery #ideas #history #theater
+
+##### 30-06-2020
+* [Japan university awards first-ever ninja studies degree](https://www.japantimes.co.jp/news/2020/06/27/national/japan-university-first-ninja-studies-degree/) #ninja #Ph.D. #history #japan
+* [Original screenplay of movie "Parasite"](https://pmcdeadline2.files.wordpress.com/2020/01/parasite-script.pdf) #parasite #movie #screenplay
 </p>
 </details>
