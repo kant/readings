@@ -307,5 +307,14 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 30-06-2020
 * [Japan university awards first-ever ninja studies degree](https://www.japantimes.co.jp/news/2020/06/27/national/japan-university-first-ninja-studies-degree/) #ninja #Ph.D. #history #japan
 * [Original screenplay of movie "Parasite"](https://pmcdeadline2.files.wordpress.com/2020/01/parasite-script.pdf) #parasite #movie #screenplay
+
+</p>
+</details>
+
+<details><summary>July</summary>
+
+##### 1-07-2020
+* [Berlin 1945 und heute](https://interaktiv.morgenpost.de/berlin-1945-2015/) #photojournalism #juxtaposition #war
+
 </p>
 </details>
