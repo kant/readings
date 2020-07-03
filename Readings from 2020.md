@@ -316,5 +316,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 1-07-2020
 * [Berlin 1945 und heute](https://interaktiv.morgenpost.de/berlin-1945-2015/) #photojournalism #juxtaposition #war
 
+##### 3-07-2020
+* [Eric Laithwaite and his forgotten Doctor Who script](https://blog.sciencemuseum.org.uk/eric-laithwaite-and-his-forgotten-doctor-who-script/) #science #script #history
+* [Professor Eric Laithwaite: Magnetic River (1975)](https://www.youtube.com/watch?v=OI_HFnNTfyU) #science #imperial_College #magnetism
+
 </p>
 </details>
