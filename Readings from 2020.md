@@ -323,8 +323,11 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 #### 3-07-2020 (plus)
 * [An entity on The Royal Institution](https://www.google.com/maps/@51.5095948,-0.1423949,3a,75y,141.81h,71.63t/data=!3m8!1e1!3m6!1sAF1QipN0G1a5V1VrvkHgnxuNRDd0rdCtpSGGcwju08Ty!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN0G1a5V1VrvkHgnxuNRDd0rdCtpSGGcwju08Ty%3Dw203-h100-k-no-pi-0-ya132.00737-ro0-fo100!7i8704!8i4352)
 
-##### 1-07-2020
+##### 6-07-2020
 * [America’s Enduring Caste System](https://www.nytimes.com/2020/07/01/magazine/isabel-wilkerson-caste.html) #racism #insight #caste #social_science
+
+##### 7-07-2020
+* [A Mathematician’s Guide to How Contagion Spreads](https://www.wired.com/story/a-mathematicians-guide-to-how-contagion-spreads/) #covid #insight #maths 
 
 
 </p>
