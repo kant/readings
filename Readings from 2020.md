@@ -332,5 +332,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 8-07-2020
 * [Professor Eric Laithwaite's prototype metal sorter](https://www.youtube.com/watch?v=PaRuOS3mLxI) #invention #insight #science
 * [The Real Story Behind the Apollo 11 Computer Error](https://www.youtube.com/watch?v=z4cn93H6sM0) #washington_post #science #error
+
+##### 14-07-2020
+* [The Robert Louis Stevenson musical archives](http://www.robert-louis-stevenson.org/richard-dury-archive/music.htm) #music #poetry 
 </p>
 </details>
