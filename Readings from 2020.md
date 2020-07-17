@@ -334,6 +334,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [The Real Story Behind the Apollo 11 Computer Error](https://www.youtube.com/watch?v=z4cn93H6sM0) #washington_post #science #error
 
 ##### 14-07-2020
-* [The Robert Louis Stevenson musical archives](http://www.robert-louis-stevenson.org/richard-dury-archive/music.htm) #music #poetry 
+* [The Robert Louis Stevenson musical archives](http://www.robert-louis-stevenson.org/richard-dury-archive/music.htm) #music #poetry
+
+##### 17-07-2020
+* [Can anyone describe Kobe's work ethic?](https://www.reddit.com/r/lakers/comments/a74399/can_anyone_describe_kobes_work_ethic/ec1aciz?utm_source=share&utm_medium=web2x) #work #ethics
+* [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment) #insight #coffee
 </p>
 </details>
