@@ -339,5 +339,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 17-07-2020
 * [Can anyone describe Kobe's work ethic?](https://www.reddit.com/r/lakers/comments/a74399/can_anyone_describe_kobes_work_ethic/ec1aciz?utm_source=share&utm_medium=web2x) #work #ethics
 * [How Nespresso's coffee revolution got ground down](https://www.theguardian.com/food/2020/jul/14/nespresso-coffee-capsule-pods-branding-clooney-nestle-recycling-environment) #insight #coffee
+
+
+##### 23-07-2020
+* [Le Chevalier de Saint-Georges, Man of Music and Gentleman-at-Arms: The Life and Times of an Eighteenth-Century Prodigy](https://www.jstor.org/stable/779385?seq=1) #history #music 
 </p>
 </details>
