@@ -343,6 +343,7 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 23-07-2020
 * [Le Chevalier de Saint-Georges, Man of Music and Gentleman-at-Arms: The Life and Times of an Eighteenth-Century Prodigy](https://www.jstor.org/stable/779385?seq=1) #history #music
 
+##### 25-07-2020
 * [Why the richest country in the world has one of the world’s highest rates of infection](https://shass.mit.edu/news/news-2020-pandemic-masks-anthropology-graham-jones) #mit #culture #anthropology #insight
 </p>
 </details>
