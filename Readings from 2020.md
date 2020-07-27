@@ -345,5 +345,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 25-07-2020
 * [Why the richest country in the world has one of the world’s highest rates of infection](https://shass.mit.edu/news/news-2020-pandemic-masks-anthropology-graham-jones) #mit #culture #anthropology #insight
+
+##### 27-07-2020
+* [Botswana Innovation Hub](https://www.dezeen.com/2020/07/21/botswana-innovation-hub-shop-architects-gaborone/) #architecture #africa
 </p>
 </details>
