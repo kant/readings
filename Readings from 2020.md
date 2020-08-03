@@ -350,3 +350,11 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [Botswana Innovation Hub](https://www.dezeen.com/2020/07/21/botswana-innovation-hub-shop-architects-gaborone/) #architecture #africa
 </p>
 </details>
+
+<details><summary>August</summary>
+
+##### 2-08-2020
+* [There's a World Living on Every Loggerhead](http://oceans.nautil.us/feature/592/theres-a-world-living-on-every-loggerhead) #turtle #darwin #science
+
+</p>
+</details>
