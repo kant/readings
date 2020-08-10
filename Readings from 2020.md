@@ -356,5 +356,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 2-08-2020
 * [There's a World Living on Every Loggerhead](http://oceans.nautil.us/feature/592/theres-a-world-living-on-every-loggerhead) #turtle #darwin #science
 
+##### 10-08-2020
+* [The COVID Racial Data Tracker](https://covidtracking.com/race) #covid #race #science #data_visualization #insights
+
 </p>
 </details>
