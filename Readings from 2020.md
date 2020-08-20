@@ -359,5 +359,7 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 10-08-2020
 * [The COVID Racial Data Tracker](https://covidtracking.com/race) #covid #race #science #data_visualization #insights
 
+##### 20-08-2020
+* [Operating in Unpredictability](https://composer.spitfireaudio.com/en/articles/jlin-operating-in-unpredictability) #musician #music #creativity #insights
 </p>
 </details>
