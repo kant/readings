@@ -361,5 +361,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 20-08-2020
 * [Operating in Unpredictability](https://composer.spitfireaudio.com/en/articles/jlin-operating-in-unpredictability) #musician #music #creativity #insights
+
+##### 21-08-2020
+* [A Radical New Model of the Brain Illuminates Its Wiring](https://www.wired.com/story/a-radical-new-model-of-the-brain-illuminates-its-wiring/) #science #mind #wired #insights
+* [The Problem With the Way Scientists Study Reason](https://www.realclearscience.com/2019/04/30/the_problem_with_the_way_scientists_study_reason_285728.html) #science #reason #insight
 </p>
 </details>
