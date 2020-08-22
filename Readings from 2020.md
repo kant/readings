@@ -359,11 +359,17 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 10-08-2020
 * [The COVID Racial Data Tracker](https://covidtracking.com/race) #covid #race #science #data_visualization #insights
 
+#### 19-08-2020
+* [Demolition of Historic Vietnam Cathedral Is Underway](https://www.nytimes.com/2020/07/22/world/asia/biu-chu-cathedral-vietnam-demolish.html) #vietnam
+
 ##### 20-08-2020
 * [Operating in Unpredictability](https://composer.spitfireaudio.com/en/articles/jlin-operating-in-unpredictability) #musician #music #creativity #insights
 
 ##### 21-08-2020
 * [A Radical New Model of the Brain Illuminates Its Wiring](https://www.wired.com/story/a-radical-new-model-of-the-brain-illuminates-its-wiring/) #science #mind #wired #insights
 * [The Problem With the Way Scientists Study Reason](https://www.realclearscience.com/2019/04/30/the_problem_with_the_way_scientists_study_reason_285728.html) #science #reason #insight
+
+##### 22-08-2020
+* [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html) #resilience #insights
 </p>
 </details>
