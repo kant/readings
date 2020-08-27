@@ -373,7 +373,10 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [Is Resilience Overrated?](https://www.nytimes.com/2020/08/19/health/resilience-overrated.html) #resilience #insights
 
 ##### 25-08-2020
-* [How Decades of Racist Housing Policy Left Neighborhoods Sweltering](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html) #racism #insight #social_sciences 
+* [How Decades of Racist Housing Policy Left Neighborhoods Sweltering](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html) #racism #insight #social_sciences
+
+##### 27-08-2020
+* [Banksy art's paradox](https://www.instagram.com/p/B3KvQsEnUl8/) #Banksy #paradox #art 
 
 </p>
 </details>
