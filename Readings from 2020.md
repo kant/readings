@@ -376,7 +376,12 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [How Decades of Racist Housing Policy Left Neighborhoods Sweltering](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html) #racism #insight #social_sciences
 
 ##### 27-08-2020
-* [Banksy art's paradox](https://www.instagram.com/p/B3KvQsEnUl8/) #Banksy #paradox #art 
+* [Banksy art's paradox](https://www.instagram.com/p/B3KvQsEnUl8/) #Banksy #paradox #art
+
+##### 31-08-2020
+* [‘Interstellar’s’ sonic soup or: How auteurs diss their audiences](https://www.washingtonpost.com/lifestyle/style/critics-notebook-interstellars-sonic-soup-or-how-auteurs-diss-their-audience/2014/11/07/7f8e4110-65cd-11e4-836c-83bc4f26eb67_story.html) #interstellar #insight #music
+* [Why Interstellar's Organ Needs to Be So Loud](https://www.theatlantic.com/entertainment/archive/2014/11/why-interstellars-organ-needs-to-be-so-loud/382619/) #interstellar #music #sound #organ #the_atlantic
+
 
 </p>
 </details>
