@@ -388,4 +388,5 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 3-09-2020
 * [When Merce Cunningham Took On a New Collaborator: The Computer](https://www.nytimes.com/2020/09/01/arts/dance/merce-cunningham-computer-LifeForms.html) #arts #insight #history #merce #cage
 
-
+</p>
+</details>
