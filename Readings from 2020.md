@@ -381,7 +381,11 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 31-08-2020
 * [‘Interstellar’s’ sonic soup or: How auteurs diss their audiences](https://www.washingtonpost.com/lifestyle/style/critics-notebook-interstellars-sonic-soup-or-how-auteurs-diss-their-audience/2014/11/07/7f8e4110-65cd-11e4-836c-83bc4f26eb67_story.html) #interstellar #insight #music
 * [Why Interstellar's Organ Needs to Be So Loud](https://www.theatlantic.com/entertainment/archive/2014/11/why-interstellars-organ-needs-to-be-so-loud/382619/) #interstellar #music #sound #organ #the_atlantic
-
-
 </p>
 </details>
+<details><summary>September</summary>
+
+##### 3-09-2020
+* [When Merce Cunningham Took On a New Collaborator: The Computer](https://www.nytimes.com/2020/09/01/arts/dance/merce-cunningham-computer-LifeForms.html) #arts #insight #history #merce #cage
+
+
