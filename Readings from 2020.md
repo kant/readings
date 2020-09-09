@@ -388,5 +388,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 3-09-2020
 * [When Merce Cunningham Took On a New Collaborator: The Computer](https://www.nytimes.com/2020/09/01/arts/dance/merce-cunningham-computer-LifeForms.html) #arts #insight #history #merce #cage
 
+
+##### 9-09-2020
+* [How philanthropy benefits the super-rich](https://www.theguardian.com/society/2020/sep/08/how-philanthropy-benefits-the-super-rich) #philanthropy #insight #economics #social_science
+* [The Black Violinist Who Inspired Beethoven](https://www.nytimes.com/2020/09/04/arts/music/george-bridgetower-violin.html) #music #violinist #nytimes #musicology
 </p>
 </details>
