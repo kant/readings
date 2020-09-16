@@ -395,5 +395,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 15-09-2020
 * [Und ob ich tanze! (You bet I dance!](https://lumiton.com.ar/evento/you-bet-i-dance-und-ob-ich-tanze/) #dis-abilities #dance #documentary #disease #movement #education
+
+##### 3-09-2020
+* [The Wubi Effect](https://www.wnycstudios.org/podcasts/radiolab/articles/wubi-effect) #china #language #history #汉语拼音 #characters
+
 </p>
 </details>
