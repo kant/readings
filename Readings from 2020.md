@@ -388,7 +388,6 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 3-09-2020
 * [When Merce Cunningham Took On a New Collaborator: The Computer](https://www.nytimes.com/2020/09/01/arts/dance/merce-cunningham-computer-LifeForms.html) #arts #insight #history #merce #cage
 
-
 ##### 9-09-2020
 * [How philanthropy benefits the super-rich](https://www.theguardian.com/society/2020/sep/08/how-philanthropy-benefits-the-super-rich) #philanthropy #insight #economics #social_science
 * [The Black Violinist Who Inspired Beethoven](https://www.nytimes.com/2020/09/04/arts/music/george-bridgetower-violin.html) #music #violinist #nytimes #musicology
@@ -396,8 +395,12 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 15-09-2020
 * [Und ob ich tanze! (You bet I dance!](https://lumiton.com.ar/evento/you-bet-i-dance-und-ob-ich-tanze/) #dis-abilities #dance #documentary #disease #movement #education
 
-##### 3-09-2020
+##### 16-09-2020
 * [The Wubi Effect](https://www.wnycstudios.org/podcasts/radiolab/articles/wubi-effect) #china #language #history #汉语拼音 #characters
-
 </p>
 </details>
+
+<details><summary>October</summary>
+ 
+ ##### 16-10-2020
+* [If DNA is like software, can we just fix the code?](https://www.technologyreview.com/2020/02/26/905713/dna-is-like-software-fix-the-code-personalized-medicine/) #disease #insight #dna #MIT #technology_review
