@@ -409,7 +409,11 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 * [Keith Jarrett Confronts a Future Without the Piano](https://www.nytimes.com/2020/10/21/arts/music/keith-jarrett-piano.html?action=click&module=Well&pgtype=Homepage&section=Music) #music #piano
 * [How Can Chaos Lead To Creative Breakthroughs?](https://www.npr.org/transcripts/719557642) #music #piano #creation #creativity #odds #keith_jarrett
 
- ##### 25-10-2020
+##### 25-10-2020
 * [The Music of 'The Queen's Gambit'](https://composer.spitfireaudio.com/en/articles/the-music-of-the-queens-gambit) #music #insight #anya
+
+
+##### 26-10-2020
+* [How magnetic oscillations of a comet became a new album of music](https://cdm.link/2017/09/magnetic-oscillations-comet-became-new-album-music/) #music #insight #science #
 </p>
 </details>
