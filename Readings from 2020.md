@@ -402,11 +402,14 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 <details><summary>October</summary>
  
- ##### 16-10-2020
+##### 16-10-2020
 * [If DNA is like software, can we just fix the code?](https://www.technologyreview.com/2020/02/26/905713/dna-is-like-software-fix-the-code-personalized-medicine/) #disease #insight #dna #MIT #technology_review
 
- ##### 22-10-2020
+##### 22-10-2020
 * [Keith Jarrett Confronts a Future Without the Piano](https://www.nytimes.com/2020/10/21/arts/music/keith-jarrett-piano.html?action=click&module=Well&pgtype=Homepage&section=Music) #music #piano
 * [How Can Chaos Lead To Creative Breakthroughs?](https://www.npr.org/transcripts/719557642) #music #piano #creation #creativity #odds #keith_jarrett
+
+ ##### 25-10-2020
+* [The Music of 'The Queen's Gambit'](https://composer.spitfireaudio.com/en/articles/the-music-of-the-queens-gambit) #music #insight #anya
 </p>
 </details>
