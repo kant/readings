@@ -412,8 +412,12 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 25-10-2020
 * [The Music of 'The Queen's Gambit'](https://composer.spitfireaudio.com/en/articles/the-music-of-the-queens-gambit) #music #insight #anya
 
-
 ##### 26-10-2020
-* [How magnetic oscillations of a comet became a new album of music](https://cdm.link/2017/09/magnetic-oscillations-comet-became-new-album-music/) #music #insight #science #
+* [How magnetic oscillations of a comet became a new album of music](https://cdm.link/2017/09/magnetic-oscillations-comet-became-new-album-music/) #music #insight #science
+
+##### 31-10-2020
+* [Exploring the Mind of a Musical Genius with Derek Paravicini and Dr. Adam Ockelford](https://www.youtube.com/watch?v=SfX327PYKQ0&ab_channel=DerekParavicini) #music #insight #science #savant #resilience #disease #syndrome
+* [Brain Man: The Boy With The Incredible Brain](https://www.youtube.com/watch?v=cvlSLY8ZZ1o&ab_channel=ReelTruthScienceDocumentaries) #savant #synesthesia #syndrome 
+
 </p>
 </details>
