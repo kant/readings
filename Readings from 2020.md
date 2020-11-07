@@ -427,4 +427,7 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 <details><summary>November</summary>
  
 ##### 1-11-2020
-* [The anthropology of mobile phones](https://cdm.link/2017/09/magnetic-oscillations-comet-became-new-album-music/) #anthropology #insight #social_sciences #mobile
+* [The anthropology of mobile phones](https://www.ted.com/talks/jan_chipchase_the_anthropology_of_mobile_phones#t-837027) #anthropology #insight #social_sciences #mobile
+
+##### 7-11-2020
+* [The Woman Who Built Beethoven’s Pianos](https://www.nytimes.com/2020/11/06/arts/music/beethoven-piano.html) #music #history #piano
