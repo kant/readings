@@ -431,3 +431,7 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 7-11-2020
 * [The Woman Who Built Beethoven’s Pianos](https://www.nytimes.com/2020/11/06/arts/music/beethoven-piano.html) #music #history #piano
+
+##### 10-11-2020
+* [The Most Famous Paradox in Physics Nears Its End](https://www.wired.com/story/the-black-hole-information-paradox-comes-to-an-end/#intcid=_wired-right-rail_4e2a97ab-727c-4c93-8f0d-1f94c2ad8d43_popular4-1) #science #paradox #physics
+
