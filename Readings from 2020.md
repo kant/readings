@@ -435,3 +435,5 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 10-11-2020
 * [The Most Famous Paradox in Physics Nears Its End](https://www.wired.com/story/the-black-hole-information-paradox-comes-to-an-end/#intcid=_wired-right-rail_4e2a97ab-727c-4c93-8f0d-1f94c2ad8d43_popular4-1) #science #paradox #physics
 
+##### 15-11-2020
+* [The Last True Hermit Was Alone for 27 Years](https://www.youtube.com/watch?v=uFcbAllQmxc&feature=emb_title) #hermit #solitude #documentary
