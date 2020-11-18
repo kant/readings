@@ -437,3 +437,6 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 15-11-2020
 * [The Last True Hermit Was Alone for 27 Years](https://www.youtube.com/watch?v=uFcbAllQmxc&feature=emb_title) #hermit #solitude #documentary
+
+##### 18-11-2020
+* [These Researchers Tested Positive. But the Virus Wasn’t the Cause](https://www.nytimes.com/2020/11/12/health/coronavirus-testing-lab-contamination.html?surface=home-discovery-vi-prg&fellback=false&req_id=448905080&algo=identity&imp_id=691042573&action=click&module=Science%20%20Technology&pgtype=Homepage) #paradox #science #covid-19 #DNA
