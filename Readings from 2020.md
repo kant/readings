@@ -440,3 +440,7 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 18-11-2020
 * [These Researchers Tested Positive. But the Virus Wasn’t the Cause](https://www.nytimes.com/2020/11/12/health/coronavirus-testing-lab-contamination.html?surface=home-discovery-vi-prg&fellback=false&req_id=448905080&algo=identity&imp_id=691042573&action=click&module=Science%20%20Technology&pgtype=Homepage) #paradox #science #covid-19 #DNA
+
+##### 23-11-2020
+* [Yo-Yo Ma and the Meaning of Life](https://www.nytimes.com/interactive/2020/11/23/magazine/yo-yo-ma-interview.html) #music #insight #bach #cultural_appropriation
+
