@@ -444,3 +444,5 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 23-11-2020
 * [Yo-Yo Ma and the Meaning of Life](https://www.nytimes.com/interactive/2020/11/23/magazine/yo-yo-ma-interview.html) #music #insight #bach #cultural_appropriation
 
+##### 25-11-2020
+* [How Archaeologists Are Using Deep Learning to Dig Deeper](https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html?surface=home-discovery-vi-prg&fellback=false&req_id=669051876&algo=identity&imp_id=900752483) #science #artificial_intelligence 
