@@ -421,9 +421,6 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 </p>
 </details>
 
-</p>
-</details>
-
 <details><summary>November</summary>
  
 ##### 1-11-2020
@@ -449,4 +446,12 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 
 ##### 27-11-2020
 * [Meet the Microbes Living on Da Vinci’s Iconic Sketches](https://www.wired.com/story/meet-the-microbes-living-on-da-vincis-iconic-sketches/) #microbes #science #Leonardo #wired
+</p>
+</details>
+<details><summary>December</summary>
 
+##### 1-12-2020
+* [Exploring Silence](http://www.imperial.ac.uk/events/124537/exploring-silence-12/) #science #Imperial_College #workshop #buddhism
+
+</p>
+</details>
