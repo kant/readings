@@ -453,5 +453,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 1-12-2020
 * [Exploring Silence](http://www.imperial.ac.uk/events/124537/exploring-silence-12/) #science #Imperial_College #workshop #buddhism
 
+#### 7-12-2020
+* [The Social Life of Forests](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html?action=click&block=more_in_recirc&impression_id=ed0307b3-3850-11eb-aca5-bb452a6f2f18&index=0&pgtype=Article&region=footer) #science #nature
+
 </p>
 </details>
