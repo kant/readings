@@ -459,5 +459,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 9-12-2020
 * [Le sel de la terre](https://www.wearekabinett.com/p/juliano_ribeiro_salgado/OTM2MjA3OTAw_MTM1MzY0MzIwMA==) #documentary #photography #nature #sebastiao_salgado
 
+##### 1-12-2020
+* [What We Can Learn From Solitude](https://www.nytimes.com/2020/11/28/style/self-care/hermits-solitude.html) #silence #nature #solitude #insight
+
+
 </p>
 </details>
