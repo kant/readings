@@ -462,6 +462,9 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 11-12-2020
 * [What We Can Learn From Solitude](https://www.nytimes.com/2020/11/28/style/self-care/hermits-solitude.html) #silence #nature #solitude #insight
 
+##### 15-12-2020
+* [Musicophilia: Tales of Music and the Brain](https://www.youtube.com/watch?v=gJxVD9kQdgo&ab_channel=MicrosoftResearch) #music #disease #mind #insight #sacks
+
 
 </p>
 </details>
