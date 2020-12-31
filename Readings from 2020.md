@@ -465,6 +465,8 @@ https://twitter.com/BrianRoemmele/status/1213860120058220546) #ideas #insights #
 ##### 15-12-2020
 * [Musicophilia: Tales of Music and the Brain](https://www.youtube.com/watch?v=gJxVD9kQdgo&ab_channel=MicrosoftResearch) #music #disease #mind #insight #sacks
 
+##### 31-12-2020
+* [Selflessness on Cerro Torre - Success, injury, and salvation on "an impossible mountain"](https://www.youtube.com/watch?v=YMK6qYgtmko&ab_channel=JackCramer) #altruism #Cerro_Torre #mountain #patagonia
 
 </p>
 </details>
