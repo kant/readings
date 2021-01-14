@@ -6,5 +6,8 @@
 
 ##### 10-01-2020
 * [I Think Beethoven Encoded His Deafness in His Music](https://www.nytimes.com/2020/12/27/arts/music/beethoven-hearing-loss-deafness.html) #music #insight #Beethoven #health
+
+##### 3-01-2020
+* [How Bad Is Your Spotify? Our sophisticated A.I. judges your awful taste in music.](https://pudding.cool/2020/12/judge-my-spotify/) #spotify #ai #data_visualization #data #music
 </p>
 </details>
