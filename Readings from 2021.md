@@ -12,5 +12,8 @@
 
 #### 21-01-2020
 * [A Nepali Team Just Made the First Winter Ascent of K2](https://www.outsideonline.com/2420319/k2-first-winter-ascent) #K2 #mountain #ascent #mountaineering #outside
+
+#### 22-01-2021
+* [The pandemic is showing us which friendships are worth keeping](https://www.washingtonpost.com/lifestyle/2021/01/22/friends-pandemic-casual-pod-social-circle/) #friendship #insight #disease #relationships
 </p>
 </details>
