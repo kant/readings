@@ -15,5 +15,8 @@
 
 #### 22-01-2021
 * [The pandemic is showing us which friendships are worth keeping](https://www.washingtonpost.com/lifestyle/2021/01/22/friends-pandemic-casual-pod-social-circle/) #friendship #insight #disease #relationships
+
+#### 26-01-2020
+* [The Strange Brain of the World’s Greatest Solo Climber](https://nautil.us/issue/39/sport/the-strange-brain-of-the-worlds-greatest-solo-climber) #science #mountain #ascent #mountaineering #climber #brain #amygdala
 </p>
 </details>
