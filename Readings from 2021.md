@@ -23,3 +23,9 @@
 * [Las abuelas, motor de la evolución humana](https://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/hombros-gigantes-abuelas-motor-evolucion-humana-gripe-asoma-valor-del-fracaso-ciencia-hormonas-vegetales-contra-insectos-manuel-andres-del-rio-sabio-ilustrado-07-05-20/5616108/) #insight #science #evolution #msocial_sciences #abuela
 </p>
 </details>
+
+<details><summary>February</summary>
+#### 1-02-2020
+* [Have You Considered the Benefits of Crying?](https://www.nytimes.com/2020/07/28/opinion/tears-teacher-crying-japan.html) #japan #health #insight
+</p>
+</details>
