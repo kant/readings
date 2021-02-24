@@ -30,7 +30,7 @@
 * [Have You Considered the Benefits of Crying?](https://www.nytimes.com/2020/07/28/opinion/tears-teacher-crying-japan.html) #japan #health #insight
 
 #### 2-02-2021
-* [Has Tech Destroyed Society?]https://www.wired.com/story/a-25-year-old-bet-comes-due-has-tech-destroyed-society/#intcid=recommendations_wired-right-rail-vidi-experiment_318e115b-90d3-4384-8364-6ffc8652c3b0_popular4-1) #society #insight #wired
+* [Has Tech Destroyed Society?](https://www.wired.com/story/a-25-year-old-bet-comes-due-has-tech-destroyed-society/#intcid=recommendations_wired-right-rail-vidi-experiment_318e115b-90d3-4384-8364-6ffc8652c3b0_popular4-1) #society #insight #wired
 
 #### 6-02-2021
 * [The Dyatlov Pass mystery](https://www.bbc.co.uk/news/extra/SoLiOdJyCK/mystery_of_dyatlov_pass) #mountain #death #science #mystery #nature
