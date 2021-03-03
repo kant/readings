@@ -47,6 +47,6 @@
 <details><summary>March</summary>
 
 #### 3-03-2021
-* He Was Born Into Slavery, but Achieved Musical Stardom](https://www.nytimes.com/2021/03/03/arts/music/thomas-wiggins-blind-tom-piano.html?action=click&module=Well&pgtype=Homepage&section=Music) #music #blindness #piano #artist #slavery #history #historical
+* [He Was Born Into Slavery, but Achieved Musical Stardom](https://www.nytimes.com/2021/03/03/arts/music/thomas-wiggins-blind-tom-piano.html?action=click&module=Well&pgtype=Homepage&section=Music) #music #blindness #piano #artist #slavery #history #historical
 </p>
 </details>
