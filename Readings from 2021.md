@@ -48,5 +48,6 @@
 
 #### 3-03-2021
 * [He Was Born Into Slavery, but Achieved Musical Stardom](https://www.nytimes.com/2021/03/03/arts/music/thomas-wiggins-blind-tom-piano.html?action=click&module=Well&pgtype=Homepage&section=Music) #music #blindness #piano #artist #slavery #history #historical
+* [Vertical farms nailed tiny salads. Now they need to feed the world](https://www.wired.co.uk/article/vertical-farms) #wired #economics #food #nature #insight
 </p>
 </details>
