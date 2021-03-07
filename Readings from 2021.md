@@ -48,6 +48,12 @@
 
 #### 3-03-2021
 * [He Was Born Into Slavery, but Achieved Musical Stardom](https://www.nytimes.com/2021/03/03/arts/music/thomas-wiggins-blind-tom-piano.html?action=click&module=Well&pgtype=Homepage&section=Music) #music #blindness #piano #artist #slavery #history #historical
+
+#### 4-03-2021
 * [Vertical farms nailed tiny salads. Now they need to feed the world](https://www.wired.co.uk/article/vertical-farms) #wired #economics #food #nature #insight
+
+#### 7-03-2021
+* [How to be an Atheist in Medieval Europe](https://www.youtube.com/watch?v=Eb5mYqnKFlI&ab_channel=GreshamCollege) #lecturer #religion #atheism #middle_ages
+
 </p>
 </details>
