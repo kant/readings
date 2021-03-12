@@ -55,5 +55,8 @@
 #### 7-03-2021
 * [How to be an Atheist in Medieval Europe](https://www.youtube.com/watch?v=Eb5mYqnKFlI&ab_channel=GreshamCollege) #lecturer #religion #atheism #middle_ages
 
+#### 12-03-2021
+* [The Creativity of ADHD](https://www.scientificamerican.com/article/the-creativity-of-adhd/) #science #creativity #disorder #health
+
 </p>
 </details>
