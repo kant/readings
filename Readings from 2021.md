@@ -58,5 +58,8 @@
 #### 12-03-2021
 * [The Creativity of ADHD](https://www.scientificamerican.com/article/the-creativity-of-adhd/) #science #creativity #disorder #health
 
+#### 16-03-2021
+* [The Victims of Agent Orange the U.S. Has Never Acknowledged](https://www.nytimes.com/2021/03/16/magazine/laos-agent-orange-vietnam-war.html) #science #vietnam #disorder #health #disease #war
+
 </p>
 </details>
