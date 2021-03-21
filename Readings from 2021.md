@@ -61,5 +61,8 @@
 #### 16-03-2021
 * [The Victims of Agent Orange the U.S. Has Never Acknowledged](https://www.nytimes.com/2021/03/16/magazine/laos-agent-orange-vietnam-war.html) #science #vietnam #disorder #health #disease #war
 
+#### 21-03-2021
+* [How 'research architecture' is redefining art](https://www.theguardian.com/artanddesign/2019/jan/06/research-architecture-redefining-art-goldsmiths-london) #reconstruction #forensic #photogrammetry #journalism #investigation #documentary #research
+
 </p>
 </details>
