@@ -64,5 +64,7 @@
 #### 21-03-2021
 * [How 'research architecture' is redefining art](https://www.theguardian.com/artanddesign/2019/jan/06/research-architecture-redefining-art-goldsmiths-london) #reconstruction #forensic #photogrammetry #journalism #investigation #documentary #research
 
+#### 28-03-2021
+* [Our digitized world hasn’t just changed how we listen to music](https://www.nytimes.com/interactive/2021/03/14/opinion/pop-music-songwriting.html) #music #insight #history
 </p>
 </details>
