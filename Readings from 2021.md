@@ -85,7 +85,13 @@
 </p>
 </details>
 <details><summary>May</summary>
+  
 #### 11-05-2021
 * [The Price They Pay for Your Perfect Vacation Photo](https://www.nytimes.com/2021/05/11/science/tourists-turtles-sharks-photography.html) #insight #health #life #society #sociology #death
+
+#### 15-05-2021
+* [La sociedad anestesiada por la fobia al dolor](https://www.pagina12.com.ar/339323-la-sociedad-anestesiada-por-la-fobia-al-dolor) #insight #health #life #society #sociology #pain #dolor
+
+
 </p>
 </details>
