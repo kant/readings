@@ -103,3 +103,10 @@
 
 </p>
 </details>
+<details><summary>July</summary>
+
+#### 14-07-2021
+* [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) #insight #health #bio-hacking #reverse_engineering #SARS-CoV-2
+
+</p>
+</details>
