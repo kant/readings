@@ -108,5 +108,8 @@
 #### 14-07-2021
 * [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) #insight #health #bio-hacking #reverse_engineering #SARS-CoV-2
 
+#### 16-07-2021
+* [What Ever Happened to IBM’s Watson?](https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html) #insight #health #watson #IBM #technology
+
 </p>
 </details>
