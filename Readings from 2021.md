@@ -111,5 +111,7 @@
 #### 16-07-2021
 * [What Ever Happened to IBM’s Watson?](https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html) #insight #health #watson #IBM #technology
 
+#### 19-07-2021
+* [The U.S. Navy Tried to Turn Whale Songs Into Secret Code](https://www.thedrive.com/the-war-zone/8778/the-u-s-navy-tried-to-turn-whale-songs-into-secret-code) #war #whale #cryptography #code #intelligence
 </p>
 </details>
