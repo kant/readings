@@ -113,5 +113,8 @@
 
 #### 19-07-2021
 * [The U.S. Navy Tried to Turn Whale Songs Into Secret Code](https://www.thedrive.com/the-war-zone/8778/the-u-s-navy-tried-to-turn-whale-songs-into-secret-code) #war #whale #cryptography #code #intelligence
+  
+#### 24-07-2021
+* [It’s Never Too Late to Play the Cello](https://www.nytimes.com/2021/07/20/arts/adult-cello-lessons.html?action=click&module=card&pageType=theWeekenderLink) #music #health
 </p>
 </details>
