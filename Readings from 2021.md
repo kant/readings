@@ -116,5 +116,8 @@
   
 #### 24-07-2021
 * [It’s Never Too Late to Play the Cello](https://www.nytimes.com/2021/07/20/arts/adult-cello-lessons.html?action=click&module=card&pageType=theWeekenderLink) #music #health
+
+#### 25-07-2021
+* [Should rivers have the same rights as people?](https://www.theguardian.com/environment/2021/jul/25/rivers-around-the-world-rivers-are-gaining-the-same-legal-rights-as-people) #river #environment #insight #the_guardian
 </p>
 </details>
