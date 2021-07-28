@@ -119,5 +119,8 @@
 
 #### 25-07-2021
 * [Should rivers have the same rights as people?](https://www.theguardian.com/environment/2021/jul/25/rivers-around-the-world-rivers-are-gaining-the-same-legal-rights-as-people) #river #environment #insight #the_guardian
+  
+#### 28-07-2021
+* [The Mathematics of musical composition](https://www.gresham.ac.uk/lectures-and-events/maths-music) #music #mathematics #composition #patterns
 </p>
 </details>
