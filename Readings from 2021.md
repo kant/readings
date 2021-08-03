@@ -124,3 +124,10 @@
 * [The Mathematics of musical composition](https://www.gresham.ac.uk/lectures-and-events/maths-music) #music #mathematics #composition #patterns
 </p>
 </details>
+
+<details><summary>August</summary>
+  
+#### 02-08-2021
+  * [Why are our cities built for 6ft-tall men? The female architects who fought back](https://www.theguardian.com/artanddesign/2021/may/19/why-are-our-cities-built-for-6ft-tall-men-the-female-architects-who-fought-back) #architecture #design #insight #patterns
+</p>
+</details>
