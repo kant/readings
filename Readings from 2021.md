@@ -131,6 +131,9 @@
   * [Why are our cities built for 6ft-tall men? The female architects who fought back](https://www.theguardian.com/artanddesign/2021/may/19/why-are-our-cities-built-for-6ft-tall-men-the-female-architects-who-fought-back) #architecture #design #insight #patterns
 
 #### 05-08-2021
-* [Dallas Oberholzer: the 46-year-old Olympic skateboarder who fended off a jaguar](https://www.theguardian.com/sport/2021/aug/05/dallas-oberholzer-the-46-year-old-olympic-skateboarder-that-fended-off-a-jaguar) #insight #skate #history-life
+  * [Dallas Oberholzer: the 46-year-old Olympic skateboarder who fended off a jaguar](https://www.theguardian.com/sport/2021/aug/05/dallas-oberholzer-the-46-year-old-olympic-skateboarder-that-fended-off-a-jaguar) #insight #skate #history-life
+  
+#### 07-08-2021
+  * [How Le Corbusier Became Big in Japan](https://www.nytimes.com/2018/08/08/t-magazine/le-corbusier-japan-modernism.html?action=click&module=RelatedLinks&pgtype=Article) #architecture #insight #corbusier
 </p>
 </details>
