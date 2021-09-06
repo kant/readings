@@ -143,3 +143,7 @@
   * [What’s Better, a Prize or a Patent?](https://www.nytimes.com/2021/08/30/opinion/elon-musk-prize-patent.html) #insight #invention #ideas 
 </p>
 </details>
+<details><summary>September</summary>
+  
+#### 06-09-2021
+  * [Steven Pinker Thinks Your Sense of Imminent Doom Is Wrong](https://www.nytimes.com/interactive/2021/09/06/magazine/steven-pinker-interview.html) #insight #doom #perception
