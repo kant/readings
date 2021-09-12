@@ -147,3 +147,8 @@
   
 #### 06-09-2021
   * [Steven Pinker Thinks Your Sense of Imminent Doom Is Wrong](https://www.nytimes.com/interactive/2021/09/06/magazine/steven-pinker-interview.html) #insight #doom #perception
+#### 12-09-2021
+  * [The Mental Benefits of Being Terrible at Something](https://www.outsideonline.com/health/wellness/80-20-rule-beginner-mastery-benefits/) #insight #ideas #perception
+</p>
+</details>
+<details><summary>September</summary>
