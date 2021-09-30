@@ -153,6 +153,9 @@
 
 #### 13-09-2021
   * [This is what happens when you see the face of someone you love](https://www.technologyreview.com/2021/08/25/1031451/brain-scientific-response-love/) #science #love #MIT
+  
+### 30-09-2021
+  * [Classical musicians suffer for their art](https://www.latimes.com/entertainment/arts/culture/la-et-cm-musician-pain-20130804-story.html) #health #music #insight 
 </p>
 </details>
 <details><summary>September</summary>
