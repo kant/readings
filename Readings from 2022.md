@@ -15,6 +15,9 @@
 
 ##### 2-02-2022
 * [What Makes Group Decisions Go Wrong. And Right](https://nautil.us/what-makes-group-decisions-go-wrong-and-right-13408/) #society #insight #paradox
+  
+##### 5-02-2022
+* [The World Needs More Scientist-Surfers](https://www.outsideonline.com/outdoor-adventure/environment/the-world-needs-more-scientist-surfers/) #science #insight #nature #mindset
 
 
 </p>
