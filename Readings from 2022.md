@@ -19,6 +19,8 @@
 ##### 5-02-2022
 * [The World Needs More Scientist-Surfers](https://www.outsideonline.com/outdoor-adventure/environment/the-world-needs-more-scientist-surfers/) #science #insight #nature #mindset
 
+##### 9-02-2022
+* [The Calculated Madness of Marc-André Leclerc](https://www.climbing.com/people/profile-of-alpinist-marc-andre-leclerc/) #climber #cerro #torre #nature #mindset
 
 </p>
 </details>
