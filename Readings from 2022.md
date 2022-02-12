@@ -22,5 +22,7 @@
 ##### 9-02-2022
 * [The Calculated Madness of Marc-André Leclerc](https://www.climbing.com/people/profile-of-alpinist-marc-andre-leclerc/) #climber #cerro #torre #nature #mindset
 
+##### 12-02-2022
+* [Decoding Dickens’s Secret Notes to Himself, One Symbol at a Time](https://www.nytimes.com/2022/02/08/books/charles-dickens-secret-notes.html) #science #insight #literature #AI
 </p>
 </details>
