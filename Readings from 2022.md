@@ -24,5 +24,8 @@
 
 ##### 12-02-2022
 * [Decoding Dickens’s Secret Notes to Himself, One Symbol at a Time](https://www.nytimes.com/2022/02/08/books/charles-dickens-secret-notes.html) #science #insight #literature #AI
+
+##### 17-02-2022
+* [How China captured Hollywood](https://www.theatlantic.com/international/archive/2022/02/china-captured-hollywood/621618/) #china #cinema #insight #business #paradox
 </p>
 </details>
