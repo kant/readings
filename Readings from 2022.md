@@ -28,7 +28,10 @@
 ##### 17-02-2022
 * [How China captured Hollywood](https://www.theatlantic.com/international/archive/2022/02/china-captured-hollywood/621618/) #china #cinema #insight #business #paradox
 
-##### 28-02-2022
+##### 26-02-2022
 * [Jack London’s Candid 1903 Advice to Writers Trying to Get Into Print](https://slate.com/human-interest/2015/07/jack-london-the-author-s-writing-advice.html) #advice #literature #insight
+  
+#### 27-02-2022
+* [You Can Learn to Love Being Alone](https://www.nytimes.com/2022/02/24/well/live/solitude-benefit-mental-health-advice.html) #insight #nytimes
 </p>
 </details>
