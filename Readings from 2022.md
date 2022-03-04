@@ -35,3 +35,10 @@
 * [You Can Learn to Love Being Alone](https://www.nytimes.com/2022/02/24/well/live/solitude-benefit-mental-health-advice.html) #insight #nytimes
 </p>
 </details>
+<details><summary>March</summary>
+
+##### 4-01-2021
+* [What Was the TED Talk?](https://www.thedriftmag.com/what-was-the-ted-talk/) #insight #ideas #thedriftmag
+  
+</p>
+</details>
