@@ -1,12 +1,12 @@
 <details><summary>January</summary>
 
-##### 7-01-2021
+##### 7-01-2022
 * [How Disgust Explains Everything](https://www.nytimes.com/2021/12/27/magazine/disgust-science.html) #science #psychology #insight
 
-##### 14-01-2021
+##### 14-01-2022
 * [Economists Pin More Blame on Tech for Rising Inequality](https://www.nytimes.com/2022/01/11/technology/income-inequality-technology.html) #economics #tech #insight
   
-##### 22-01-2021
+##### 22-01-2022
 * [Beauty filters are changing the way young girls see themselves](https://www.technologyreview.com/2021/04/02/1021635/beauty-filters-young-girls-augmented-reality-social-media/) #ai #tech #insight #psychology #culture
   
 </p>
@@ -37,8 +37,10 @@
 </details>
 <details><summary>March</summary>
 
-##### 4-01-2021
+##### 4-01-2022
 * [What Was the TED Talk?](https://www.thedriftmag.com/what-was-the-ted-talk/) #insight #ideas #thedriftmag
   
+#### 7-03-22
+* [Apple may have finally gotten too big for its unusual corporate structure](https://www.vox.com/new-money/2016/11/27/13706776/apple-functional-divisional) #insight #paradox #corporate #economy
 </p>
 </details>
