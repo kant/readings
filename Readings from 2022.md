@@ -42,5 +42,8 @@
   
 #### 7-03-22
 * [Apple may have finally gotten too big for its unusual corporate structure](https://www.vox.com/new-money/2016/11/27/13706776/apple-functional-divisional) #insight #paradox #corporate #economy
+
+#### 10-03-22
+ * [How Air Pollution Across America Reflects Racist Policy From the 1930s](https://www.nytimes.com/2022/03/09/climate/redlining-racism-air-pollution.html) #insight #racism #pollution #social #science
 </p>
 </details>
