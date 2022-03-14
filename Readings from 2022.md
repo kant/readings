@@ -45,5 +45,8 @@
 
 #### 10-03-22
  * [How Air Pollution Across America Reflects Racist Policy From the 1930s](https://www.nytimes.com/2022/03/09/climate/redlining-racism-air-pollution.html) #insight #racism #pollution #social #science
+
+#### 13-03-22
+ * [How a Mystery Illness Cost One Writer a Decade of Health](https://www.nytimes.com/2022/03/01/books/review/invisible-kingdom-chronic-illness-meghan-orourke.html?action=click&algo=bandit-all-surfaces-shadow-lda-unique&alpha=0.05&block=editors_picks_recirc&fellback=false&imp_id=419340371&impression_id=3f75b568-9ff7-11ec-a483-9b38460ea997&index=2&pgtype=Article&pool=pool%2Fe76d7165-92f7-4bd2-bc6e-298322d3680a&region=footer&req_id=792060054&shadow_vec_sim=0&surface=eos-home-featured&variant=1_bandit-shadow-lda-unique-alpha-0.05) #insight #racism #disease #health #science
 </p>
 </details>
