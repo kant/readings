@@ -54,5 +54,8 @@
 
 #### 23-03-2022
   * [The story of Playdate](https://panic.com/blog/the-story-of-playdate/) #idea #development #product #gestalt #design #ethos
+  
+#### 24-03-2022
+  * [Russia has already lost](https://www.thedrive.com/the-war-zone/44592/russia-has-already-lost) #insight #strategy #war #logistics #ethos
 </p>
 </details>
