@@ -57,5 +57,8 @@
   
 #### 24-03-2022
   * [Russia has already lost](https://www.thedrive.com/the-war-zone/44592/russia-has-already-lost) #insight #strategy #war #logistics #ethos
+  
+#### 29-03-2022
+  * [How we make sense of Time](https://www.nytimes.com/2021/12/31/us/new-years-time-sense.html) #insight #time #music
 </p>
 </details>
