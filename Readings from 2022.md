@@ -1,3 +1,4 @@
+
 <details><summary>January</summary>
 
 ##### 7-01-2022
@@ -62,3 +63,11 @@
   * [How we make sense of Time](https://www.nytimes.com/2021/12/31/us/new-years-time-sense.html) #insight #time #music
 </p>
 </details>
+<details><summary>April</summary>
+
+##### 9-04-2022
+* [Germany Reckons With Wagner: Cultural Jewel, or National Shame?](https://www.nytimes.com/2022/04/08/arts/music/wagner-exhibition-deutsches-historisches-museum.html) #music #legacy #insight #wagner
+  
+</p>
+</details>
+
