@@ -68,6 +68,8 @@
 ##### 9-04-2022
 * [Germany Reckons With Wagner: Cultural Jewel, or National Shame?](https://www.nytimes.com/2022/04/08/arts/music/wagner-exhibition-deutsches-historisches-museum.html) #music #legacy #insight #wagner
   
+#### 17-04-2022
+* [How Nadia Boulanger Raised a Generation of Composers](https://www.youtube.com/watch?v=dCGLeOMYcQM) #music #insight #theory #ideas
 </p>
 </details>
 
