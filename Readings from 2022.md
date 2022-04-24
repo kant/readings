@@ -70,6 +70,9 @@
   
 #### 17-04-2022
 * [How Nadia Boulanger Raised a Generation of Composers](https://www.youtube.com/watch?v=dCGLeOMYcQM) #music #insight #theory #ideas
+  
+#### 23-04-2022
+* [How regret tell us](https://nautil.us/what-regret-tells-us-16264/) #science #neurosciences #insight #behaviour #social
 </p>
 </details>
 
