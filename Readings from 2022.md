@@ -72,10 +72,13 @@
 * [How Nadia Boulanger Raised a Generation of Composers](https://www.youtube.com/watch?v=dCGLeOMYcQM) #music #insight #theory #ideas
   
 #### 23-04-2022
-* [How regret tell us](https://nautil.us/what-regret-tells-us-16264/) #science #neurosciences #insight #behaviour #social
+* [What Regret Tells Us](https://nautil.us/what-regret-tells-us-16264/) #science #neurosciences #insight #behaviour #social
 
 #### 26-04-2022
 * [An ocean of noise: how sonic pollution is hurting marine life](https://www.theguardian.com/environment/2022/apr/12/ocean-of-noise-sonic-pollution-hurting-marine-life) #insight #environment #the_guardian #ocean #sonic #pollution
+  
+#### 27-04-2022
+* [Robots Show Us Who We Are](https://nautil.us/robots-show-us-who-we-are-15761/) #insight #ideas #ai
 </p>
 </details>
 
