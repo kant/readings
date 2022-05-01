@@ -79,6 +79,9 @@
   
 #### 27-04-2022
 * [Robots Show Us Who We Are](https://nautil.us/robots-show-us-who-we-are-15761/) #insight #ideas #ai
+
+#### 30-04-2022
+* [Russia Is Being Hacked at an Unprecedented Scale](https://www.wired.co.uk/article/russia-hacked-attacks) #DDoS #Russia #cyberwar #security
 </p>
 </details>
 
