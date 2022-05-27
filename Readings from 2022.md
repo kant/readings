@@ -94,6 +94,9 @@
   
 #### 15-05-2022
 * [Love is biological bribery](https://nautil.us/love-is-biological-bribery-14058/) #science #evolution #insight
+
+#### 27-05-2022
+* [What cold-water swimming taught me about mindfulness](https://www.outsideonline.com/outdoor-adventure/water-activities/cold-water-swimming-mindfulness/) #mind #nature #swimming #self-perception
   
 </p>
 </details>
