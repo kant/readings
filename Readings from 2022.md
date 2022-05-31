@@ -97,6 +97,9 @@
 
 #### 27-05-2022
 * [What cold-water swimming taught me about mindfulness](https://www.outsideonline.com/outdoor-adventure/water-activities/cold-water-swimming-mindfulness/) #mind #nature #swimming #self-perception
+
+#### 31-05-2022
+* [Did cars rescue our cities from horses?](https://nautil.us/did-cars-rescue-our-cities-from-horses-13130/)
   
 </p>
 </details>
