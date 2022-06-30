@@ -108,6 +108,10 @@
 ##### 15-06-2022
 * [How to Design a Product That Is Easy to Repair](https://www.wsj.com/articles/design-repairable-products-consumers-11653506069) #sustainability #marketing #insight
 * [Colorado Fixes Wheelchair Repair with New Bill](https://www.nytimes.com/2022/01/11/technology/income-inequality-technology.html](https://www.ifixit.com/News/60846/colorado-fixes-wheelchair-repair-with-new-bill)) #inequality #tech #disabilities
+
+#### 30-06-2022
+* [The History of CTRL + ALT + DELETE](https://www.mentalfloss.com/article/51674/history-ctrl-alt-delete?utm_source=digg) #insight #IBM #Gates #Microsoft #history
+  
   
 </p>
 </details>
