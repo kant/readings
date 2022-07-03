@@ -111,7 +111,14 @@
 
 #### 30-06-2022
 * [The History of CTRL + ALT + DELETE](https://www.mentalfloss.com/article/51674/history-ctrl-alt-delete?utm_source=digg) #insight #IBM #Gates #Microsoft #history
-  
+
+</p>
+</details>
+<details><summary>July</summary>
+
+##### 03-07-2022
+* [The Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect) #economy #theory #insight
+
   
 </p>
 </details>
