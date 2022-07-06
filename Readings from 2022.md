@@ -118,6 +118,9 @@
 
 ##### 03-07-2022
 * [The Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect) #economy #theory #insight
+  
+#### 06-07-2022
+* [Japan’s secret to taming the coronavirus: peer pressure](https://www.japantimes.co.jp/news/2022/07/03/national/japan-coronavirus-peer-pressure/) #sociology #covid #social_science
 
   
 </p>
