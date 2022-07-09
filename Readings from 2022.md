@@ -122,6 +122,9 @@
 #### 06-07-2022
 * [Japan’s secret to taming the coronavirus: peer pressure](https://www.japantimes.co.jp/news/2022/07/03/national/japan-coronavirus-peer-pressure/) #sociology #covid #social_science
 
+#### 08-07-2022
+* [The Island That Humans Can’t Conquer](https://hakaimagazine.com/features/the-island-humans-cant-conquer/) #nature #history #politics
+
   
 </p>
 </details>
