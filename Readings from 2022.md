@@ -127,6 +127,9 @@
 
 #### 11-07-2022
 * [A New Database Reveals How Much Humans Are Messing With Evolution](https://www.wired.co.uk/article/database-humans-messing-with-evolution) #science #insight #evolution
+  
+### 14-07-2022
+ * [The Well-Tempered Synthesizer. Wendy Carlos’s music of the spheres](https://harpers.org/archive/2020/10/the-well-tempered-synthesizer-wendy-carlos-amanda-swell/) #music #review #Bach #synth #insight
 </p>
 </details>
 
