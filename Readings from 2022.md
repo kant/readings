@@ -135,4 +135,9 @@
  * [The World Can’t Wean Itself Off Chinese Lithium](https://www.wired.co.uk/article/china-lithium-mining-production#intcid=_wired-uk-bottom-recirc_82070e90-515c-4db0-ab8b-32b273b89352_similar2-3) #economics #china #lithium #ecology
 </p>
 </details>
+<details><summary>August</summary>
 
+  ##### 02-08-2022
+ * [For decades, cartographers have been hiding covert illustrations inside of Switzerland’s official maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/) #maps #cartography #hidden
+</p>
+</details>
