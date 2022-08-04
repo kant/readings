@@ -139,5 +139,7 @@
 
   ##### 02-08-2022
  * [For decades, cartographers have been hiding covert illustrations inside of Switzerland’s official maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/) #maps #cartography #hidden
+  
+ * [‘Mind-blowing’: Why do men’s paintings cost 10 times more than women’s?](https://www.theguardian.com/artanddesign/2022/aug/02/painting-gender-pay-gap-recalculating-art) #insight #art #marketing 
 </p>
 </details>
