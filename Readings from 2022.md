@@ -144,5 +144,8 @@
   
 #### 20-08-2022
   * [The Rise of the Worker Productivity Score](https://www.nytimes.com/interactive/2022/08/14/business/worker-productivity-tracking.html) #work #insight 
+
+#### 25-08-2022
+  * [A Reply to Christopher Hamacher's "Zen Has No Morals!"](https://www.thezensite.com/ZenEssays/CriticalZen/A_Reply_to_Christopher_Hammacher.html) #zen #insight #buddhism
 </p>
 </details>
