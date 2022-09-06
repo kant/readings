@@ -147,5 +147,8 @@
 
 #### 25-08-2022
   * [A Reply to Christopher Hamacher's "Zen Has No Morals!"](https://www.thezensite.com/ZenEssays/CriticalZen/A_Reply_to_Christopher_Hammacher.html) #zen #insight #buddhism
+  
+#### 30-08-2022
+  * [A Star Maestro, fighting brain cancer, finds Peace in Music](https://www.nytimes.com/2022/08/30/arts/music/michael-tilson-thomas-tanglewood.html) #music #insight #buddhism
 </p>
 </details>
