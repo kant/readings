@@ -152,3 +152,10 @@
   * [A Star Maestro, fighting brain cancer, finds Peace in Music](https://www.nytimes.com/2022/08/30/arts/music/michael-tilson-thomas-tanglewood.html) #music #insight #buddhism
 </p>
 </details>
+<details><summary>September</summary>
+
+##### 16-09-2022
+* [Billionaire No More: Patagonia Founder Gives Away the Company](https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html?searchResultPosition=7) #patagonia #environment #insight #capitalism #disruption #lateral_thinking
+  
+</p>
+</details>
