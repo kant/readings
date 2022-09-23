@@ -156,8 +156,13 @@
 
 ##### 16-09-2022
 * [Billionaire No More: Patagonia Founder Gives Away the Company](https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html?searchResultPosition=7) #patagonia #environment #insight #capitalism #disruption #lateral_thinking
-  
+
+##### 22-09-2022
 * [The animal translators](https://www.nytimes.com/2022/08/30/science/translators-animals-naked-mole-rats.html?action=click&module=RelatedLinks&pgtype=Article) #insight #animals #nature #machine_learning
+  
+##### 23-09-2022
+* [Ashram Tapes: The devotional music of Alice Coltrane Turiyasangitananda](https://ashramtapes.com/)#music #documentary
+  
   
 </p>
 </details>
