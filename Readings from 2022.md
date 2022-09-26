@@ -161,8 +161,10 @@
 * [The animal translators](https://www.nytimes.com/2022/08/30/science/translators-animals-naked-mole-rats.html?action=click&module=RelatedLinks&pgtype=Article) #insight #animals #nature #machine_learning
   
 ##### 23-09-2022
-* [Ashram Tapes: The devotional music of Alice Coltrane Turiyasangitananda](https://ashramtapes.com/)#music #documentary
+* [Ashram Tapes: The devotional music of Alice Coltrane Turiyasangitananda](https://ashramtapes.com/) #music #documentary
   
-  
+##### 26-09-2022
+* [How Coltrane broke "My favorite things"](https://www.youtube.com/watch?v=Bg1RGmyl-_A&ab_channel=Polyphonic)) #music #documentary #insight
+* 
 </p>
 </details>
