@@ -165,6 +165,8 @@
   
 ##### 26-09-2022
 * [How Coltrane broke "My favorite things"](https://www.youtube.com/watch?v=Bg1RGmyl-_A&ab_channel=Polyphonic)) #music #documentary #insight
-* 
+
+##### 28-09-22
+* [The most feared song in jazz, explained](https://www.youtube.com/watch?v=62tIvfP9A2w) #coltrane #chord #insight #creativity #disruption
 </p>
 </details>
