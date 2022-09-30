@@ -168,5 +168,8 @@
 
 ##### 28-09-22
 * [The most feared song in jazz, explained](https://www.youtube.com/watch?v=62tIvfP9A2w) #coltrane #chord #insight #creativity #disruption
+  
+##### 30-09-22
+* [Can Smartphones Help Predict Suicide?](https://www.youtube.com/watch?v=62tIvfP9A2w) #behavior #health #insight #data #disruption
 </p>
 </details>
