@@ -166,18 +166,23 @@
 ##### 26-09-2022
 * [How Coltrane broke "My favorite things"](https://www.youtube.com/watch?v=Bg1RGmyl-_A&ab_channel=Polyphonic)) #music #documentary #insight
 
-##### 28-09-22
+##### 28-09-2022
 * [The most feared song in jazz, explained](https://www.youtube.com/watch?v=62tIvfP9A2w) #coltrane #chord #insight #creativity #disruption
   
-##### 30-09-22
+##### 30-09-2022
 * [Can Smartphones Help Predict Suicide?](https://www.youtube.com/watch?v=62tIvfP9A2w) #behavior #health #insight #data #disruption
 </p>
 </details>
 <details><summary>November</summary>
 
 ##### 4-11-2022
-* [Are Metal Fans Angrier than Jazz Fans? A Genre-Wise Exploration of the Emotional Language of Music Listeners on Reddit]([https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html?searchResultPosition=7](https://research.deezer.com/publication/2021/11/07/ismir-mishra.html)) #emotional #machine_learning #insight #research #reddit
+* [Are Metal Fans Angrier than Jazz Fans? A Genre-Wise Exploration of the Emotional Language of Music Listeners on Reddit](https://research.deezer.com/publication/2021/11/07/ismir-mishra.html) #emotional #machine_learning #insight #research #reddit
 
+##### 28-11-2022
+* [AI experts are increasingly afraid of what they’re creating](https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction)) #ai #paradigm #insight #creativity #disruption #paradox
+
+* [Lawsuit Takes Aim at the Way A.I. Is Built](https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html) #paradox #github #lawsuit #copyright #law
+  
 
 </p>
 </details>
