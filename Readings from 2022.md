@@ -182,7 +182,13 @@
 * [AI experts are increasingly afraid of what they’re creating](https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction)) #ai #paradigm #insight #creativity #disruption #paradox
 
 * [Lawsuit Takes Aim at the Way A.I. Is Built](https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html) #paradox #github #lawsuit #copyright #law
-  
+</p>
+</details>
+<details><summary>December</summary>
+
+##### 1-12-2022
+* [Strange coincidences: Are they fluke events or acts of God?](https://www.latimes.com/california/story/2022-12-01/how-coincidences-help-us-make-sense-of-the-world) #insight #serendipity 
+  ##### 28-11-2022
 
 </p>
 </details>
