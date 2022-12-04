@@ -188,7 +188,9 @@
 
 ##### 1-12-2022
 * [Strange coincidences: Are they fluke events or acts of God?](https://www.latimes.com/california/story/2022-12-01/how-coincidences-help-us-make-sense-of-the-world) #insight #serendipity 
-  ##### 28-11-2022
+
+##### 3-11-2022
+* [Apple Tracks You More Than You Think](https://www.wired.co.uk/article/apple-iphone-privacy-analytics-security-roundup) #security #insight #tracking #cybersecurity
 
 </p>
 </details>
