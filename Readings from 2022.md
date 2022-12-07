@@ -191,6 +191,9 @@
 
 ##### 3-12-2022
 * [Apple Tracks You More Than You Think](https://www.wired.co.uk/article/apple-iphone-privacy-analytics-security-roundup) #security #insight #tracking #cybersecurity
+  
+#### 6-12-2022
+* [‘Nobody knows what’s wrong with me’ – life with an undiagnosed condition](https://www.theguardian.com/lifeandstyle/2022/dec/06/nobody-knows-what-is-wrong-with-me-life-with-an-undiagnosed-condition) #health #inmune #condition
 
 </p>
 </details>
