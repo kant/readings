@@ -195,5 +195,8 @@
 #### 6-12-2022
 * [‘Nobody knows what’s wrong with me’ – life with an undiagnosed condition](https://www.theguardian.com/lifeandstyle/2022/dec/06/nobody-knows-what-is-wrong-with-me-life-with-an-undiagnosed-condition) #health #inmune #condition
 
+### 9-12-2022
+* [We Can Cure Disease by Editing a Person’s DNA. Why Aren’t We?](https://www.nytimes.com/2022/12/09/opinion/crispr-gene-editing-cures.html) #DNA #Health
+
 </p>
 </details>
