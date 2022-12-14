@@ -199,6 +199,9 @@
 * [We Can Cure Disease by Editing a Person’s DNA. Why Aren’t We?](https://www.nytimes.com/2022/12/09/opinion/crispr-gene-editing-cures.html) #DNA #Health
 
 ### 10-12-2022
-* [Our 14,400-Year-Old Relationship with Bread](https://blogs.scientificamerican.com/anthropology-in-practice/our-14-400-year-old-relationship-with-bread/) #science #insight #history #bread #smithsonian 
+* [Our 14,400-Year-Old Relationship with Bread](https://blogs.scientificamerican.com/anthropology-in-practice/our-14-400-year-old-relationship-with-bread/) #science #insight #history #bread #smithsonian
+
+### 13-12-2022
+* [The AI Team that Brought Back Andy Warhol](https://www.frieze.com/article/ai-team-brought-back-andy-warhol) #ai #art #recreation
 </p>
 </details>
