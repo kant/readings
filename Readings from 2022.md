@@ -203,5 +203,8 @@
 
 ### 13-12-2022
 * [The AI Team that Brought Back Andy Warhol](https://www.frieze.com/article/ai-team-brought-back-andy-warhol) #ai #art #recreation
+
+### 14-12-2022
+* [Why 21 cm is the magic length for the Universe](https://bigthink.com/starts-with-a-bang/21cm-magic-length/?utm_source=pocket_discover_science) #science #insight #universe
 </p>
 </details>
