@@ -206,5 +206,8 @@
 
 ### 14-12-2022
 * [Why 21 cm is the magic length for the Universe](https://bigthink.com/starts-with-a-bang/21cm-magic-length/?utm_source=pocket_discover_science) #science #insight #universe
+
+### 15-12-2022
+* [How an Early Oil Industry Study Became Key in Climate Lawsuits](https://e360.yale.edu/features/climate-lawsuits-oil-industry-research?utm_source=pocket_discover_science) #environment #yale #law #science
 </p>
 </details>
