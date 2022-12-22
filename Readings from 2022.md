@@ -209,5 +209,8 @@
 
 ### 15-12-2022
 * [How an Early Oil Industry Study Became Key in Climate Lawsuits](https://e360.yale.edu/features/climate-lawsuits-oil-industry-research?utm_source=pocket_discover_science) #environment #yale #law #science
+ 
+### 21-12-2022
+* [How digital technology is helping decode the sounds of Nature](https://e360.yale.edu/features/bioacoustics-nature-sounds-digital-technology) #sound #nature #decode
 </p>
 </details>
