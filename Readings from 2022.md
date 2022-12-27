@@ -212,5 +212,8 @@
  
 ### 21-12-2022
 * [How digital technology is helping decode the sounds of Nature](https://e360.yale.edu/features/bioacoustics-nature-sounds-digital-technology) #sound #nature #decode
+  
+### 26-12-2022
+* [How Anger Affects the Body](https://www.nytimes.com/2022/12/17/style/anger-body-health-effects.html) #emotion #body #brain #insight
 </p>
 </details>
