@@ -215,5 +215,8 @@
   
 ### 26-12-2022
 * [How Anger Affects the Body](https://www.nytimes.com/2022/12/17/style/anger-body-health-effects.html) #emotion #body #brain #insight
+  
+### 29-12-2022
+* [Why do the rich get richer — even during global crises?](https://www.aljazeera.com/features/2022/12/27/why-do-the-rich-get-richer-even-during-global) #economics #insight #pandemic
 </p>
 </details>
