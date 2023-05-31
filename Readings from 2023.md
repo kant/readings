@@ -35,5 +35,8 @@
 #### 29-05-2023
 * [The Finnish Secret to Happiness? Knowing When You Have Enough](https://www.nytimes.com/2023/04/01/world/europe/finland-happiness-optimism.html?action=click&module=card&pageType=theWeekenderLink) #insight #social #sociology #mindset
   
+#### 31-05-2023
+* [You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?](https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt) #AI #insight #machine-learning
+  
 </p>
 </details>
