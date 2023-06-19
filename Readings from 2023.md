@@ -40,3 +40,10 @@
   
 </p>
 </details>
+<details><summary>June</summary>
+
+##### 19-06-2023
+* [Gratitude Really is Good for You. Here’s What the Science Shows.](https://www.nytimes.com/2023/06/08/well/mind/gratitude-health-benefits.html?action=click&module=Well&pgtype=Homepage&section=Well) #science #insight #mindset
+  
+</p>
+</details>
