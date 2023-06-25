@@ -42,11 +42,13 @@
 </details>
 <details><summary>June</summary>
 
-##### 19-06-2023
+#### 19-06-2023
 * [Gratitude Really is Good for You. Here’s What the Science Shows.](https://www.nytimes.com/2023/06/08/well/mind/gratitude-health-benefits.html?action=click&module=Well&pgtype=Homepage&section=Well) #science #insight #mindset
 
-##### 22-06-2023
+#### 22-06-2023
 * [How slavery changed the Guardian, Britain and the world](https://www.theguardian.com/news/series/cotton-capital) #slavery #insight #economics #social
-  
+
+#### 24-06-2023
+* [The moral crisis of America's doctors](https://www.nytimes.com/2023/06/15/magazine/doctors-moral-crises.html)
 </p>
 </details>
