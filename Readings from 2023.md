@@ -2,7 +2,7 @@
 <details><summary>January</summary>
 
 ##### 7-01-2023
-* [Does true kindness have to be selfless?](https://www.theguardian.com/books/2022/dec/26/the-big-idea-does-true-kindness-have-to-be-selfless)) #kindness #psychology #insight
+* [Does true kindness have to be selfless?](https://www.theguardian.com/books/2022/dec/26/the-big-idea-does-true-kindness-have-to-be-selfless) #kindness #psychology #insight
   
 </p>
 </details>
@@ -50,5 +50,12 @@
 
 #### 24-06-2023
 * [The moral crisis of America's doctors](https://www.nytimes.com/2023/06/15/magazine/doctors-moral-crises.html)
+</p>
+</details>
+<details><summary>July</summary>
+
+##### 7-01-2023
+* [Why the super rich are inevitable](https://pudding.cool/2022/12/yard-sale/) #economy #psychology #insight
+  
 </p>
 </details>
