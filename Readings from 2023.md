@@ -54,8 +54,11 @@
 </details>
 <details><summary>July</summary>
 
-##### 7-01-2023
+##### 7-07-2023
 * [Why the super rich are inevitable](https://pudding.cool/2022/12/yard-sale/) #economy #psychology #insight
+
+#### 11-07-2023
+* [Crows and magpies using anti-bird spikes to build nests](https://www.theguardian.com/science/2023/jul/11/crows-and-magpies-show-their-metal-by-using-anti-bird-spikes-to-build-nests) #science #evolution #crows #magpies #science
   
 </p>
 </details>
