@@ -59,6 +59,9 @@
 
 #### 11-07-2023
 * [Crows and magpies using anti-bird spikes to build nests](https://www.theguardian.com/science/2023/jul/11/crows-and-magpies-show-their-metal-by-using-anti-bird-spikes-to-build-nests) #science #evolution #crows #magpies #science
+
+#### 13-07-2023
+* [What Intense Rituals Signal to Your Brain](https://nautil.us/what-intense-rituals-signal-to-your-brain-323519/) #science #anthropology #social #ritual
   
 </p>
 </details>
