@@ -65,3 +65,12 @@
   
 </p>
 </details>
+<details><summary>August</summary>
+
+##### 15-08-2023
+* [How Digital Technology Is Helping Decode the Sounds of Nature](https://e360.yale.edu/features/bioacoustics-nature-sounds-digital-technology) #ecology #nature #sounds #nature 
+
+
+  
+</p>
+</details>
