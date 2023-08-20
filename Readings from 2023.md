@@ -67,10 +67,11 @@
 </details>
 <details><summary>August</summary>
 
-##### 15-08-2023
+#### 15-08-2023
 * [How Digital Technology Is Helping Decode the Sounds of Nature](https://e360.yale.edu/features/bioacoustics-nature-sounds-digital-technology) #ecology #nature #sounds #nature 
 
-
+#### 20-08-2023
+* [The end of work: which jobs will survive the AI revolution?](https://www.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution) #insight #sociology #creativity #economy #ideas
   
 </p>
 </details>
