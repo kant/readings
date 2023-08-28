@@ -72,6 +72,10 @@
 
 #### 20-08-2023
 * [The end of work: which jobs will survive the AI revolution?](https://www.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution) #insight #sociology #creativity #economy #ideas
+
+#### 28-08-2023
+* [why we need to learn to fail better](https://www.theguardian.com/books/2023/aug/28/the-big-idea-why-we-need-to-learn-to-fail-better) #failure #insight #theguardian
+
   
 </p>
 </details>
