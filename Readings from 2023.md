@@ -74,8 +74,12 @@
 * [The end of work: which jobs will survive the AI revolution?](https://www.theguardian.com/books/2023/aug/19/the-end-of-work-which-jobs-will-survive-the-ai-revolution) #insight #sociology #creativity #economy #ideas
 
 #### 28-08-2023
-* [why we need to learn to fail better](https://www.theguardian.com/books/2023/aug/28/the-big-idea-why-we-need-to-learn-to-fail-better) #failure #insight #theguardian
+* [why we need to learn to fail better](https://www.theguardian.com/books/2023/aug/28/the-big-idea-why-we-need-to-learn-to-fail-better) #failure #insight #theguardian  
+</p>
+</details>
+<details><summary>September</summary>
 
-  
+#### 23-09-2023
+* [How A Small Team of Developers Created React.js at Facebook](https://www.youtube.com/watch?v=8pDqJVdNa44&ab_channel=Honeypot) #technology #Facebook #framework #evolution 
 </p>
 </details>
