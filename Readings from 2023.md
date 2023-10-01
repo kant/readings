@@ -80,6 +80,9 @@
 <details><summary>September</summary>
 
 #### 23-09-2023
-* [How A Small Team of Developers Created React.js at Facebook](https://www.youtube.com/watch?v=8pDqJVdNa44&ab_channel=Honeypot) #technology #Facebook #framework #evolution 
+* [How A Small Team of Developers Created React.js at Facebook](https://www.youtube.com/watch?v=8pDqJVdNa44&ab_channel=Honeypot) #technology #Facebook #framework #evolution
+
+#### 30-09-2023
+* [The worth of wild ideas](https://nautil.us/the-worth-of-wild-ideas-399097/) #ideas #integrated #information #theory #science #insight  
 </p>
 </details>
