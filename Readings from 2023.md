@@ -86,3 +86,10 @@
 * [The worth of wild ideas](https://nautil.us/the-worth-of-wild-ideas-399097/) #ideas #integrated #information #theory #science #insight  
 </p>
 </details>
+<details><summary>October</summary>
+
+#### 18-10-2023
+* [Could we use music like medicine?](https://www.theguardian.com/books/2023/sep/18/the-big-idea-could-we-use-music-like-medicine) #music #health #insight #evolution
+
+</p>
+</details>
