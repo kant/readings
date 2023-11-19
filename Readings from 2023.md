@@ -93,3 +93,10 @@
 
 </p>
 </details>
+<details><summary>November</summary>
+
+##### 18-11-2023
+* [Second Genesis: When a Tribute Band Transcends the Original](https://thewalrus.ca/second-genesis-when-a-tribute-band-transcends-the-original/) #music #insight
+  
+</p>
+</details>
