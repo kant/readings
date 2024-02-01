@@ -6,3 +6,10 @@
   
 </p>
 </details>
+<details><summary>February</summary>
+
+##### 1-02-2023
+* [On plagiarism](https://tetragrammaton.squarespace.com/articles/plagiarism-m69kk) (password: `takeabreath`) #history #ideas #insight  #analysis
+  
+</p>
+</details>
