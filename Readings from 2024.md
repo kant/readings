@@ -10,6 +10,8 @@
 
 ##### 1-02-2023
 * [On plagiarism](https://tetragrammaton.squarespace.com/articles/plagiarism-m69kk) (password: `takeabreath`) #history #ideas #insight  #analysis
-  
+
+##### 4-02-2024
+* [Music painted on the wall of a Venetian orphanage will be heard again nearly 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995) #music #history
 </p>
 </details>
