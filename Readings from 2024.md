@@ -13,5 +13,8 @@
 
 ##### 4-02-2024
 * [Music painted on the wall of a Venetian orphanage will be heard again nearly 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995) #music #history
+
+##### 24-02-2023
+* [The world capital of endangered languages](https://www.nytimes.com/interactive/2024/02/22/magazine/endangered-languages-nyc.html) (password: `takeabreath`) #history #ideas #insight  #analysis 
 </p>
 </details>
