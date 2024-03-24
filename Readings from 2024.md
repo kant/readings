@@ -18,3 +18,10 @@
 * [The world capital of endangered languages](https://www.nytimes.com/interactive/2024/02/22/magazine/endangered-languages-nyc.html) (password: `takeabreath`) #history #ideas #insight  #analysis 
 </p>
 </details>
+<details><summary>March</summary>
+
+##### 24-03-2023
+* [What conductors are really doing](https://www.youtube.com/watch?v=diwV2HGKerE&ab_channel=WIRED) #legato #insight #music #analysis
+  
+</p>
+</details>
