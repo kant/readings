@@ -22,6 +22,8 @@
 
 ##### 24-03-2023
 * [What conductors are really doing](https://www.youtube.com/watch?v=diwV2HGKerE&ab_channel=WIRED) #legato #insight #music #analysis
-  
+
+##### 29-03-2023
+* [Chills and thrills: why some people love music – and others don’t](https://theconversation.com/chills-and-thrills-why-some-people-love-music-and-others-dont-24007) #insight #music #analysis #inner_feelings 
 </p>
 </details>
