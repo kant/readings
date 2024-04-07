@@ -27,3 +27,10 @@
 * [Chills and thrills: why some people love music – and others don’t](https://theconversation.com/chills-and-thrills-why-some-people-love-music-and-others-dont-24007) #insight #music #analysis #inner_feelings 
 </p>
 </details>
+<details><summary>April</summary>
+
+##### 6-04-2024
+* [The Work Of This Clandestine Army Unit That Used Guile To Fight The Nazis Is Highly Relevant Again](https://www.twz.com/news-features/the-work-of-this-clandestine-army-unit-that-used-guile-to-fight-the-nazis-is-highly-relevant-again) #war #disguise #history #analysis
+
+</p>
+</details>
