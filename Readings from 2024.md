@@ -32,5 +32,8 @@
 ##### 6-04-2024
 * [The Work Of This Clandestine Army Unit That Used Guile To Fight The Nazis Is Highly Relevant Again](https://www.twz.com/news-features/the-work-of-this-clandestine-army-unit-that-used-guile-to-fight-the-nazis-is-highly-relevant-again) #war #disguise #history #analysis
 
+##### 15-04-2024
+* [30 Years of American Anxieties](https://pudding.cool/2018/11/dearabby/) #data #visualization 
+
 </p>
 </details>
