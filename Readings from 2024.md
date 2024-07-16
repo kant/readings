@@ -37,3 +37,10 @@
 
 </p>
 </details>
+</details>
+<details><summary>July</summary>
+
+##### 16-07-2024
+* [To remember, the Brain must actively forget](https://www.quantamagazine.org/to-remember-the-brain-must-actively-forget-20180724/) #physiology #health #neural #cognitive #cognition #insight
+</p>
+</details>
