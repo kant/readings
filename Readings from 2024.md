@@ -42,5 +42,8 @@
 
 ##### 16-07-2024
 * [To remember, the Brain must actively forget](https://www.quantamagazine.org/to-remember-the-brain-must-actively-forget-20180724/) #physiology #health #neural #cognitive #cognition #insight
+
+##### 19-07-2024
+* [La belleza de pensar: Alejandro Aravena](https://www.youtube.com/watch?v=6ZfOR9HTLp8&ab_channel=Tranquilotv) #architecture #ideas #insight
 </p>
 </details>
