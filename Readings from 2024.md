@@ -37,7 +37,6 @@
 
 </p>
 </details>
-</details>
 <details><summary>July</summary>
 
 ##### 16-07-2024
@@ -45,5 +44,11 @@
 
 ##### 19-07-2024
 * [La belleza de pensar: Alejandro Aravena](https://www.youtube.com/watch?v=6ZfOR9HTLp8&ab_channel=Tranquilotv) #architecture #ideas #insight
+</p>
+</details>
+<details><summary>August</summary>
+
+##### 9-08-2024
+* [Watch a video showing what happens in our brains when we think](https://www.technologyreview.com/2024/08/09/1095969/video-what-happens-when-we-think/) #neurology  #health #neural #cognitive #cognition #brains #insight
 </p>
 </details>
