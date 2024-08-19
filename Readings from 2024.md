@@ -50,5 +50,9 @@
 
 ##### 9-08-2024
 * [Watch a video showing what happens in our brains when we think](https://www.technologyreview.com/2024/08/09/1095969/video-what-happens-when-we-think/) #neurology  #health #neural #cognitive #cognition #brains #insight
+
+##### 19-08-2024
+* [Are we all beginning to have the same taste?](https://www.theguardian.com/books/article/2024/aug/19/the-big-idea-are-we-all-beginning-to-have-the-same-taste) #music #sociology #cognitive #cognition #brains #insight
+
 </p>
 </details>
