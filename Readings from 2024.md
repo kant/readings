@@ -54,5 +54,9 @@
 ##### 19-08-2024
 * [Are we all beginning to have the same taste?](https://www.theguardian.com/books/article/2024/aug/19/the-big-idea-are-we-all-beginning-to-have-the-same-taste) #music #sociology #cognitive #cognition #brains #insight
 
+##### 29-08-2024
+* [Placebo science is rooted in witch hunts](https://nautil.us/placebo-science-is-rooted-in-witch-hunts-787338/) #health #sociology #witchcraft #cognition #insight
+
+
 </p>
 </details>
