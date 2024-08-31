@@ -57,6 +57,7 @@
 ##### 29-08-2024
 * [Placebo science is rooted in witch hunts](https://nautil.us/placebo-science-is-rooted-in-witch-hunts-787338/) #health #sociology #witchcraft #cognition #insight
 
-
+##### 31-08-2024
+* [The Simpsons' secret formula: it's written by maths geeks](https://www.theguardian.com/tv-and-radio/2013/sep/22/the-simpsons-secret-formula-maths-simon-singh) #math #script #scripting #mysteries #geeks
 </p>
 </details>
