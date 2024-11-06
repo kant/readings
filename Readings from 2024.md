@@ -68,3 +68,11 @@
 
 </p>
 </details>
+</details>
+<details><summary>November</summary>
+
+##### 6-11-2024
+* [The Sinatra song that says everything about Quincy Jones’s genius](https://www.washingtonpost.com/entertainment/music/2024/11/05/quincy-jones-sinatra/) #music #insight #pitch
+
+</p>
+</details>
