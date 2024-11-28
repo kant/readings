@@ -74,5 +74,7 @@
 ##### 6-11-2024
 * [The Sinatra song that says everything about Quincy Jones’s genius](https://www.washingtonpost.com/entertainment/music/2024/11/05/quincy-jones-sinatra/) #music #insight #pitch
 
+##### 28-11-2024
+* [Mondongo inmersivo: guiños y citas a la historia del arte en sus dos Calaveras](https://www.clarin.com/revista-n/mondongo-inmersivo-guinos-citas-historia-arte-calaveras_0_Jy08JCpYtg.html) #art #insight
 </p>
 </details>
