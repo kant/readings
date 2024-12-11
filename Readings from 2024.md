@@ -78,3 +78,11 @@
 * [Mondongo inmersivo: guiños y citas a la historia del arte en sus dos Calaveras](https://www.clarin.com/revista-n/mondongo-inmersivo-guinos-citas-historia-arte-calaveras_0_Jy08JCpYtg.html) #art #insight
 </p>
 </details>
+<details><summary>December</summary>
+
+##### 11-12-2024
+* [Distinguishing academic science writing from humans or ChatGPT with over 99% accuracy using off-the-shelf machine learning tools](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(23)00200-X) #academia #insight #ia #machine_learning
+
+
+</p>
+</details>
