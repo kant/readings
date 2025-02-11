@@ -10,6 +10,9 @@
 
 ##### 5-02-2025
 * [You liked Facebook page without knowing](https://www.youtube.com/watch?v=yQyMVAnlUFo&ab_channel=LunDev) #Facebook #trick #javascript #analysis
-  
+
+#### 11-02-2025
+* [For the Sick and Dying, Live Music to Ease the Pain](https://www.nytimes.com/2025/02/11/arts/music/music-care-hospitals-hospices-performances.html) #health #music #insight #death
+* 
 </p>
 </details>
