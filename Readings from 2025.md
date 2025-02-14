@@ -13,6 +13,9 @@
 
 #### 11-02-2025
 * [For the Sick and Dying, Live Music to Ease the Pain](https://www.nytimes.com/2025/02/11/arts/music/music-care-hospitals-hospices-performances.html) #health #music #insight #death
-* 
+  
+#### 11-02-2025
+* [‘Built to burn.’ L.A. let hillside homes multiply without learning from past mistakes](https://www.latimes.com/california/story/2025-02-09/built-to-burn-a-history-of-development-of-los-angeles-hillsides) #ecology #paradox #insight #death #failure #capitalism #latimes
+ 
 </p>
 </details>
