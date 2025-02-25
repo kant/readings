@@ -16,6 +16,9 @@
   
 #### 11-02-2025
 * [‘Built to burn.’ L.A. let hillside homes multiply without learning from past mistakes](https://www.latimes.com/california/story/2025-02-09/built-to-burn-a-history-of-development-of-los-angeles-hillsides) #ecology #paradox #insight #death #failure #capitalism #latimes
+
+#### 25-02-2025
+* [A Chain Reaction](https://overreacted.io/a-chain-reaction/) #paradox #insight #programming #failure
  
 </p>
 </details>
