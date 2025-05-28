@@ -22,3 +22,9 @@
  
 </p>
 </details>
+<details><summary>May</summary>
+
+##### 28-05-2025
+* [He studies dogs’ faces. She studies their brains](https://news.harvard.edu/gazette/story/2025/05/he-studies-dogs-faces-she-studies-their-brains/) #science #brains #insight #animal #analysis
+</p>
+</details>
