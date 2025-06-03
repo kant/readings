@@ -28,3 +28,10 @@
 * [He studies dogs’ faces. She studies their brains](https://news.harvard.edu/gazette/story/2025/05/he-studies-dogs-faces-she-studies-their-brains/) #science #brains #insight #animal #analysis
 </p>
 </details>
+</details>
+<details><summary>June</summary>
+
+##### 3-06-2025
+* [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) #science #artificial_intelligence #insight #analysis
+</p>
+</details>
