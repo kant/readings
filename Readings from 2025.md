@@ -34,6 +34,7 @@
 * [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) #science #artificial_intelligence #insight #analysis
 
 ##### 12-06-2025
-* [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) #insight #apple #machine_learning #science 
+* [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) #insight #apple #machine_learning #science
+* [When critics advance AI: How Apple's research reminds us why scrutiny matters](https://dev.to/goern/when-critics-advance-ai-how-apples-research-reminds-us-why-scrutiny-matters-48mk] #insight #apple #machine_learning #science
 </p>
 </details>
