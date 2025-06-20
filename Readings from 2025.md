@@ -36,5 +36,8 @@
 ##### 12-06-2025
 * [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) #insight #apple #machine_learning #science
 * [When critics advance AI: How Apple's research reminds us why scrutiny matters](https://dev.to/goern/when-critics-advance-ai-how-apples-research-reminds-us-why-scrutiny-matters-48mk] #insight #apple #machine_learning #science
+
+##### 20-06-25
+* [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/pdf/2506.08872) #ia #insight 
 </p>
 </details>
