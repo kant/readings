@@ -45,3 +45,10 @@
 * 
 </p>
 </details>
+<details><summary>July</summary>
+
+##### 11-07-2025
+* [How Embroidery, Piano, and French Lessons Made the First Computer Programmer](https://gizmodo.com/coding-ai-ada-lovelace-embroidery-piano-french-1850128089) #history #music #insight #analysis
+  
+</p>
+</details>
