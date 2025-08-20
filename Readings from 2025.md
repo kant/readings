@@ -52,3 +52,10 @@
   
 </p>
 </details>
+<details><summary>August</summary>
+
+##### 20-08-2025
+* [The Strange Math That Predicts (Almost) Anything](https://www.youtube.com/watch?v=KZeIEiBrT_w&ab_channel=Veritasium) #markow #science #insight #analysis
+  
+</p>
+</details>
