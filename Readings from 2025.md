@@ -59,3 +59,10 @@
   
 </p>
 </details>
+<details><summary>October</summary>
+
+##### 13-10-2025
+* [Choosing the next Dalai Lama is surprisingly dangerous](https://www.washingtonpost.com/opinions/2025/10/13/tibet-china-dalai-lama-succession/) #buddhism #dalai #lama #insight #analysis
+  
+</p>
+</details>
