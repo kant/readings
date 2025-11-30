@@ -66,3 +66,10 @@
   
 </p>
 </details>
+<details><summary>November</summary>
+
+##### 30-11-2025
+* [Nested Learning: The Illusion of Deep Learning Architectures](https://abehrouz.github.io/files/NL.pdf) #IA #insight #analysis
+  
+</p>
+</details>
