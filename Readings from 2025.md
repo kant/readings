@@ -73,3 +73,10 @@
   
 </p>
 </details>
+<details><summary>November</summary>
+
+##### 5-11-2025
+* [Cerro Torre Winter Solo](https://colinhaley.com/cerro-torre-winter-solo/) #cerro #torre #mountain
+  
+</p>
+</details>
