@@ -22,8 +22,8 @@
 </details>
 <details><summary>April</summary>
 
-##### 12-03-2026
-* [This Might Just Be The Most Remarkable Painting Ever Made](https://www.youtube.com/watch?v=lwk6NUUfyjo&list=FL_hKaLRr_l5VPSZT9Pz0p6A&index=4) #painting #insight #analysis #art
+##### 12-04-2026
+* [The shape of design](https://shapeofdesignbook.com/) #design #insight #analysis #ideas
 
 </p>
 </details>
