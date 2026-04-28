@@ -23,7 +23,7 @@
 <details><summary>April</summary>
 
 ##### 12-04-2026
-* [The shape of design](https://shapeofdesignbook.com/) #design #insight #analysis #ideas
+* [The shape of design](https://shapeofdesignbook.com/) #design #insight #analysis #ideas #culture
 
 </p>
 </details>
