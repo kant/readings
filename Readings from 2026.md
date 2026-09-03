@@ -34,5 +34,14 @@
 
 </p>
 </details>
+</details>
+<details><summary>September</summary>
+
+##### 3-09-2026
+* [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast](https://lexfridman.com/dhh-2-transcript) #design #insight #analysis #ideas #ia #technology
+
+</p>
+</details>
+
 
 
