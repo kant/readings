@@ -41,6 +41,13 @@
 
 </p>
 </details>
+<details><summary>October</summary>
+
+##### 28-10-2026
+* [Alone on Cerro Torre: The first solo winter ascent](https://publications.americanalpineclub.org/articles/13201217661) #mountains #free #solo #patagonia #climb
+
+</p>
+</details>
 
 
 
