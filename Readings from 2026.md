@@ -34,7 +34,6 @@
 
 </p>
 </details>
-</details>
 <details><summary>September</summary>
 
 ##### 3-09-2026
