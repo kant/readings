@@ -48,6 +48,12 @@
 
 </p>
 </details>
+<details><summary>November</summary>
 
+##### 3-11-2026
+* [The brain injury that made a middle-school teacher a musical genius](https://www.nytimes.com/interactive/2026/11/02/magazine/brain-injury-music-perfect-pitch-edward-freytag.html) #brain #music #science 
+
+</p>
+</details>
 
 
